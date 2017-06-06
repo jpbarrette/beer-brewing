@@ -20,6 +20,8 @@ Items to buy
 To Read
 =======
 
+* [PSA: 2-Row vs Pale malt vs Pale Ale malt](https://www.reddit.com/r/Homebrewing/comments/3d8yvz/psa_2_row_vs_pale_malt_vs_pale_ale_malt/) 
+* [Grains on the Brain](http://byo.com/mead/item/710-grain-on-the-brain)
 * Maybe: [All-Grain Brewing -- Going All-Grain: Guide to Your First Batch of All-Grain Beer](https://byo.com/newbrew/all-grain)
 * [Are Yeast Nutrients actually necessary for brewing Beer?](https://homebrew.stackexchange.com/questions/12622/are-yeast-nutrients-actually-necessary-for-brewing-beer)
  
