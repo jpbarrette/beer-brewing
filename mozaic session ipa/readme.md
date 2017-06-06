@@ -21,7 +21,7 @@ To Read
 =======
 
 * Maybe: [All-Grain Brewing -- Going All-Grain: Guide to Your First Batch of All-Grain Beer](https://byo.com/newbrew/all-grain)
-     
+* [Are Yeast Nutrients actually necessary for brewing Beer?](https://homebrew.stackexchange.com/questions/12622/are-yeast-nutrients-actually-necessary-for-brewing-beer)
  
 Recipe
 ======
