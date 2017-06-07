@@ -16,6 +16,10 @@ Items to buy
 * [Steeping Bags](https://www.morebeer.com/category/hop-grain-steeping-bags-brewing.html)
 * Maybe a muzzle for connecting to sync
      
+Things To Do
+============
+
+* Validate gravity
 
 To Read
 =======
@@ -24,7 +28,8 @@ To Read
 * [Grains on the Brain](http://byo.com/mead/item/710-grain-on-the-brain)
 * Maybe: [All-Grain Brewing -- Going All-Grain: Guide to Your First Batch of All-Grain Beer](https://byo.com/newbrew/all-grain)
 * [Are Yeast Nutrients actually necessary for brewing Beer?](https://homebrew.stackexchange.com/questions/12622/are-yeast-nutrients-actually-necessary-for-brewing-beer)
- 
+* [Diastatic Power and Mashing your Beer](http://beersmith.com/blog/2010/01/04/diastatic-power-and-mashing-your-beer/)
+
 Recipe
 ======
 
