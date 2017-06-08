@@ -9,6 +9,8 @@ Notes taken
      * [Hop Stands](https://byo.com/mead/item/2808-hop-stands)
      * [Dry Hopping: Techniques](https://byo.com/mead/item/569-dry-hopping-techniques)
      * [4 Popular Methods of Dry-Hopping Your Beer](https://learn.kegerator.com/dry-hopping/)
+     * [https://www.beeradvocate.com/community/threads/whirlpool-hopping-confusion.202960/](Whirlpool hopping confusion?)
+     * [Whirlpooling: Advanced Brewing](https://byo.com/stories/issue/item/2005-whirlpooling-advanced-brewing)
      
 Items to buy
 ===========
