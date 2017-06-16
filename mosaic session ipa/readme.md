@@ -11,7 +11,21 @@ Notes taken
      * [4 Popular Methods of Dry-Hopping Your Beer](https://learn.kegerator.com/dry-hopping/)
      * [https://www.beeradvocate.com/community/threads/whirlpool-hopping-confusion.202960/](Whirlpool hopping confusion?)
      * [Whirlpooling: Advanced Brewing](https://byo.com/stories/issue/item/2005-whirlpooling-advanced-brewing)
-     
+  
+  
+* [How to Make a Yeast starter](http://homebrewacademy.com/how-to-make-a-yeast-starter/)
+
+
+Check water
+===========
+
+TODO: complete this.
+
+10 lb of grain absorb 10 oz of water = 4.5 kg absorb 0.3 liters
+
+
+http://www.biabcalculator.com/
+  
 Items to buy
 ===========
 
@@ -26,6 +40,7 @@ Things To Do
 To Read
 =======
 
+* https://www.brewinabag.com/pages/instructions
 * [PSA: 2-Row vs Pale malt vs Pale Ale malt](https://www.reddit.com/r/Homebrewing/comments/3d8yvz/psa_2_row_vs_pale_malt_vs_pale_ale_malt/) 
 * [Grains on the Brain](http://byo.com/mead/item/710-grain-on-the-brain)
 * Maybe: [All-Grain Brewing -- Going All-Grain: Guide to Your First Batch of All-Grain Beer](https://byo.com/newbrew/all-grain)
@@ -75,12 +90,41 @@ Ingredients
 |1.00 oz               |Mosaic (HBC 369) [12.25 %] - Dry Hop 4.0 |Hop           |11       |0.0 IBUs        |
 
 
-Mash Schedule: Single Infusion, Medium Body, Batch Sparge
-Total Grain Weight: 12 lbs 6.0 oz
-----------------------------
-Name              Description                             Step Temperat Step Time     
-Mash In           Add 5.64 gal of water at 167.4 F        154.0 F       60 min        
+* Mash Schedule: Single Infusion, Medium Body, Batch Sparge
+* Total Grain Weight: 12 lbs 6.0 oz
+
+
+|Name              |Description                             |Step Temperat |Step Time   |
+|------------------|----------------------------------------|--------------|------------|
+|Mash In           |Add 5.64 gal of water at 167.4 F        |154.0 F       |60 min      |
 
 Sparge: Batch sparge with 2 steps (Drain mash tun , 4.59gal) of 168.0 F water
 Notes:
 ------
+
+
+Real Recipe
+===========
+
+Numbers taken from http://www.biabcalculator.com/
+
+Grain Bill: 3.05kg
+Grain Temp: 21C
+Batch Size: 15L
+Mash Temp: 67C
+Boil Time: 60m
+
+Kettle Size: 27L
+Trub: 0.9475 (to reevaluate)
+Boil off Rate: 4.7375L/h (to reevaluate)
+Grain Absoption: 0.375525L/kg of grain
+
+Total Water Needed: 21.83L
+Strike Water Temp: 68C
+Total Mash Volume: 23.86L
+Pre Boil Size: 20.69L
+Post Boil Size: 15.95L
+Batch Size (fermenter): 15L
+
+
+Technique used: Brew in a Bag: https://www.brewinabag.com/pages/instructions
