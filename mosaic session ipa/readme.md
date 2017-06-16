@@ -128,3 +128,52 @@ Batch Size (fermenter): 15L
 
 
 Technique used: Brew in a Bag: https://www.brewinabag.com/pages/instructions
+
+
+* Method: All Grain 
+* Style: American IPA	
+* Boil Time: 60 min 
+* Batch Size: 15 liters (fermentor volume)
+* Boil Size: 20.69 liters 
+* Boil Gravity: 1.037 (recipe based estimate) 
+* Efficiency: 80% (brew house)	
+* Source: https://www.brewersfriend.com/homebrew/recipe/view 
+* Original Gravity: 1.051 
+* Final Gravity: 1.010 
+* ABV (standard): 5.34% 
+* IBU (tinseth): 48.37
+* SRM (morey): 6.17
+
+
+Fermentables
+--------------
+
+|Amount	|Fermentable	        |PPG    |L  |Bill%  |
+|-------|-----------------------|-------|---|-------|
+|2.3 kg	| Belgian - Pale Ale	|38     |3.4|75.4%  |
+|0.5 kg | Belgian - Wheat       |38     |1.8|16.4%  |
+|0.25 kg| Belgian - Cara 20L    |34     |22 |8.2%   |
+|3.05 kg| Total	 	 	 
+
+Hops
+----
+
+|Amount |Variety  |Type    |AA   |Use               |Time   |IBU    |
+|-------|---------|--------|-----|------------------|-------|-------|
+|15 g   |Mosaic   |Pellet  |11.5 |Boil	            |15 min |17.68  |
+|15 g	|Mosaic	  |Pellet  |11.5 |Boil              |5 min	|7.1    |
+|30 g	|Mosaic	  |Pellet  |11.5 |Whirlpool at 90C	|15 min	|25     |
+|15 g	|Mosaic	  |Pellet  |11.5 |Dry Hop           |4 days |       |
+|-------|---------|--------|-----|------------------|-------|-------|
+|75 g	  |Mosaic	|Pellet|11.5| Total
+
+Yeast
+-----
+
+* White Labs - San Diego Super Yeast WLP090 
+* Attenuation (avg): 79.5%	
+* Flocculation: Med-High
+* Optimum Temp: 18.3 - 20 C	
+* Starter: Yes
+* Fermentation Temp: 18C	
+* Pitch Rate: 0.5	(M cells / ml / P); 95 B cells required
