@@ -177,3 +177,49 @@ Yeast
 * Starter: Yes
 * Fermentation Temp: 18C	
 * Pitch Rate: 0.5	(M cells / ml / P); 95 B cells required
+
+Checklist
+---------
+
+(originally taken from [brewer's friend](https://cdn2.brewersfriend.com/brewersfriend_checklist_BIAB.pdf)
+
+Double check all ingredients are on hand for recipe, including prepared yeast starter if applicable.
+
+
+### Setup and Mash
+
+1. Weigh out and mill grains.
+2. Setup brew kettle and brew bag, ensure they are clean.
+3. Make sure valves are closed on brew kettle.
+4. Fill kettle with water as recipe calls for and begin heating to strike temperature.
+5. A brewing salts as recipe calls for or to style.
+6. When mash water is ready, submerge grain bag and begin mash.
+7. ~~Place lid on kettle and~~ ensure temperature is maintained.
+8. Monitor mash temperature during mash and adjust as necessary.
+9. Take yeast out of fridge if using liquid ale yeast.
+10. When mash is complete, remove grain bag from kettle and let drain.
+
+### Boil
+
+* Take a gravity reading. (pre-boil gravity, pre-boil wort collected)
+* Fire the kettle and bring to a boil.
+* Stir well as hot break occurs to avoid boil over. Start timer when boil starts.
+Kettle Additions - ingredients / hops as recipe calls for:
+* Hops / Kettle Addition: 15g Mosaic @15m 
+* @10 minutes, submerge wort chiller
+* Hops / Kettle Addition: 15g Mosaic @5m 
+
+
+### Final Steps
+* Sanitize lid of kettle.
+* Flame out.
+* Hops / Kettle Addition: 30g Mosaic @flameout 90C for 15 minutes.
+* Set lid on kettle, activate wort chiller.
+* Begin sanitizing primary fermenter, cork, air lock, aeration stone/hose, funnel, wine thief.
+* When wort is cooled to ~70F / 21C, transfer wort into fermenter.
+* Aerate wort with aeration stone (or aerate by shaking, rocking, stirring)
+* Take hydrometer sample, record the value. Original Gravity: 
+* Pitch yeast. Wort Collected: 
+* Fit with airlock or blow off tube for high gravity or dark beers.
+* Move fermenter to temperature stable area protected from light.
+* Clean up equipment.
