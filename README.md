@@ -47,3 +47,28 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
    * https://byo.com/bock/item/1088-make-your-beer-burn-bring-the-heat-of-hot-peppers-to-your-brewing
    * http://www.homebrewing.com/articles/chile-beer/
 * Modern Times' Blazing World (Amber IPA)
+
+## pH
+
+
+* (From: http://www.basicbrewing.com/index.php?page=basic-brewing-radio-2007) January 11, 2007 - John Palmer on pH - John Palmer, author of How to Brew, walks us through the potentially intimidating topic of pH. John tells us how to measure pH and what to do with our measurements to improve our beers.
+
+## Sanitizing
+
+* http://media.libsyn.com/media/basicbrewing/bbr03-29-07.mp3 (From: http://www.basicbrewing.com/index.php?page=basic-brewing-radio-2007)
+* http://www.homebrewtalk.com/f39/star-san-no-rinse-88609/
+* https://www.youtube.com/watch?v=7e0UWiIuFpA
+
+## NEED to BUY
+
+* Seringe, funnel
+* Keg as a good way to keep star san, because you can purge O^2 with CO2
+* stir starter
+
+## Yeast Starter
+
+* https://www.youtube.com/watch?v=jMhFerNTwbQ ([Beer Geek Nation](https://www.youtube.com/channel/UCpACreb1E23Z3anMUkHi0qg))
+
+## YouTube 
+
+* https://www.youtube.com/channel/UCh_h4W2VmFdo3R8g1XaXN_Q
