@@ -12,6 +12,9 @@ Keeping track of my beer brewing experiments
 
 ## Mashing 
 
+* http://beersmith.com/blog/2008/03/09/how-to-batch-sparge-a-guide-for-batch-sparging-and-no-sparge/
+* http://www.homebrewtalk.com/wiki/index.php/Malts_Chart
+
 ### Astringency (Oversparging/Hot Sparging)
 * http://beersmith.com/blog/2015/10/25/astringency-from-grains-oversparging-and-hot-sparging-your-beer/
 * http://beersmith.com/blog/2017/02/28/extract-beer-brewing-tip-dont-steep-grains-with-too-much-water/ (that's why we don't add all water)
@@ -25,3 +28,22 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 * http://beersmith.com/blog/2009/04/14/brew-in-a-bag-biab-all-grain-beer-brewing/
 
 * After your mash. you need to give things a good stir, and keep on stirring while you add heat and bring the whole mash up to Mash Out temp. In traditional brewing mash out isn't really necessary, but in BIAB its really quite important for efficiency. You can skip it, but you will probably lose close to 5 points of efficiency  (168f/75.5556C)
+
+# TODO
+
+* I need to read a bit more about pitching rate?
+* Dry Hopping, need to read a bit more and do it 5 days before end of fermentation
+* Need to check why first batch is gushing
+* Need to read about priming sugar quantity
+* Do I need to recirculate wort?
+
+# Next Recipes
+
+* Amber Ale
+    * http://www.homebrewtalk.com/showthread.php?t=55809
+* Oatmeal Stout
+* Chilli Beer (Stout?)
+   * https://byo.com/body/item/859-hot-hot-hot-brewing-with-chili-peppers
+   * https://byo.com/bock/item/1088-make-your-beer-burn-bring-the-heat-of-hot-peppers-to-your-brewing
+   * http://www.homebrewing.com/articles/chile-beer/
+* Modern Times' Blazing World (Amber IPA)
