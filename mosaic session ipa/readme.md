@@ -183,21 +183,21 @@ Checklist
 
 (originally taken from [brewer's friend](https://cdn2.brewersfriend.com/brewersfriend_checklist_BIAB.pdf)
 
-Double check all ingredients are on hand for recipe, including prepared yeast starter if applicable.
 
 
 ### Setup and Mash
 
-1. Weigh out and mill grains.
-2. Setup brew kettle and brew bag, ensure they are clean.
-3. Make sure valves are closed on brew kettle.
-4. Fill kettle with water as recipe calls for and begin heating to strike temperature.
-5. A brewing salts as recipe calls for or to style.
-6. When mash water is ready, submerge grain bag and begin mash.
-7. ~~Place lid on kettle and~~ ensure temperature is maintained.
-8. Monitor mash temperature during mash and adjust as necessary.
-9. Take yeast out of fridge if using liquid ale yeast.
-10. When mash is complete, remove grain bag from kettle and let drain.
+#. Double check all ingredients are on hand for recipe, including prepared yeast starter if applicable.
+#. Weigh out and mill grains.
+#. Setup brew kettle and brew bag, ensure they are clean.
+#. Make sure valves are closed on brew kettle.
+#. Fill kettle with water as recipe calls for and begin heating to strike temperature. :__
+#. A brewing salts as recipe calls for or to style.
+#. When mash water is ready, submerge grain bag and begin mash.
+#. Place lid on kettle^[It's okay to let the lid for mashing, however when boiling we can't let the lid in place] and ensure temperature is maintained.
+#. Monitor mash temperature during mash and adjust as necessary.
+#. Take yeast out of fridge if using liquid ale yeast.
+#. When mash is complete, remove grain bag from kettle and let drain.
 
 ### Boil
 

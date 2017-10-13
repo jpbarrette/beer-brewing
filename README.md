@@ -72,3 +72,7 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 ## YouTube 
 
 * https://www.youtube.com/channel/UCh_h4W2VmFdo3R8g1XaXN_Q
+
+## Irish Moss
+
+* http://www.homebrewtalk.com/showthread.php?t=87785
