@@ -14,6 +14,7 @@ Keeping track of my beer brewing experiments
 
 * http://beersmith.com/blog/2008/03/09/how-to-batch-sparge-a-guide-for-batch-sparging-and-no-sparge/
 * http://www.homebrewtalk.com/wiki/index.php/Malts_Chart
+* https://www.brew.is/files/malt.html
 
 ### Astringency (Oversparging/Hot Sparging)
 * http://beersmith.com/blog/2015/10/25/astringency-from-grains-oversparging-and-hot-sparging-your-beer/
