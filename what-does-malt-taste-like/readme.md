@@ -30,7 +30,7 @@ Question about nut? https://homebrew.stackexchange.com/questions/4690/how-do-i-a
 * Store: 
   * https://www.saveur-biere.com
   * https://www.themaltmiller.co.uk/
-
+  * http://www.biere-boutique.fr/
 
 
 * Malls
@@ -39,3 +39,24 @@ Question about nut? https://homebrew.stackexchange.com/questions/4690/how-do-i-a
   * 141 g Great Western crystal malt 40 °L (or similar): Belgian - Cara 45L (Brouwland)
   * 141 g Briess Victory malt 28 °L (or similar): Belgian - Biscuit (Brouwland)
   * 113 g Crisp pale chocolate 200 °L (or similar): ([themaltmiller](https://www.themaltmiller.co.uk/index.php?_a=viewProd&productId=32)) or Special B
+
+# Articles Reference 
+
+* [My Recipe](https://www.brewersfriend.com/homebrew/recipe/view/557097/what-does-malt-taste-like-), [Original](https://byo.com/bock/item/1983-northern-english-brown-ale-style-profile)
+* [BYO: Brown Ale: Style of the Month (1995)](https://byo.com/stories/issue/item/336-brown-ale-style-of-the-month)
+* [BYO: Brown Ale: Style of the Month (1997)](https://byo.com/stories/item/337-brown-ale-style-of-the-month)
+
+
+# Brewing
+
+For 4.9KG of grains + grains being at 18C:
+* Strike Water Volume 12.5L
+* Strike Water Temperature 75C
+* Mash Water/Grain Ratio 2.5L/KG
+
+Will need to roast some grains (from [byo](https://byo.com/stories/issue/item/336-brown-ale-style-of-the-month)): 
+* Spread 300g of pale malt on a cookie sheet and toast it in the oven at 275° F for 60 minutes, then 350° F for an additional 30 minutes.
+
+# TODO
+
+Find a 5gal of water and a spray noosle.
