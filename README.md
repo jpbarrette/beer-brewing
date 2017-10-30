@@ -82,3 +82,39 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 ## Irish Moss
 
 * http://www.homebrewtalk.com/showthread.php?t=87785
+
+
+
+## Tips
+
+* Fine milled grain (almost to flour) [this](http://www.beersmith.com/forum/index.php?topic=11026.msg45014#msg45014), 
+* Bulk Sparge: https://byo.com/color/item/403-bulk-up-your-sparge-technique What's good with this, it really explains that I should put a good quantity of water so that we don't have the "Channeling" effect when pourring a little amount.
+* Recirculate? Not sure, I'll have to try but same receipe with and without. (Not sure I want a pump that I'll have to clean
+* https://homebrew.stackexchange.com/questions/12717/sparging-with-biab
+* Prepare for hot break: spray bottle filled with cold water in hand to control the foam over ([from this](http://www.homebrewtalk.com/showthread.php?t=148179)
+## NOTES
+
+* I warmed up 11L (approx) of water to 75 degrees (should probably check how hot exactly it should be), and then added it to the kettle so that the kettle was almost full. Note that the temperature was a bit higher than 75C. Stirred for 2 or 3 minutes then drained it. Maybe I should have left it there for 10 minutes.
+* TODO: use other fermenter to see how much liquid contains the kettle
+* To get the wort to boil, please stir a bit the wort, it's gonna help?
+* I started to oxigen the wort directly when trying to chill it, to save some time.
+* I can't do the real BIAB "no sparge" because my kettle simply doesn't have the full volume.
+
+
+## TO READ
+(search results from "batch sparge biab"):
+* https://homebrew.stackexchange.com/questions/12717/sparging-with-biab
+* http://beersmith.com/blog/2009/04/24/avoiding-a-stuck-sparge-for-all-grain-beer/
+* http://www.homebrewtalk.com/showthread.php?t=289087
+* http://www.bagbrewer.com/mashing-methods.html
+search "trickle sparge beer brewing" 
+
+## Question 
+
+* Why cold break doesn't happen to me? Is it because it's too slow?
+  * http://howtobrew.com/book/section-1/boiling-and-cooling/7-2-the-hot-break
+  * https://byo.com/water/item/249-boiling-advanced-brewing
+  * maybe due to slow boil: http://www.homebrewtalk.com/showthread.php?t=148179
+  * http://www.love2brew.com/Articles.asp?ID=526
+  * http://beerandwinejournal.com/proper-boil-ph/
+* I don't whirpool to separate the hot break material from the wort, is this a problem (however I use irish moss)? https://beerandbrewing.com/dictionary/aSbC3qutQd/hot-break/
