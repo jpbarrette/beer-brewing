@@ -24,11 +24,41 @@ Keeping track of my beer brewing experiments
 ### BIAB
 
 It seems that since I don't use as much water as BIAB requires generally, I might have less pH problems. But what does it mean to have full volume? Doesn't it screw up the pH?
+* https://www.homebrewersassociation.org/wp-content/uploads/How-To-Brew-in-a-Bag.pdf
 * http://www.thebrewingnetwork.com/forum/viewtopic.php?t=4650
 * http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/
 * http://beersmith.com/blog/2009/04/14/brew-in-a-bag-biab-all-grain-beer-brewing/
+* http://www.beersmith.com/forum/index.php?topic=11026.0
+* http://www.homebrewtalk.com/showthread.php?t=165168
+* http://www.homebrewtalk.com/showthread.php?t=202609
+* Lactic acid to lower to pH (enzymatic activity + tannin)
+* Stir
+* squeeze (rotate the bag to squeeze)
+* http://www.homebrewtalk.com/showthread.php?t=225875
+* Maybe contact http://nateobrew.blogspot.fr/
+* http://www.homebrewtalk.com/showthread.php?t=211616
+* 90 minutes mash
+* Mash Out for 10 minutes (see homebrewacademy)
+* http://brulosophy.com/2015/09/10/6-tips-for-dealing-with-efficiency-problems/
+* Finer crush
+* https://www.homebrewersassociation.org/forum/index.php?topic=13806.0
+* https://www.beeradvocate.com/community/threads/brew-in-a-bag-what-efficiency-can-i-expect.106215/
+* http://homebrewacademy.com/brewing-big-beers-biab/
+* https://aussiehomebrewer.com/threads/increasing-biab-efficiency.25844/
+* http://www.love2brew.com/Articles.asp?ID=387
+* https://pricelessbrewing.github.io/methods/Efficiency/ (lots' of calculators, very nice!)
+* Maybe I should a 20 litters mash, then add little water to mash out?
+
 
 * After your mash. you need to give things a good stir, and keep on stirring while you add heat and bring the whole mash up to Mash Out temp. In traditional brewing mash out isn't really necessary, but in BIAB its really quite important for efficiency. You can skip it, but you will probably lose close to 5 points of efficiency  (168f/75.5556C)
+
+#### Improving efficiency
+* https://www.reddit.com/r/Homebrewing/comments/3ud48j/improving_biab_efficiency_my_journey/
+* http://www.homebrewfinds.com/2015/10/guest-post-dispelling-brew-in-a-bag-misconceptions.html
+* finer milling? http://www.homebrewfinds.com/2015/10/guest-post-dispelling-brew-in-a-bag-misconceptions.html
+* http://www.homebrewfinds.com/2015/08/guest-post-brew-in-a-bag-bag-material-does-it-matter-by-rex-slagel-10-off.html
+* https://www.reddit.com/r/Homebrewing/comments/2u1gif/tips_for_improving_my_biab_efficiency/
+* http://www.beersmith.com/forum/index.php?topic=6878.0
 
 # TODO
 
@@ -82,7 +112,6 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 ## Irish Moss
 
 * http://www.homebrewtalk.com/showthread.php?t=87785
-
 
 
 ## Tips

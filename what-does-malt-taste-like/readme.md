@@ -57,6 +57,19 @@ For 4.9KG of grains + grains being at 18C:
 Will need to roast some grains (from [byo](https://byo.com/stories/issue/item/336-brown-ale-style-of-the-month)): 
 * Spread 300g of pale malt on a cookie sheet and toast it in the oven at 275° F for 60 minutes, then 350° F for an additional 30 minutes.
 
+# NOTES
+
+* It seems that I obtained a 59% Brew House efficiency.
+* It seems I can squeeze the bag, let's look at "Improving Efficiency" section on general's readme.
+* I took 11 liters of water at 75C to sparge...
+
 # TODO
 
 Find a 5gal of water and a spray noosle.
+
+
+# Priming
+
+* Home is at 440 meters above sea level (let's consider this as negligible?)
+   * target carbonation volume: 1.5-2.0
+   * (from table 10.3); For 21C residual volume = 0.8, target 2.5^[In fact in the article they say 2.4, but 2.5 fits in the table: http://www.homebrewtalk.com/showthread.php?t=19033.9 See also https://www.bjcp.org/2008styles/style11.php#1c] = 6 grams of sugars per L.^[Here I put 2.5 because my previous beer was a bit under carbonated so I push a bit the carbonation for his one, regarding the suggested numbers]

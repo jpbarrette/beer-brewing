@@ -5,21 +5,21 @@
 
 ### Setup and Mash^[originally taken from [brewer's friend](https://cdn2.brewersfriend.com/brewersfriend_checklist_BIAB.pdf)]
 
-#. Double check all ingredients are on hand for recipe, including prepared yeast starter if applicable.
-#. Weigh out and mill grains.
-#. Setup brew kettle and brew bag, ensure they are clean.
-#. Make sure valves are closed on brew kettle.
-#. Fill kettle with water as recipe calls for (\_\_\_ L) and begin heating to strike temperature. :___ C
-#. A brewing salts as recipe calls for or to style.
-#. When mash water is ready, submerge grain bag and begin mash.
-#. Place lid on kettle^[It's okay to let the lid for mashing, however when boiling we can't let the lid in place] and ensure temperature is maintained.
-#. Prepare yeast: Prepare an Erlenmeyer flask with 250mL of pre-boiled water at 25-30C.
-#. Monitor mash temperature during mash and adjust as necessary.
-#. Bring sparge water at 75C.
-#. Take yeast out of fridge if using liquid ale yeast.
-#. When mash is complete, bring to mash out temp (75C) with hot water, and give things a good stir.
-#. Sparge with water at 75C.
-#. Remove grain bag from kettle and let drain.
+* Double check all ingredients are on hand for recipe, including prepared yeast starter if applicable.
+* Weigh out and mill grains.
+* Setup brew kettle and brew bag, ensure they are clean.
+* Make sure valves are closed on brew kettle.
+* Fill kettle with water as recipe calls for (\_\_\_ L) and begin heating to strike temperature. :___ C
+* A brewing salts as recipe calls for or to style.
+* When mash water is ready, submerge grain bag and begin mash.
+* Place lid on kettle^[It's okay to let the lid for mashing, however when boiling we can't let the lid in place] and ensure temperature is maintained.
+* Prepare yeast: Prepare an Erlenmeyer flask with 250mL of pre-boiled water at 25-30C.
+* Monitor mash temperature during mash and adjust as necessary.
+* Bring sparge water at 75C.
+* Take yeast out of fridge if using liquid ale yeast.
+* When mash is complete, bring to mash out temp (75C) with hot water, and give things a good stir.
+* Sparge with water at 75C.
+* Remove grain bag from kettle and let drain.
 
 ### Boil
 
@@ -51,7 +51,6 @@
 ### Final Steps
 * Sanitize lid of kettle.
 * Flame out.
-* Hops / Kettle Addition: 30g Mosaic @flameout 90C for 15 minutes.
 * Set lid on kettle, activate wort chiller.
 * Begin sanitizing primary fermenter, cork, air lock, aeration stone/hose, funnel, wine thief.
 * Prepare Yeast Starter
