@@ -42,13 +42,13 @@
   * Hops / Kettle Addition: _____________________ @ _____
   * Hops / Kettle Addition: _____________________ @ _____
   * Hops / Kettle Addition: _____________________ @ _____
-* With 30 minutes left, rehydrate the moss for 15 minutes
 * With 15 minutes left:
   * Submerge wort chiller (if using immersion chiller).
-  * Transfer the moss in the wort
+  * Add 5g of Irish moss in the wort.
 
 
 ### Final Steps
+
 * Sanitize lid of kettle.
 * Flame out.
 * Set lid on kettle, activate wort chiller.

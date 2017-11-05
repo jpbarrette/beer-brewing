@@ -74,4 +74,3 @@ Find a 5gal of water and a spray noosle.
    * target carbonation volume: 1.5-2.0
    * (from table 10.3); For 21C residual volume = 0.8, target 2.5^[In fact in the article they say 2.4, but 2.5 fits in the table: http://www.homebrewtalk.com/showthread.php?t=19033.9 See also https://www.bjcp.org/2008styles/style11.php#1c] = 6 grams of sugars per L.^[Here I put 2.5 because my previous beer was a bit under carbonated so I push a bit the carbonation for his one, regarding the suggested numbers]
 
-* 2017/11/02 (7h00 am): Moved the fermentor into the appartment for maturation phase (fermenter was at 15.4). Appartment around 21C.
