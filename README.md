@@ -143,3 +143,32 @@ search "trickle sparge beer brewing"
   * http://www.love2brew.com/Articles.asp?ID=526
   * http://beerandwinejournal.com/proper-boil-ph/
 * I don't whirpool to separate the hot break material from the wort, is this a problem (however I use irish moss)? https://beerandbrewing.com/dictionary/aSbC3qutQd/hot-break/
+
+## Small Batches
+
+* https://byo.com/mead/item/1378-small-scale-brewing
+* http://www.mrmalty.com/calc/calc.html
+* http://www.homebrewtalk.com/showthread.php?t=462474
+* http://www.homebrewtalk.com/showthread.php?t=458101
+* http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/
+
+* Volume Management: https://www.brewersfriend.com/2010/06/12/water-volume-management-in-all-grain-brewing/
+
+* (big) http://www.homebrewtalk.com/showthread.php?t=311884
+
+* 2 gal would be enough to fit completely in the kettle (full volume).
+* maybe 2 gals is just enough so that I might have a better boil, without scorching?
+* Boil off is more problematic: No sparge, no mash out?
+* Cover kettle with sleeping bag - (maybe I should do the same thing for full volume, or create an isolant)
+* Hop?
+
+* 1 lb (0.453592 kg) grain occupies 0.32 (0.3028329L) quarts when saturated (according to Promash). So 1Kg fills 0.667632806575072 L. 
+
+(/ 0.3028329 0.453592 )
+
+
+Tools
+-----
+
+* https://biabbrewing.com/brew-day-prep/biab-calculators-and-software/
+* http://www.biabrewer.info/
