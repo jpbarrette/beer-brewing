@@ -83,6 +83,8 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
    * https://byo.com/bock/item/1088-make-your-beer-burn-bring-the-heat-of-hot-peppers-to-your-brewing
    * http://www.homebrewing.com/articles/chile-beer/
 * Modern Times' Blazing World (Amber IPA)
+* Milk Stout
+   * https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout
 
 ## pH
 
