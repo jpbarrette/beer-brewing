@@ -33,7 +33,7 @@ Question about nut? https://homebrew.stackexchange.com/questions/4690/how-do-i-a
   * http://www.biere-boutique.fr/
 
 
-* Malls
+* Malts
   * 4 kg Crisp British pale ale malt 3 °L (or similar): Belgiam Pale Malt (Brouwland)
   * 300 g Briess special roast 50 °L (or similar): Special Abbey (Malterie du chateau) [saveur-biere](https://www.saveur-biere.com/fr/malts/2999-malt-abbaye-45-ebc.html)
   * 141 g Great Western crystal malt 40 °L (or similar): Belgian - Cara 45L (Brouwland)
