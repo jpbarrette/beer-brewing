@@ -12,6 +12,7 @@ Keeping track of my beer brewing experiments
 
 ## Mashing 
 
+* https://byo.com/stories/issue/item/3315-mash-tun-cosy-projects
 * http://beersmith.com/blog/2008/03/09/how-to-batch-sparge-a-guide-for-batch-sparging-and-no-sparge/
 * http://www.homebrewtalk.com/wiki/index.php/Malts_Chart
 * https://www.brew.is/files/malt.html
@@ -96,6 +97,8 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 * Seringe, funnel
 * Keg as a good way to keep star san, because you can purge O^2 with CO2
 * stir starter
+* http://www.castorama.fr/store/Mousse-expansive-RUBSON-Isole-500ml-prod11070040.html
+* Filtered Water
 
 ## Yeast Starter
 
