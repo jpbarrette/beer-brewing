@@ -1,5 +1,5 @@
 
-* [https://www.brewersfriend.com/homebrew/recipe/view/565759/john-palmer-s-amber-ale-wheat-belgiumified-](Recipe)
+* https://www.brewersfriend.com/homebrew/recipe/view/565759/john-palmer-s-amber-ale-wheat-belgiumified-
 * https://byo.com/stories/issue/item/126-american-amber-style-profile
 * https://byo.com/stories/issue/item/127-american-amber-tips-from-the-pros
 * https://byo.com/stories/issue/item/124-amber-ale-and-american-pale-ale-style-of-the-month
