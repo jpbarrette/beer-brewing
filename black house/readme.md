@@ -27,6 +27,13 @@ Crisp Malting?
 
 Maybe I can add normal chocolate + coffee from http://www.castlemalting.com/CastleMaltingMalts.asp?P=105&Language=French
 
+* One solution I was looking at was to replace with [Weyermann Carafa Type I (dehusked)](https://bsgcraftbrewing.com/weyermann-carafa-dehusk-1-spec)
+
+Briess Crystal 90L
+------------------
+
+* From [equivalencies](https://www.brew.is/files/malt.html), I could use CaraAroma, which correspond to Crystal 120 or use [MFB](https://www.malteriesfrancobelges.fr)'s CaraMunich 80.
+
 Roasted Barley
 --------------
 
