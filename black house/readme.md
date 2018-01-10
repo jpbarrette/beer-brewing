@@ -32,7 +32,11 @@ Maybe I can add normal chocolate + coffee from http://www.castlemalting.com/Cast
 Briess Crystal 90L
 ------------------
 
+* [Description](http://www.brewingwithbriess.com/Products/Caramel.htm#90L): Pronounced caramel, slight burnt sugar, raisiny, prunes	 
+
 * From [equivalencies](https://www.brew.is/files/malt.html), I could use CaraAroma, which correspond to Crystal 120 or use [MFB](https://www.malteriesfrancobelges.fr)'s CaraMunich 80.
+* https://www.homebrewtalk.com/forum/threads/caramel-crystal-malts-substitutes.402596/ Chateau Crystal? or [carared](https://bsgcraftbrewing.com/weyermann-carared-25-kg)
+* [CaraBohemian](https://bsgcraftbrewing.com/weyermann-cara-bohemian) could be good also (from previous discussion link) 
 
 Roasted Barley
 --------------
