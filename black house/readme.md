@@ -1,18 +1,72 @@
 
+
+
+TODO
+====
+
+* Get Maris Otter
+
+
+https://byo.com/project/french-press-style-hopback-projects/
+https://byo.com/article/brew-easy-techniques/
+https://byo.com/article/practice-with-your-palate/
+https://byo.com/article/more-incredibly-practical-brewing-tips/
+https://byo.com/article/brewing-for-flavor-malt/
+
+Articles
+========
+
+* [Recipe Creation](https://byo.com/article/techniques-adv-hb-13/)
+* [Oatmeal Stout](https://byo.com/article/style-profile-style-profile-11/)
+* [Black is Beautiful: Black Malts](https://byo.com/article/techniques-adv-hb-2/)
+* https://byo.com/article/fabulous-foam/
+* https://byo.com/article/chocolate-malt/
+* http://allaboutbeer.com/article/coffee-beers/
+* https://byo.com/article/create-your-own-great-porter/
+* https://byo.com/article/superior-stout/
+* https://byo.com/article/build-the-perfect-pint-making-superlative-stout/
+* https://byo.com/article/cookie-in-a-glass-grouters-unite/
+* https://byo.com/article/using-roasted-barley-tips-from-the-pros/
+* https://byo.com/article/brewing-stout-tips-from-the-pros/
+* https://byo.com/article/balanced-recipe-formulation/
+* https://byo.com/article/tips-from-pros-tips-from-pros/
+* https://byo.com/article/oatmeal-stout-2/
+* https://byo.com/article/mcquaker-s-oatmeal-stout/
+* https://byo.com/article/american-stout-style-profile/
+* https://byo.com/article/roasted-barley-tips-from-the-pros/
+* https://byo.com/article/dark-roasted-barley/
+* https://byo.com/article/chocolate-malt/
+* [https://byo.com/article/malt-matters-basics-backbone-beer/](Why Malt Matters - The Basics on the Backbone of Beer)
+* [Craftin Coffee Beers](https://byo.com/article/crafting-coffee-beers/)
+* [Brewing with Coffee Techniques](https://byo.com/article/brewing-with-coffee-techniques/)
+* [Brewing with Coffee](https://byo.com/article/brewing-with-coffee/)
+* [Brewing with Chocolate Malt: Tips from the Pros](https://byo.com/article/brewing-with-chocolate-malt-tips-from-the-pros/)
+* [Brewing with Coffee: Tips from the Pros](https://byo.com/article/brewing-with-coffee-tips-from-the-pros/)
+* Yeast
+    * [Using Yeast Nutrients](https://byo.com/article/yeast-nutrients-techniques-2/)
+* [What are yeast nutrients and how are they used?](https://byo.com/mr-wizard/what-are-yeast-nutrients-and-how-are-they-used/)
+* [What, Exactly, IS Yeast Nutrient?](https://beerandbrewing.com/what-exactly-is-yeast-nutrient/)
+* [Avoiding the Harsh Zone](https://byo.com/article/avoiding-harsh-zone/)
+* [Brewing with Dehusked Dark Malt](https://byo.com/article/advanced-brewing-6/)
+* [Brewing with Dark Grains](https://byo.com/article/brewing-with-dark-grains/)
+
+
 Recipes
 =======
 
-* https://www.themadfermentationist.com/2012/06/toasted-oat-coffee-stout.html
-* my recipe is a clone of https://www.brewersfriend.com/homebrew/recipe/view/237325/black-house-2
+* Current [recipe](https://www.brewersfriend.com/homebrew/recipe/view/584592/black-house-2-european-malts)
+* Original Modern Time's [recipe](https://www.themadfermentationist.com/2012/06/toasted-oat-coffee-stout.html)
+* my recipe is a clone of [brewersfriend](https://www.brewersfriend.com/homebrew/recipe/view/237325/black-house-2), but I changed some quantities in [here](https://www.brewersfriend.com/homebrew/recipe/view/591080/black-house-2-original)
 * alternative 1: https://www.brewersfriend.com/homebrew/recipe/view/410531/black-house-clone-v1-0
 * alternative 2: https://www.brewersfriend.com/homebrew/recipe/view/404548/black-house-modern-times
 * alternative 3: https://www.brewersfriend.com/homebrew/recipe/view/490519/black-house
+* Mikkeller: https://byo.com/recipe/106624/
 
 Maris Otter
 -----------
 
-http://brulosophy.com/2016/06/06/grain-comparison-pt-2-maris-otter-vs-domestic-us-2-row-exbeeriment-results/
-https://www.beeradvocate.com/community/threads/the-most-grainy-bready-base-malt-is-maris-otter-isnt-it.128008/
+* http://brulosophy.com/2016/06/06/grain-comparison-pt-2-maris-otter-vs-domestic-us-2-row-exbeeriment-results/
+* https://www.beeradvocate.com/community/threads/the-most-grainy-bready-base-malt-is-maris-otter-isnt-it.128008/
 
 Original Pale Chocolate (225.0 SRM)
 -----------------------------------
@@ -45,8 +99,3 @@ https://byo.com/article/using-roasted-barley-tips-from-the-pros/
 http://www.brewingwithbriess.com/Products/Roasted_Barley.htm#RoastedBarley
 https://bsgcraftbrewing.com/weyermann-roasted-barley-25-kg
 
-Yeast Nutrient
----------------
-
-https://byo.com/mr-wizard/what-are-yeast-nutrients-and-how-are-they-used/
-https://beerandbrewing.com/what-exactly-is-yeast-nutrient/
