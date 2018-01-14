@@ -1,20 +1,69 @@
+[Black House #2 - European Malts](https://www.brewersfriend.com/homebrew/recipe/view/584592/black-house-2-european-malts)
+================================
 
+* Original Author: [The Mad Fermentationist](https://www.themadfermentationist.com/2012/06/toasted-oat-coffee-stout.html)
+* Brew Method: BIAB
+* Style Name: Oatmeal Stout
+* Boil Time: 60 min
+* Batch Size: 9 liters (fermentor volume)
+* Boil Size: 16.5 liters
+* Boil Gravity: 1.033
+* Efficiency: 70% (brew house)
 
+Stats
+------
+
+* Original Gravity: 1.060
+* Final Gravity: 1.015
+* ABV (standard): 5.9%
+* IBU (tinseth): 36.97
+* SRM (morey): 43.14
+
+Fermentables
+------------
+
+* 1.6 kg - Belgian - Pale Ale (61.8%)
+* 0.47 kg - Rolled Oats (18.2%)
+* 0.078 kg - Belgian - Roasted Barley (3%)
+* 0.26 kg - German - Carafa I (10%)
+* 0.1 kg - Belgian - Cara 45L (3.9%)
+* 0.08 kg - German - CaraRed (3.1%)
+
+Hops
+----
+
+* 15 g - Goldings, Type: Pellet, AA: 7.5, Use: Boil for 60 min, IBU: 36.97
+
+Mash Guidelines
+----------------
+
+* Infusion, Temp: 68 C, Time: 65 min
+* 3 g - Irish Moss, Time: 15 min, Type: Fining, Use: Boil
+* 24.21 g - Coffee Beans (course ground), Type: Flavor, Use: Secondary, last 24h
+* Yeast: Fermentis / Safale - English Ale Yeast S-04
 
 TODO
 ====
 
+* 90 minutes?
 * Get Maris Otter
 
 
-https://byo.com/project/french-press-style-hopback-projects/
-https://byo.com/article/brew-easy-techniques/
-https://byo.com/article/practice-with-your-palate/
-https://byo.com/article/more-incredibly-practical-brewing-tips/
-https://byo.com/article/brewing-for-flavor-malt/
+* https://byo.com/project/french-press-style-hopback-projects/
+* https://byo.com/article/brew-easy-techniques/
+* https://byo.com/article/practice-with-your-palate/
+* https://byo.com/article/more-incredibly-practical-brewing-tips/
+* https://byo.com/article/brewing-for-flavor-malt/
+* http://www.beyondthegrape.com/pdfs/beer/Grain%20Substitute%20Chart.pdf
 
 Articles
 ========
+
+
+* Irish Moss
+    * http://brulosophy.com/2017/03/27/the-whirlfloc-effect-exbeeriment-results/
+    * https://www.reddit.com/r/Homebrewing/comments/6j1fwn/using_fining_agents_gelatin_irish_moss_etc_in_a/
+    * http://www.beersmith.com/forum/index.php?topic=7535.0
 
 * [Recipe Creation](https://byo.com/article/techniques-adv-hb-13/)
 * [Oatmeal Stout](https://byo.com/article/style-profile-style-profile-11/)
@@ -99,3 +148,17 @@ https://byo.com/article/using-roasted-barley-tips-from-the-pros/
 http://www.brewingwithbriess.com/Products/Roasted_Barley.htm#RoastedBarley
 https://bsgcraftbrewing.com/weyermann-roasted-barley-25-kg
 
+
+
+
+Recipe Modification
+--------------------
+
+* 60.6% Maris Otter 
+* 18.2% Toasted Oatmeal
+* 8.1% Briess Roasted Barley (300 L) -> Belgian Roasted Barley + Carafa Type I
+* 6.1% Briess Chocolate Malt (American Pale Chocolate) -> Carafa Type I
+* 4.0% CaraMunich Malt -> Weyermann CaraMunich Type I or Brewferms' Cara-120
+* 3.0% Crystal 90L -> CaraRed
+
+IBU -> 41 to 35 since not using hopshot as mentionned in the comments
