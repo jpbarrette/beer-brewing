@@ -1,5 +1,7 @@
-[Black House #2 - European Malts](https://www.brewersfriend.com/homebrew/recipe/view/584592/black-house-2-european-malts)
+[Alpine Black House](https://www.brewersfriend.com/homebrew/recipe/view/584592/black-house-2-european-malts)
 ================================
+
+This is the european malt version of Mihael Tonsmeire's [Black House #2](https://www.themadfermentationist.com/2012/06/toasted-oat-coffee-stout.html).
 
 * Original Author: [The Mad Fermentationist](https://www.themadfermentationist.com/2012/06/toasted-oat-coffee-stout.html)
 * Brew Method: BIAB
@@ -39,14 +41,20 @@ Mash Guidelines
 
 * Infusion, Temp: 68 C, Time: 65 min
 * 3 g - Irish Moss, Time: 15 min, Type: Fining, Use: Boil
-* 24.21 g - Coffee Beans (course ground), Type: Flavor, Use: Secondary, last 24h
+* 25 g - Coffee Beans (course ground), Type: Flavor, Use: Secondary, last 24h
 * Yeast: Fermentis / Safale - English Ale Yeast S-04
+
+Brewing Session Notes
+---------------------
+
+(from [BYO](https://byo.com/article/oatmeal-stout-style/)) Mash-in, Mash-out: The initial mixing of grain and water, called the mash-in or dough-in, should be done carefully, in multiple steps. If the mash-in is done too rapidly or the mixing is poor, the starches in the grains can ball up and will not undergo complete conversion. Do the mash-in in three or more steps. Start by adding about 1/3 of the water in the mash tun. Mix in about 1/3 of the grain, stirring for at least 60 seconds. Next an additional 1/3 of the water should be added, followed by another addition of the grain and another minute of mixing. This is repeated once more to fill the mash vessel. Do not skimp and omit the mash-out. The mash-out at 168° F lowers the viscosity of the wort, making the sparge easier. Also, this halts all enzyme activity, ensuring that the dextrinous character of the wort will remain unchanged after mashing.
 
 TODO
 ====
 
 * 90 minutes?
 * Get Maris Otter
+* Another way to enhance the character of the oatmeal is by roasting the oats in the oven around 300 °F (149 °C). T
 
 
 * https://byo.com/project/french-press-style-hopback-projects/
@@ -66,7 +74,9 @@ Articles
     * http://www.beersmith.com/forum/index.php?topic=7535.0
 
 * [Recipe Creation](https://byo.com/article/techniques-adv-hb-13/)
-* [Oatmeal Stout](https://byo.com/article/style-profile-style-profile-11/)
+* 
+* [Oatmeal Stout: Style Profile](https://byo.com/article/mcquaker-s-oatmeal-stout/)
+* [Oatmeal Stout](https://byo.com/article/oatmeal-stout-style/)
 * [Black is Beautiful: Black Malts](https://byo.com/article/techniques-adv-hb-2/)
 * https://byo.com/article/fabulous-foam/
 * https://byo.com/article/chocolate-malt/
