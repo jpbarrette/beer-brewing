@@ -80,6 +80,8 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 * Modern Times' Blazing World (Amber IPA)
 * Milk Stout
    * https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout
+* Americal Pale Ale
+   * https://byo.com/recipe/benjamin-sharps-american-pale-ale/ (no malt conversion)
 
 ## pH
 
