@@ -7,6 +7,8 @@ Keeping track of my beer brewing experiments
 * Kettle diameter: 35 cm
 * Kettle depth to volume function: f(x) = -0.7059 + 0.9409x^[for more info, look at scripts/kettle-volume-height.R]
 
+TODO: need to update system parameters (boiloff and kettle size for biabcalculator)
+
 # Articles
 
 ## Tips
