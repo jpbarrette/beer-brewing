@@ -1,7 +1,11 @@
-# beer
+# Beer
 Keeping track of my beer brewing experiments
 
+# Equipment
 
+* Kettle height: 29 cm
+* Kettle diameter: 35 cm
+* Kettle depth to volume function: f(x) = -0.7059 + 0.9409x^[for more info, look at scripts/kettle-volume-height.R]
 
 # Articles
 
