@@ -57,7 +57,8 @@ https://www.fivebladesbrewing.com/toasting-oats-guide/
     * Mesure kettle dimentions + volume 
     * Sample volume with ruler and note relation
     * Prepare Erlenmeyer for yeast?
-    
+
+* https://www.fivebladesbrewing.com/toasting-oats-guide/
 * https://www.brewinabag.com/pages/instructions    
 * (from [brulosophy](http://brulosophy.com/methods/processes/brew-in-a-bag-biab/), http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/
     * NOT SURE: Mashout by starting the boil and stirring. As soon as you reach 75C, pull the bag out. (from [this post](https://biabrewer.info/viewtopic.php?p=8263&sid=df020187566cc19ad19f17f0eef8b2e2#p8263)
