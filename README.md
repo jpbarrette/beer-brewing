@@ -6,8 +6,10 @@ Keeping track of my beer brewing experiments
 * Kettle height: 29 cm
 * Kettle diameter: 35 cm
 * Kettle depth to volume function: f(x) = -0.7059 + 0.9409x^[for more info, look at scripts/kettle-volume-height.R]
-
-TODO: need to update system parameters (boiloff and kettle size for biabcalculator)
+* Grain absorption: 0.48 Liters/Kilograms of grain^[Grain absorption calculation made while reasonably squeezing + without mash off. Calculated on 2018/01/27]
+* Boiloff rate: 2.75 Liters per Hour^[Calculated on 2018/01/27]
+* Trub size: 1.5 L^[Calculated on 2018/01/27]
+* Kettle size: 27 L
 
 
 # Brew sessions

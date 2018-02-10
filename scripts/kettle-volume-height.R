@@ -1,3 +1,4 @@
+library(ggplot2)
 
 dat = data.frame(xvar = c(6, 11.4, 16.8, 22, 26.2), yvar = c(5, 10, 15, 20, 24))
 ggplot(dat, aes(x=xvar, y=yvar)) +
