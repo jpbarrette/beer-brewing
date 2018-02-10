@@ -1,7 +1,22 @@
-# beer
+# Beer
 Keeping track of my beer brewing experiments
 
+# Equipment
 
+* Kettle height: 29 cm
+* Kettle diameter: 35 cm
+* Kettle depth to volume function: f(x) = -0.7059 + 0.9409x^[for more info, look at scripts/kettle-volume-height.R]
+* Grain absorption: 0.48 Liters/Kilograms of grain^[Grain absorption calculation made while reasonably squeezing + without mash off. Calculated on 2018/01/27]
+* Boiloff rate: 2.75 Liters per Hour^[Calculated on 2018/01/27]
+* Trub size: 1.5 L^[Calculated on 2018/01/27]
+* Kettle size: 27 L
+
+
+# Brew sessions
+
+* 2017/06/18 - [Mosaic Session IPA](mosaic session ipa/brewlog 2017-06-18.md) ([Karl Stauss' Mosaic Session IPA](https://www.ratebeer.com/beer/karl-strauss-mosaic-session-ipa/248383/) Clone, American IPA
+* 2017/09/13 - [MacGyvers's Island](macgyvers-island/brewlog 2017-09-13.md) ([Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone, American Wheat Ale
+* 2017/10/28 - [What Does Malt Taste Like](what-does-malt-taste-like/brewlog 2017-10-28.md), Northern English Brown Ale
 
 # Articles
 
@@ -80,6 +95,8 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 * Modern Times' Blazing World (Amber IPA)
 * Milk Stout
    * https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout
+* Americal Pale Ale
+   * https://byo.com/recipe/benjamin-sharps-american-pale-ale/ (no malt conversion)
 
 ## pH
 

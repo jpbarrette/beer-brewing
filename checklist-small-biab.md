@@ -15,10 +15,7 @@
 * Place lid on kettle^[It's okay to let the lid for mashing, however when boiling we can't let the lid in place] and ensure temperature is maintained.
 * Prepare yeast: Prepare an Erlenmeyer flask with 250mL of pre-boiled water at 25-30C.
 * Monitor mash temperature during mash and adjust as necessary.
-* Bring sparge water at 75C.
-* Take yeast out of fridge if using liquid ale yeast.
 * When mash is complete, bring to mash out temp (75C) with hot water, and give things a good stir.
-* Sparge with water at 75C.
 * Remove grain bag from kettle and let drain.
 
 ### Boil

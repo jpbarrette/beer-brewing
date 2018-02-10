@@ -1,0 +1,40 @@
+
+#functions here are a complete rip off from biabcalculator.com
+
+system_variables <- list(trub_size = 1.5, boiloff_rate = 2.75, grain_absorption = 0.48, kettle_size = 27)
+
+create_metric_recipe <- function(grain_weight, grain_temp, batch_size, mash_temp, boil_time, system_variables) {
+  # thermodynamic const is 0.2 for metric system
+  list(grain_weight = grain_weight, grain_temp = grain_temp, batch_size = batch_size, mash_temp = mash_temp, boil_time = boil_time, trub_size = system_variables$trub_size, boiloff_rate = system_variables$boiloff_rate, grain_absorption = system_variables$grain_absorption, thermodynamic_constant = 0.41) 
+}
+
+get_water_needed = function (recipe) {
+  (recipe$grain_weight * recipe$grain_absorption) + (recipe$boiloff_rate * recipe$boil_time / 60) + recipe$batch_size + recipe$trub;
+};
+
+get_strike_water_temp = function (recipe) {
+  (recipe$thermodynamic_constant / ((get_water_needed(recipe) / recipe$grain_weight) * 4)) * (recipe$mash_temp - recipe$grain_temp) + recipe$mash_temp;
+};
+
+get_total_mash_volume = function (recipe) {
+  # this is the mash volume plus grains.  Used to see if the batch will all fit in the kettle
+  # (grain * .08) + waterNeeded
+  (recipe$grain_weight * 0.667) + get_water_needed(recipe)  # grain takes up (in volume, ie space) .08 gallons/pound or .667 L/kg
+}
+
+get_pre_boil_wort_volume = function (recipe) {
+  # volume after bag is removed from mash - be sure to include squeezed (and find a constant or calculation there)
+  total_water <- get_water_needed(recipe)
+  total_water - (recipe$grain_weight * recipe$grain_absorption)
+}
+
+get_post_boil_wort_volume = function (recipe) {
+  # volume in kettle after boil
+  # preBoilWortVolume-(boilOff * Boil time in hrs)
+  get_pre_boil_wort_volume(recipe) - (recipe$boiloff_rate * (recipe$boil_time / 60))
+}
+
+get_fermenter_volume = function (recipe) {
+  # volume into fermenter - remove trub value
+  get_post_boil_wort_volume(recipe) - recipe$trub
+}
