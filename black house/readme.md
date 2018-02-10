@@ -49,6 +49,8 @@ Brewing Session Notes
 
 (from [BYO](https://byo.com/article/oatmeal-stout-style/)) Mash-in, Mash-out: The initial mixing of grain and water, called the mash-in or dough-in, should be done carefully, in multiple steps. If the mash-in is done too rapidly or the mixing is poor, the starches in the grains can ball up and will not undergo complete conversion. Do the mash-in in three or more steps. Start by adding about 1/3 of the water in the mash tun. Mix in about 1/3 of the grain, stirring for at least 60 seconds. Next an additional 1/3 of the water should be added, followed by another addition of the grain and another minute of mixing. This is repeated once more to fill the mash vessel. Do not skimp and omit the mash-out. The mash-out at 168° F lowers the viscosity of the wort, making the sparge easier. Also, this halts all enzyme activity, ensuring that the dextrinous character of the wort will remain unchanged after mashing.
 
+https://www.fivebladesbrewing.com/toasting-oats-guide/
+
 TODO
 ====
 
