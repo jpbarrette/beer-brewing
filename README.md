@@ -83,6 +83,10 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 * Need to check why first batch is gushing
 * Need to read about priming sugar quantity
 * Do I need to recirculate wort?
+* Need to experiment or read on [late hopping](http://www.mrmalty.com/late_hopping.php):
+     * https://www.homebrewersassociation.org/how-to-brew/effect-post-boilwhirlpool-hop-additions-bitterness-beer/
+     * https://beerandbrewing.com/the-best-way-to-use-whirlpool-hops-in-homebrew/
+     * https://byo.com/article/hop-stands/
 
 # Next Recipes
 
