@@ -11,7 +11,7 @@ library(xml2)
 source("biab-calculator.R")
 
 # retrieve the xml recipe
-beerxml_output <- read_xml("brewlog.xml")
+beerxml_output <- read_xml(brewlog_file)
 
 batch_size <- xml_double(xml_find_first(beerxml_output, xpath='//BATCH_SIZE'))
 grain_weight <- sum(xml_double(xml_find_all(beerxml_output, xpath='//FERMENTABLES/*/AMOUNT')))
@@ -49,7 +49,7 @@ recipe <- create_metric_recipe(grain_weight, grain_temp, batch_size, mash_temp, 
 library(xml2)
 library(knitr)
 
-data <- XML::xmlParse('brewlog.xml')
+data <- XML::xmlParse(brewlog_file)
 fermentables <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//FERMENTABLES/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "character", "double", "double", "double", "character", "character"))
 
 hops <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//HOPS/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "double", "double", "character", "character", "integer", "character", "double", "double"))

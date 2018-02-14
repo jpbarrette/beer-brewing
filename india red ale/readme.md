@@ -11,17 +11,17 @@ Jean-Philippe Barrette-LaPierre
         -   Grain Temp: 20 Celsius
         -   Batch Size: 9 Liters
         -   Mash Temp: 65 Celsius
-        -   Boil Time: 60 Minutes
+        -   Boil Time: 75 Minutes
     -   System Variables
         -   Kettle Size: Liters
         -   Trub: 1.5 Liters
         -   Boiloff Rate: 2.75 Liters/Houree
         -   Grain Absorption: 0.48 Liters/Kilograms of grain
     -   Output
-        -   Total Water Needed: 14.34 Liters
+        -   Total Water Needed: 15.03 Liters
         -   Strike Water Temp: 65.7 Celsius
-        -   Total Mash Volume: 15.87 Liters
-        -   Preboil Wort: 13.25 Liters
+        -   Total Mash Volume: 16.55 Liters
+        -   Preboil Wort: 13.94 Liters
         -   Postboil Wort: 10.5 Liters
         -   Into Fermenter: 9 Liters
 
@@ -53,6 +53,7 @@ Preparation Notes
     <blockquote>
     When subjected to the temperature and agitation of boiling, complex reactions occur between sugars and amino acids, producing substances known as melanoidins. These are usually considered pleasant, resulting in flavors typically associated with the browning of meats and bread. Longer boiling times result in increased melanoidin production and are a major cause of wort darkening. It should be noted this is not quite the same thing as sugar caramelization, which requires higher temperatures and less water than what is present during boiling. Caramelization is part of the process that occurs during the production of crystal and other colored malts.
     </blockquote>
+    What it means is that for that India Red Ale, is that we want more of those melaniodins.
 -   Given the following [article](https://byo.com/article/hop-stands/), I'll add the whirpool hop when I reach 78C and then let it cooldown the whole night.
 -   I'll add the dry hop loose as the [following article](http://brulosophy.com/2017/07/03/loose-vs-bagged-dry-hops-exbeeriment-results/) seems to point that it doesn't matter much (for my setup).
 -   I'll add the dry hopping in two pass: after 3 days of fermentation and 4 days before the end. I was scared about the "grassy taste", but [this article](http://brulosophy.com/2015/10/26/dry-hop-length-long-vs-short-exbeeriment-results/) put my mind to peace
