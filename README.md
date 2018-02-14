@@ -196,3 +196,33 @@ Tools
 
 * https://biabbrewing.com/brew-day-prep/biab-calculators-and-software/
 * http://www.biabrewer.info/
+
+
+FAQ
+---
+
+### Why 75 minutes boiling time?
+
+For more information, here's a good [article](https://byo.com/article/boiling-advanced-brewing/) from BYO magazine. The [following article](https://www.homebrewsupply.com/learn/60-90-otherwise-finding-best-boil-time.html) indicates different boiling times depending of style. The reason why you would need more boiling time is mentioned in this [thread](https://www.homebrewtalk.com/forum/threads/90min-vs-60min-boil.87058/) and the [following](https://www.homebrewersassociation.org/forum/index.php?topic=7513.0):
+
+* To increase wort carmelization
+* To breakdown DMS pre-cusors
+* To form and skim hot break prior to 60 minute bittering additions
+* To "slightly" increase hop utilization (See Fix, Principles or any brewing software)
+* To facilitate melanoidin creation (longer boils tends to darken the wort and there are maillard reactions taking place producing more melanoidins that enhance the maltiness of the wort)
+* To better improve hot break coagulation
+* To better accomodate consequtive batching.
+* To allow more time for drinkin' while brewin'.
+
+However, from the following articles brulosophy seems to indicate that it doesn't change anything:
+
+* http://brulosophy.com/2015/09/14/boil-length-pt-2-pilsner-malt-exbeeriment-results/
+* http://brulosophy.com/2017/11/13/boil-length-pt-3-60-minutes-vs-180-minutes-exbeeriment-results/
+* http://brulosophy.com/2015/03/11/the-impact-of-boil-length-ale-exbeeriment-results/
+
+* http://bavarianbrewerytech.com/news/boilhops.htm
+* https://byo.com/article/boiling-advanced-brewing/
+
+* 
+          
+
