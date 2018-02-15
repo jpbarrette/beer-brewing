@@ -11,7 +11,6 @@ Keeping track of my beer brewing experiments
 * Trub size: 1.5 L^[Calculated on 2018/01/27]
 * Kettle size: 27 L
 
-
 # Brew sessions
 
 * 2017/06/18 - [Mosaic Session IPA](mosaic session ipa/brewlog 2017-06-18.md) ([Karl Stauss' Mosaic Session IPA](https://www.ratebeer.com/beer/karl-strauss-mosaic-session-ipa/248383/) Clone, American IPA
@@ -75,6 +74,11 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 * http://www.homebrewfinds.com/2015/08/guest-post-brew-in-a-bag-bag-material-does-it-matter-by-rex-slagel-10-off.html
 * https://www.reddit.com/r/Homebrewing/comments/2u1gif/tips_for_improving_my_biab_efficiency/
 * http://www.beersmith.com/forum/index.php?topic=6878.0
+
+## Hops
+
+* http://www.mrmalty.com/late_hopping.php
+* https://patspints.com/2016/05/23/american-ipas-part-3-five-hops-that-shaped-your-ipa/
 
 # TODO
 

@@ -20,29 +20,44 @@ mash_temp <- xml_double(xml_find_first(beerxml_output, xpath='//MASH/MASH_STEPS/
 boil_time <- xml_double(xml_find_first(beerxml_output, xpath='//BOIL_TIME'))
 
 
+timetaken <- function(mins)
+{
+   hrs <- mins %/% 60
+   days <- hrs %/% 24
+   
+   if (days == 1) "1 day"
+   else if (days >= 1) sprintf("%d days", as.integer(days)) 
+   else sprintf("%02.0f mins", mins)
+}
+
+
 recipe <- create_metric_recipe(grain_weight, grain_temp, batch_size, mash_temp, boil_time, system_variables)
 ```
+# [BIAB Calculator](http://www.biabcalculator.com/)
 
+## Recipe Parameter
 
-* [BIAB Calculator](http://www.biabcalculator.com/)
-    * Recipe Parameters
-        * Grain Bill: `r recipe$grain_weight` Kilograms
-        * Grain Temp: `r recipe$grain_temp` Celsius
-        * Batch Size: `r recipe$batch_size` Liters
-        * Mash Temp: `r recipe$mash_temp` Celsius
-        * Boil Time: `r recipe$boil_time` Minutes
-    * System Variables
-        * Kettle Size: `r recipe$kettle_size` Liters
-        * Trub: `r recipe$trub_size` Liters
-        * Boiloff Rate: `r recipe$boiloff_rate` Liters/Houree
-        * Grain Absorption: `r recipe$grain_absorption` Liters/Kilograms of grain
-    * Output
-        * Total Water Needed: `r round(get_water_needed(recipe), 2)` Liters
-        * Strike Water Temp: `r round(get_strike_water_temp(recipe), 1)` Celsius
-        * Total Mash Volume: `r round(get_total_mash_volume(recipe), 2)` Liters
-        * Preboil Wort: `r round(get_pre_boil_wort_volume(recipe), 2)` Liters
-        * Postboil Wort: `r round(get_post_boil_wort_volume(recipe), 2)` Liters
-        * Into Fermenter: `r round(get_fermenter_volume(recipe), 2)` Liters
+* Grain Bill: `r recipe$grain_weight` Kilograms
+* Grain Temp: `r recipe$grain_temp` Celsius
+* Batch Size: `r recipe$batch_size` Liters
+* Mash Temp: `r recipe$mash_temp` Celsius
+* Boil Time: `r recipe$boil_time` Minutes
+    
+## System Variables
+
+* Kettle Size: `r recipe$kettle_size` Liters
+* Trub: `r recipe$trub_size` Liters
+* Boiloff Rate: `r recipe$boiloff_rate` Liters/Houree
+* Grain Absorption: `r recipe$grain_absorption` Liters/Kilograms of grain
+    
+## Recipe Output
+
+* Total Water Needed: `r round(get_water_needed(recipe), 2)` Liters
+* Strike Water Temp: `r round(get_strike_water_temp(recipe), 1)` Celsius
+* Total Mash Volume: `r round(get_total_mash_volume(recipe), 2)` Liters
+* Preboil Wort: `r round(get_pre_boil_wort_volume(recipe), 2)` Liters
+* Postboil Wort: `r round(get_post_boil_wort_volume(recipe), 2)` Liters
+* Into Fermenter: `r round(get_fermenter_volume(recipe), 2)` Liters
         
 ```{r kable, echo=FALSE}
 
@@ -55,7 +70,20 @@ fermentables <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//FERMENTABLE
 hops <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//HOPS/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "double", "double", "character", "character", "integer", "character", "double", "double"))
 hops$TIME <- as.difftime(hops$TIME, units="mins")
 
+```
+
+# Fermentables 
+
+```{r kable-fermentables, echo=FALSE}
+
 kable(fermentables)
+
+```
+
+# Hops 
+
+```{r kable-hops, echo=FALSE}
+
 kable(hops)
 
 ```
