@@ -7,7 +7,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r cars, include=FALSE}
 library(rvest)
 library(xml2)
-
+library(dplyr)
 source("biab-calculator.R")
 
 # retrieve the xml recipe
@@ -19,21 +19,25 @@ grain_temp <- xml_double(xml_find_first(beerxml_output, xpath='//MASH/GRAIN_TEMP
 mash_temp <- xml_double(xml_find_first(beerxml_output, xpath='//MASH/MASH_STEPS/*/STEP_TEMP'))
 boil_time <- xml_double(xml_find_first(beerxml_output, xpath='//BOIL_TIME'))
 
-
+# TODO fix this
 timetaken <- function(mins)
 {
    hrs <- mins %/% 60
    days <- hrs %/% 24
    
-   if (days == 1) "1 day"
-   else if (days >= 1) sprintf("%d days", as.integer(days)) 
-   else sprintf("%02.0f mins", mins)
+   ifelse (days == 1, "1 day", days)
+           ifelse(days >= 1, sprintf("%d days", as.integer(days)),
+                  sprintf("%.0f mins", mins))
 }
 
 
 recipe <- create_metric_recipe(grain_weight, grain_temp, batch_size, mash_temp, boil_time, system_variables)
 ```
-# [BIAB Calculator](http://www.biabcalculator.com/)
+# BIAB Calculator
+
+Calculations taken from [BIAB Calculator](http://www.biabcalculator.com/)
+
+TODO: Add method, style, etc.
 
 ## Recipe Parameter
 
@@ -65,10 +69,16 @@ library(xml2)
 library(knitr)
 
 data <- XML::xmlParse(brewlog_file)
-fermentables <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//FERMENTABLES/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "character", "double", "double", "double", "character", "character"))
+fermentables <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//FERMENTABLES/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "character", "double", "double", "double", "character", "character")) %>% mutate(Name = paste(ORIGIN, " - " , NAME), Amount = AMOUNT, Yield = YIELD, Lovibond = COLOR, "Bill %" = sprintf("%.1f", Amount/sum(Amount) * 100)) %>% select(Name, Amount, Yield, Lovibond, "Bill %")
 
 hops <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//HOPS/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "double", "double", "character", "character", "integer", "character", "double", "double"))
-hops$TIME <- as.difftime(hops$TIME, units="mins")
+#hops$TIME <- as.difftime(hops$TIME, units="mins") 
+
+#TODO Add IBU
+hops <- mutate(hops, Amount=sprintf("%.fg", AMOUNT*1000), AA=ALPHA, Variety=NAME, Type=FORM, Use = USE, Time = timetaken(TIME)) %>% 
+  select(Amount, Variety, Type, AA, Use, Time)
+
+
 
 ```
 

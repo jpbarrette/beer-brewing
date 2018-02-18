@@ -11,22 +11,22 @@
   <BOIL_SIZE>13.25</BOIL_SIZE>
   <BOIL_TIME>75</BOIL_TIME>
   <EFFICIENCY>75</EFFICIENCY>
-  <NOTES>Original recipe taken from here: https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html</NOTES>
+  <NOTES></NOTES>
   <EST_COLOR>13.24</EST_COLOR>
-  <IBU>65.24</IBU>
+  <IBU>63.25</IBU>
   <IBU_METHOD>Tinseth</IBU_METHOD>
-  <EST_ABV>6.53</EST_ABV>
+  <EST_ABV>6.41</EST_ABV>
   <EST_OG>1.06 sg</EST_OG>
-  <EST_FG>1.01 sg</EST_FG>
+  <EST_FG>1.011 sg</EST_FG>
   <OG>1.06</OG>
-  <FG>1.01</FG>
+  <FG>1.011</FG>
   <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
   <CARBONATION_USED></CARBONATION_USED>
   <BF_PRIMING_METHOD></BF_PRIMING_METHOD>
   <BF_PRIMING_AMOUNT></BF_PRIMING_AMOUNT>
   <BF_CO2_LEVEL></BF_CO2_LEVEL>
   <BF_CO2_UNIT>Volumes</BF_CO2_UNIT>
-  <URL></URL>
+  <URL>https://github.com/jpbarrette/beer-brewing/tree/master/india%20red%20ale</URL>
   <BATCH_SIZE_MODE>f</BATCH_SIZE_MODE>
   <YEAST_STARTER>false</YEAST_STARTER>
   <NO_CHILL_EXTRA_MINUTES></NO_CHILL_EXTRA_MINUTES>
@@ -76,17 +76,17 @@
    <HOP>
     <NAME>Centennial</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>8.5</ALPHA>
-    <AMOUNT>0.025</AMOUNT>
+    <ALPHA>10.3</ALPHA>
+    <AMOUNT>0.02</AMOUNT>
     <USE>Boil</USE>
     <USER_HOP_USE>Boil</USER_HOP_USE>
     <TIME>60</TIME>
     <FORM>Pellet</FORM>
    </HOP>
    <HOP>
-    <NAME>Amarillo</NAME>
+    <NAME>Cascade</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>6.7</ALPHA>
+    <ALPHA>6.2</ALPHA>
     <AMOUNT>0.025</AMOUNT>
     <USE>Aroma</USE>
     <USER_HOP_USE>Whirlpool</USER_HOP_USE>
@@ -98,7 +98,7 @@
    <HOP>
     <NAME>Centennial</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>8.5</ALPHA>
+    <ALPHA>10.3</ALPHA>
     <AMOUNT>0.025</AMOUNT>
     <USE>Aroma</USE>
     <USER_HOP_USE>Whirlpool</USER_HOP_USE>
@@ -108,9 +108,9 @@
     <TEMPERATURE>78</TEMPERATURE>
    </HOP>
    <HOP>
-    <NAME>Amarillo</NAME>
+    <NAME>Cascade</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>6.7</ALPHA>
+    <ALPHA>6.2</ALPHA>
     <AMOUNT>0.0125</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
@@ -120,7 +120,7 @@
    <HOP>
     <NAME>Centennial</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>8.5</ALPHA>
+    <ALPHA>10.3</ALPHA>
     <AMOUNT>0.0125</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
@@ -128,9 +128,9 @@
     <FORM>Pellet</FORM>
    </HOP>
    <HOP>
-    <NAME>Amarillo</NAME>
+    <NAME>Cascade</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>6.7</ALPHA>
+    <ALPHA>6.2</ALPHA>
     <AMOUNT>0.0125</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
@@ -138,9 +138,9 @@
     <FORM>Pellet</FORM>
    </HOP>
    <HOP>
-    <NAME>Amarillo</NAME>
+    <NAME>Centennial</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>6.7</ALPHA>
+    <ALPHA>10.3</ALPHA>
     <AMOUNT>0.0125</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
@@ -160,7 +160,7 @@
      <TYPE>Infusion</TYPE>
      <STEP_TIME>60</STEP_TIME>
      <INFUSE_AMOUNT>15.85</INFUSE_AMOUNT>
-     <STEP_TEMP>65</STEP_TEMP>
+     <STEP_TEMP>67</STEP_TEMP>
     </MASH_STEP>
    </MASH_STEPS>
   </MASH>
