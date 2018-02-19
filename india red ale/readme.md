@@ -3,12 +3,48 @@ Mad Fermentiationist's India Red Ale
 
 [original recipe](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/601663/mad-fermentationist-s-india-red-ale)
 
+Recipe
+======
+
+-   Method: BIAB
+-   Style: Specialty IPA: Red IPA
+-   Batch Size: 9 Liters (fermentor volume)
+-   Boil Gravity: TODO (recipe based estimate)
+-   Efficiency: 75% (brew house)
+-   Source: The Mad Fermentationist
+-   Original Gravity: 1.060
+-   Final Gravity: 1.011
+-   ABV (standard): 6.41%
+-   IBU (tinseth): 63.25
+-   SRM (morey): 13.24
+
+Fermentables
+============
+
+| Name                       |  Amount|  Yield|  Lovibond| Bill % |
+|:---------------------------|-------:|------:|---------:|:-------|
+| Belgian - Pale Ale         |    1.95|  82.61|       3.4| 85.5   |
+| German - CaraHell          |    0.14|  73.91|      11.0| 6.1    |
+| Belgian - Munich           |    0.14|  82.61|       6.0| 6.1    |
+| German - De-Husked Caraf I |    0.05|  69.57|     340.0| 2.2    |
+
+Hops
+====
+
+| Amount | Variety    | Type   |    AA| Use     | Time    |
+|:-------|:-----------|:-------|-----:|:--------|:--------|
+| 20g    | Centennial | Pellet |  10.3| Boil    | 60 mins |
+| 25g    | Cascade    | Pellet |   6.2| Aroma   | 0 mins  |
+| 25g    | Centennial | Pellet |  10.3| Aroma   | 0 mins  |
+| 12g    | Cascade    | Pellet |   6.2| Dry Hop | 3 days  |
+| 12g    | Centennial | Pellet |  10.3| Dry Hop | 3 days  |
+| 12g    | Cascade    | Pellet |   6.2| Dry Hop | 10 days |
+| 12g    | Centennial | Pellet |  10.3| Dry Hop | 10 days |
+
 BIAB Calculator
 ===============
 
-Calculations taken from [BIAB Calculator](http://www.biabcalculator.com/)
-
-TODO: Add method, style, etc.
+Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIAB Calculator](http://www.biabcalculator.com/)
 
 Recipe Parameter
 ----------------
@@ -37,29 +73,6 @@ Recipe Output
 -   Postboil Wort: 10.5 Liters
 -   Into Fermenter: 9 Liters
 
-Fermentables
-============
-
-| Name                       |  Amount|  Yield|  Lovibond| Bill % |
-|:---------------------------|-------:|------:|---------:|:-------|
-| Belgian - Pale Ale         |    1.95|  82.61|       3.4| 85.5   |
-| German - CaraHell          |    0.14|  73.91|      11.0| 6.1    |
-| Belgian - Munich           |    0.14|  82.61|       6.0| 6.1    |
-| German - De-Husked Caraf I |    0.05|  69.57|     340.0| 2.2    |
-
-Hops
-====
-
-| Amount | Variety    | Type   |    AA| Use     | Time    |
-|:-------|:-----------|:-------|-----:|:--------|:--------|
-| 20g    | Centennial | Pellet |  10.3| Boil    | 60 mins |
-| 25g    | Cascade    | Pellet |   6.2| Aroma   | 0 mins  |
-| 25g    | Centennial | Pellet |  10.3| Aroma   | 0 mins  |
-| 12g    | Cascade    | Pellet |   6.2| Dry Hop | 3 days  |
-| 12g    | Centennial | Pellet |  10.3| Dry Hop | 3 days  |
-| 12g    | Cascade    | Pellet |   6.2| Dry Hop | 10 days |
-| 12g    | Centennial | Pellet |  10.3| Dry Hop | 10 days |
-
 Recipe Notes
 ============
 
@@ -71,5 +84,5 @@ Recipe Notes
 -   Given the following [article](https://byo.com/article/hop-stands/), I'll add the whirpool hop when I reach 78C and then let it cooldown the whole night.
 -   I'll add the dry hop loose as the [following article](http://brulosophy.com/2017/07/03/loose-vs-bagged-dry-hops-exbeeriment-results/) seems to point that it doesn't matter much (for my setup).
 -   I'll add the dry hopping in two pass: after 3 days of fermentation and 4 days before the end. I was scared about the "grassy taste", but [this article](http://brulosophy.com/2015/10/26/dry-hop-length-long-vs-short-exbeeriment-results/) put my mind to peace
--   I've changed the pale chocolate malt from the original recipe to Weyermann's "Carafa Special I" (de-husked/unbittered). If you want more details on substitution, you can read the [following article](http://brulosophy.com/2017/08/07/roasted-grains-pt-3-carafa-special-ii-vs-chocolate-malt-exbeeriment-results/), but note that I put Carafa Special I, which color is closer to Briess' *pale* chocolate malt.
+-   I've changed the pale chocolate malt from the original recipe to Weyermann's "Carafa Special I" (de-husked/unbittered). If you want more details on substitution, you can read the [following article](http://brulosophy.com/2017/08/07/roasted-grains-pt-3-carafa-special-ii-vs-chocolate-malt-exbeeriment-results/), but note that I put Carafa Special I, which color is closer to Briess' *pale* chocolate malt (but it's not going to be a problem here).
 -   Reading [this article](https://byo.com/article/the-science-of-step-mashing/), I thought about changing the mashing temp to 67 instead of using the two saccharification rest from the original recipe.
