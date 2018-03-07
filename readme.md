@@ -21,6 +21,8 @@ Keeping track of my beer brewing experiments
 
 # Articles
 
+* https://www.themadfermentationist.com/2013/04/the-four-stages-of-homebrewing.html
+
 ## Tips
 
 * http://beersmith.com/blog/2008/07/04/5-ways-to-improve-your-all-grain-beer-efficiency/
@@ -81,6 +83,12 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 
 * http://www.mrmalty.com/late_hopping.php
 * https://patspints.com/2016/05/23/american-ipas-part-3-five-hops-that-shaped-your-ipa/
+* Hop Utilization/Late Hopping:
+    * [A Modified IBU Calculation (Especially for Late Hopping and Whirlpool Hops)](https://alchemyoverlord.wordpress.com/2015/05/12/a-modified-ibu-measurement-especially-for-late-hopping/)
+    * [An Analysis of Sub-Boiling Hop Utilization](https://alchemyoverlord.wordpress.com/2016/03/06/an-analysis-of-sub-boiling-hop-utilization/)
+    * [A Summary of Factors Affecting IBUs](https://alchemyoverlord.wordpress.com/2017/01/03/a-summary-of-factors-affecting-ibus/)
+    * [https://alchemyoverlord.wordpress.com/2015/08/19/techniques-for-maximizing-hop-flavor-and-aroma/]
+    * https://byo.com/article/behind-the-ibu-advanced-brewing/
 
 # TODO
 
