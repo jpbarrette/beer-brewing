@@ -233,3 +233,15 @@ Tools
    * https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout
 * Americal Pale Ale
    * https://byo.com/recipe/benjamin-sharps-american-pale-ale/ (no malt conversion)
+
+Books Whishlist
+---------------
+
+* Listed [here](https://learn.kegerator.com/homebrewing-books/)
+
+
+Equipment Whishlist
+-------------------
+
+* Brewing heater trays, mats and belts (warming plates)
+* https://learn.kegerator.com/brewing-gadgets/
