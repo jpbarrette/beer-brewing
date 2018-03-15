@@ -47,9 +47,9 @@ timetaken <- function(mins)
 
 
 data <- XML::xmlParse(brewlog_file)
-fermentables <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//FERMENTABLES/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "character", "double", "double", "double", "character", "character")) %>% mutate(Name = paste(ORIGIN, " - " , NAME), Amount = AMOUNT, Yield = YIELD, Lovibond = COLOR, "Bill %" = sprintf("%.1f", Amount/sum(Amount) * 100)) %>% select(Name, Amount, Yield, Lovibond, "Bill %")
+fermentables <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//FERMENTABLES/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "character", "double", "double", "double", "character", "character")) %>% mutate(Name = paste(ORIGIN, " - " , NAME), Amount = AMOUNT, Yield = YIELD, Lovibond = COLOR, "Bill %" = sprintf("%.1f", Amount/sum(Amount) * 100)) %>% select(Name, Amount, Yield, Lovibond, "Bill %") 
 
-hops <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//HOPS/*"), stringsAsFactors = FALSE, colClasses=c("character", "integer", "double", "double", "character", "character", "integer", "character", "double", "double"))
+hops <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//HOPS/*"), stringsAsFactors = FALSE) %>% select(AMOUNT, ALPHA, NAME, FORM, USE, TIME) %>% transform(AMOUNT = as.numeric(AMOUNT), ALPHA = as.numeric(ALPHA), TIME = as.numeric(TIME))
 #hops$TIME <- as.difftime(hops$TIME, units="mins") 
 
 #TODO Add IBU
