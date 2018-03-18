@@ -13,7 +13,7 @@ Keeping track of my beer brewing experiments
 
 # Brew sessions
 
-* 2017/06/18 - [Mosaic Session IPA](mosaic session ipa/brewlog 2017-06-18.md) ([Karl Stauss' Mosaic Session IPA](https://www.ratebeer.com/beer/karl-strauss-mosaic-session-ipa/248383/) Clone, American IPA
+* 2017/06/18 - [Mosaic Session IPA](mosaic%20session%20ipa/brewlog%202017-06-18.md) ([Karl Stauss' Mosaic Session IPA](https://www.ratebeer.com/beer/karl-strauss-mosaic-session-ipa/248383/) Clone, American IPA
 * 2017/09/13 - [MacGyvers's Island](macgyvers-island/brewlog 2017-09-13.md) ([Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone, American Wheat Ale
 * 2017/10/28 - [What Does Malt Taste Like](what-does-malt-taste-like/brewlog 2017-10-28.md), Northern English Brown Ale
 * 2017/11/10 - [John Palmer's Amber Ale ("Wheat + Belgiumified")](john palmers amber/brewlog 2017-11-10.md)
