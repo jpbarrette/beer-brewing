@@ -24,4 +24,9 @@ brewlog_file = '../macgyvers-island/brewlog 2018-03-17.xml'
 * (21h50) Flame out, put whirlpool hop and lid. Waited for 10 minutes.
 * (22h00) Started wort chilling.
 * (22h15) Wort at 21C. Took final gravity from trub. Wort in fermenter 10.8L, OG: 1.040. Boiloff rate calculation must be wrong. Need to check. In my calculation I put trub size, but it was zero in previous recipe. Estimation of preboil volume is 15.31, but it's was 15.85 (but might be okay since it needs to be temperature corrected). Need to recheck size with 20C water.
+* I let the hop cones free in the wort. Caused my grief when tried to rack in the fermenter. I broke my auto siphon. Next time just put the grain bag and add the hop in it.
 * (8h) Temp of cooler was 16C. Might be too cold. Fermentation didn't started. Will see tomorrow morning.
+
+# Post Notes
+
+* Awesome [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/)
