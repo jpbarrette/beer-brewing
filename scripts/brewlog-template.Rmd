@@ -52,7 +52,7 @@ Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIA
 
 * Kettle Size: `r recipe$kettle_size` Liters
 * Trub: `r recipe$trub_size` Liters
-* Boiloff Rate: `r recipe$boiloff_rate` Liters/Houree
+* Boiloff Rate: `r recipe$boiloff_rate` Liters/Hour
 * Grain Absorption: `r recipe$grain_absorption` Liters/Kilograms of grain
     
 ## Recipe Output
