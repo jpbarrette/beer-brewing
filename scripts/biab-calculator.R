@@ -38,3 +38,8 @@ get_fermenter_volume = function (recipe) {
   # volume into fermenter - remove trub value
   get_post_boil_wort_volume(recipe) - recipe$trub
 }
+
+get_lovibond_to_ebc = function(lov) {
+  ((1.3546 * lov) - 0.76) * 1.97
+}
+

@@ -1,0 +1,28 @@
+---
+title: "Mad Fermentiationist's India Red Ale"
+output: github_document
+---
+
+
+[original recipe](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/601663/mad-fermentationist-s-india-red-ale)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../india red ale/brewlog 2018-03-23.xml'
+
+```
+
+```{r test-include, child = '../scripts/brewlog-template.Rmd'}
+```
+
+# Recipe Notes
+
+* In the BIAB calculator, I've specified 1.5L of trub, even though I usually pour everything. However, I'm scared of the hop going in the fermenter. So, I'll really try to let 1.5 liters of trub in the kettle.
+* For aroma hop, I won't put it in a hop bag, but rather use my BIAB bag to put it in it, as I do for malt. It will give a lot of space, but still be able to pick hop out of the word before racking.
+* I wanted to use 75 minutes boiling time, as indicated in the recipe. I was wondering why, but the [following article](https://byo.com/article/boiling-advanced-brewing/) gave me the answer (For more information, look at the FAQ):<blockquote>When subjected to the temperature and agitation of boiling, complex reactions occur between sugars and amino acids, producing substances known as melanoidins. These are usually considered pleasant, resulting in flavors typically associated with the browning of meats and bread. Longer boiling times result in increased melanoidin production and are a major cause of wort darkening. It should be noted this is not quite the same thing as sugar caramelization, which requires higher temperatures and less water than what is present during boiling. Caramelization is part of the process that occurs during the production of crystal and other colored malts.</blockquote>What it means is that for that India Red Ale, is that we want more of those melaniodins. *However*, I still need to figure out what it means to have 75 minutes boil for BIAB. I probably need to add water just after mash out and start the boil. *For now*, let's put this aside.
+* Given the following [article](https://byo.com/article/hop-stands/), I was tempted to add the whirpool hop when I reached 78C and then let it cooldown the whole night. However, reading some [newer](https://byo.com/article/save-hops-post-boil/) [articles](https://www.homebrewersassociation.org/how-to-brew/effect-post-boilwhirlpool-hop-additions-bitterness-beer/), it seems it's better to add whirpool hop right after flame out, cover the kettle and let it stay for 10 minutes. 
+* I'll add the dry hop loose as the [following article](http://brulosophy.com/2017/07/03/loose-vs-bagged-dry-hops-exbeeriment-results/) seems to point that it doesn't matter much (for my setup, especially since I use 11L FastFerment conical fermenter).
+* I'll add the dry hopping 4 days before the end (read [this article](http://brulosophy.com/2015/10/26/dry-hop-length-long-vs-short-exbeeriment-results/)).
+* I've changed the pale chocolate malt from the original recipe to Weyermann's "Carafa Special I" (de-husked/unbittered), as mentionned by Michael Tonsmeire's recipe. If you want more details on substitution, you can read the [following article](http://brulosophy.com/2017/08/07/roasted-grains-pt-3-carafa-special-ii-vs-chocolate-malt-exbeeriment-results/), but note that I put Carafa Special I, which color is closer to Briess' *pale* chocolate malt (while the article talks about chocolate malt and Carafa Special II).
+* Reading [this article](https://byo.com/article/the-science-of-step-mashing/), I thought about changing the mashing temp to 67 instead of using the two saccharification rest from the original recipe. Later on, reading [recipe's comments](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html?showComment=1412987939054#c5460137782604240413), I got my confirmation it was okay: <blockquote>you'd likely be fine targeting a temperature around 152F for the duration!</blockquote>
+
