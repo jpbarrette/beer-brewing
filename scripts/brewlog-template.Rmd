@@ -1,0 +1,66 @@
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+source('brewlog-template.R')
+
+```
+
+# Recipe
+
+* Method: BIAB
+* Style: `r style`
+* Batch Size: `r batch_size` Liters (fermentor volume)  
+* Boil Gravity: TODO (recipe based estimate)  
+* Efficiency: `r efficiency`% (brew house)  
+* Source: `r recipe_source`
+* Original Gravity: `r original_gravity` 
+* Final Gravity: `r final_gravity`
+* ABV (standard): `r abv`%
+* IBU (tinseth): `r ibu`
+* SRM (morey): `r srm`
+
+# Fermentables 
+
+```{r kable-fermentables, echo=FALSE}
+
+kable(fermentables)
+
+```
+
+# Hops 
+
+```{r kable-hops, echo=FALSE}
+
+kable(hops)
+
+```
+
+# BIAB Calculator
+
+Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIAB Calculator](http://www.biabcalculator.com/)
+
+## Recipe Parameter
+
+* Grain Bill: `r recipe$grain_weight` Kilograms
+* Grain Temp: `r recipe$grain_temp` Celsius
+* Batch Size: `r recipe$batch_size` Liters
+* Mash Temp: `r recipe$mash_temp` Celsius
+* Boil Time: `r recipe$boil_time` Minutes
+    
+## System Variables
+
+* Kettle Size: `r recipe$kettle_size` Liters
+* Trub: `r recipe$trub_size` Liters
+* Boiloff Rate: `r recipe$boiloff_rate` Liters/Hour
+* Grain Absorption: `r recipe$grain_absorption` Liters/Kilograms of grain
+    
+## Recipe Output
+
+* Total Water Needed: `r round(get_water_needed(recipe), 2)` Liters
+* Strike Water Temp: `r round(get_strike_water_temp(recipe), 1)` Celsius
+* Total Mash Volume: `r round(get_total_mash_volume(recipe), 2)` Liters
+* Preboil Wort: `r preboil_wort_volume` Liters
+* Postboil Wort: `r postboil_wort_volume` Liters
+* Into Fermenter: `r round(get_fermenter_volume(recipe), 2)` Liters
+        

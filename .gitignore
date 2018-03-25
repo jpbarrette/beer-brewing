@@ -1,2 +1,11 @@
 *.html
 samuel smith oatmeal stout/readme.md~
+india red ale/.Rhistory
+*.Rmd~
+*.R~
+*.md~
+*.Rmd#
+*.R#
+scripts/.#brewlog-template.Rmd
+scripts/.#brewlog-template.R
+scripts/.Rhistory

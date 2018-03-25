@@ -47,6 +47,7 @@ Mash Guidelines
 Brewing Session Notes
 ---------------------
 
+
 (from [BYO](https://byo.com/article/oatmeal-stout-style/)) Mash-in, Mash-out: The initial mixing of grain and water, called the mash-in or dough-in, should be done carefully, in multiple steps. If the mash-in is done too rapidly or the mixing is poor, the starches in the grains can ball up and will not undergo complete conversion. Do the mash-in in three or more steps. Start by adding about 1/3 of the water in the mash tun. Mix in about 1/3 of the grain, stirring for at least 60 seconds. Next an additional 1/3 of the water should be added, followed by another addition of the grain and another minute of mixing. This is repeated once more to fill the mash vessel. Do not skimp and omit the mash-out. The mash-out at 168° F lowers the viscosity of the wort, making the sparge easier. Also, this halts all enzyme activity, ensuring that the dextrinous character of the wort will remain unchanged after mashing.
 
 https://www.fivebladesbrewing.com/toasting-oats-guide/
@@ -137,53 +138,29 @@ Articles
 Recipes
 =======
 
-* Current [recipe](https://www.brewersfriend.com/homebrew/recipe/view/584592/black-house-2-european-malts)
+I used those different recipes to figure out how to modify the american malts:
+
+* This recipe was built and modified through brewersfriend.com's tool, and is available [here](https://www.brewersfriend.com/homebrew/recipe/view/584592/black-house-2-european-malts).
 * Original Modern Time's [recipe](https://www.themadfermentationist.com/2012/06/toasted-oat-coffee-stout.html)
-* my recipe is a clone of [brewersfriend](https://www.brewersfriend.com/homebrew/recipe/view/237325/black-house-2), but I changed some quantities in [here](https://www.brewersfriend.com/homebrew/recipe/view/591080/black-house-2-original)
-* alternative 1: https://www.brewersfriend.com/homebrew/recipe/view/410531/black-house-clone-v1-0
-* alternative 2: https://www.brewersfriend.com/homebrew/recipe/view/404548/black-house-modern-times
-* alternative 3: https://www.brewersfriend.com/homebrew/recipe/view/490519/black-house
-* Mikkeller: https://byo.com/recipe/106624/
+* My recipe is a clone of [brewersfriend](https://www.brewersfriend.com/homebrew/recipe/view/237325/black-house-2), but I changed some quantities in [here](https://www.brewersfriend.com/homebrew/recipe/view/591080/black-house-2-original)
+* [Black House clone #1](https://www.brewersfriend.com/homebrew/recipe/view/410531/black-house-clone-v1-0)
+* [Black House clone #2](https://www.brewersfriend.com/homebrew/recipe/view/404548/black-house-modern-times)
+* [Black House clone #3](https://www.brewersfriend.com/homebrew/recipe/view/490519/black-house)
+* [Mikkeller](https://byo.com/recipe/106624/)
 
-Maris Otter
------------
+Also, I did read the following articles/forum posts to replace the unavailable malts:
 
-* http://brulosophy.com/2016/06/06/grain-comparison-pt-2-maris-otter-vs-domestic-us-2-row-exbeeriment-results/
-* https://www.beeradvocate.com/community/threads/the-most-grainy-bready-base-malt-is-maris-otter-isnt-it.128008/
+* Maris Otter: [Maris Otter vs Domestic US 2-row](http://brulosophy.com/2016/06/06/grain-comparison-pt-2-maris-otter-vs-domestic-us-2-row-exbeeriment-results/), [The Most Grainy Bready Base Malt is Maris Otter, isn't it?](https://www.beeradvocate.com/community/threads/the-most-grainy-bready-base-malt-is-maris-otter-isnt-it.128008/)
+* [Briess Pale Chocolate (225.0 SRM)](http://www.brewingwithbriess.com/Products/Dark_Roasted.htm#2RowChocolate): All recipes changes the american pale chocolate by a "united kingdom - pale chocolate" which I'm sure is [Fawcett's pale chocolate](http://www.fawcett-maltsters.co.uk/range.html). Maybe I can add normal chocolate + coffee from http://www.castlemalting.com/CastleMaltingMalts.asp?P=105&Language=French. One solution I was looking at was to replace with [Weyermann Carafa Type I (dehusked)](https://bsgcraftbrewing.com/weyermann-carafa-dehusk-1-spec)
 
-Original Pale Chocolate (225.0 SRM)
------------------------------------
-
-http://www.brewingwithbriess.com/Products/Dark_Roasted.htm#2RowChocolate
-
-All recipes changes the american pale chocolate by a "united kingdom - pale chocolate" which I'm sure is [Fawcett's pale chocolate](http://www.fawcett-maltsters.co.uk/range.html)
-
-
-Crisp Malting?
-* https://www.rolling-beers.fr/fr/27_crisp-malting
-
-Maybe I can add normal chocolate + coffee from http://www.castlemalting.com/CastleMaltingMalts.asp?P=105&Language=French
-
-* One solution I was looking at was to replace with [Weyermann Carafa Type I (dehusked)](https://bsgcraftbrewing.com/weyermann-carafa-dehusk-1-spec)
-
-Briess Crystal 90L
-------------------
-
-* [Description](http://www.brewingwithbriess.com/Products/Caramel.htm#90L): Pronounced caramel, slight burnt sugar, raisiny, prunes	 
-
-* From [equivalencies](https://www.brew.is/files/malt.html), I could use CaraAroma, which correspond to Crystal 120 or use [MFB](https://www.malteriesfrancobelges.fr)'s CaraMunich 80.
-* https://www.homebrewtalk.com/forum/threads/caramel-crystal-malts-substitutes.402596/ Chateau Crystal? or [carared](https://bsgcraftbrewing.com/weyermann-carared-25-kg)
-* [CaraBohemian](https://bsgcraftbrewing.com/weyermann-cara-bohemian) could be good also (from previous discussion link) 
-
-Roasted Barley
---------------
-
-https://byo.com/article/using-roasted-barley-tips-from-the-pros/
-http://www.brewingwithbriess.com/Products/Roasted_Barley.htm#RoastedBarley
-https://bsgcraftbrewing.com/weyermann-roasted-barley-25-kg
-
-
-
+* [Briess Crystal 90L](http://www.brewingwithbriess.com/Products/Caramel.htm#90L): Pronounced caramel, slight burnt sugar, raisiny, prunes	 
+    * From [equivalencies](https://www.brew.is/files/malt.html), I could use CaraAroma, which correspond to Crystal 120 or use [MFB](https://www.malteriesfrancobelges.fr)'s CaraMunich 80.
+    * https://www.homebrewtalk.com/forum/threads/caramel-crystal-malts-substitutes.402596/ Chateau Crystal? or [carared](https://bsgcraftbrewing.com/weyermann-carared-25-kg)
+    * [CaraBohemian](https://bsgcraftbrewing.com/weyermann-cara-bohemian) could be good also (from previous discussion link) 
+* Roasted Barley
+    * https://byo.com/article/using-roasted-barley-tips-from-the-pros/
+    * http://www.brewingwithbriess.com/Products/Roasted_Barley.htm#RoastedBarley
+    * https://bsgcraftbrewing.com/weyermann-roasted-barley-25-kg
 
 Recipe Modification
 --------------------

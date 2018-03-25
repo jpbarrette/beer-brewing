@@ -11,14 +11,17 @@ Keeping track of my beer brewing experiments
 * Trub size: 1.5 L^[Calculated on 2018/01/27]
 * Kettle size: 27 L
 
-
 # Brew sessions
 
-* 2017/06/18 - [Mosaic Session IPA](mosaic session ipa/brewlog 2017-06-18.md) ([Karl Stauss' Mosaic Session IPA](https://www.ratebeer.com/beer/karl-strauss-mosaic-session-ipa/248383/) Clone, American IPA
+* 2017/06/18 - [Mosaic Session IPA](mosaic%20session%20ipa/brewlog%202017-06-18.md) ([Karl Stauss' Mosaic Session IPA](https://www.ratebeer.com/beer/karl-strauss-mosaic-session-ipa/248383/) Clone, American IPA
 * 2017/09/13 - [MacGyvers's Island](macgyvers-island/brewlog 2017-09-13.md) ([Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone, American Wheat Ale
 * 2017/10/28 - [What Does Malt Taste Like](what-does-malt-taste-like/brewlog 2017-10-28.md), Northern English Brown Ale
+* 2017/11/10 - [John Palmer's Amber Ale ("Wheat + Belgiumified")](john palmers amber/brewlog 2017-11-10.md)
+* 2018/01/27 - [Alpine Black House](black house/brewlog 2018-01-27.md), (Modern Time's Black House) Clone, Coffee Oatmeal Stout
 
 # Articles
+
+* https://www.themadfermentationist.com/2013/04/the-four-stages-of-homebrewing.html
 
 ## Tips
 
@@ -76,6 +79,17 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 * https://www.reddit.com/r/Homebrewing/comments/2u1gif/tips_for_improving_my_biab_efficiency/
 * http://www.beersmith.com/forum/index.php?topic=6878.0
 
+## Hops
+
+* http://www.mrmalty.com/late_hopping.php
+* https://patspints.com/2016/05/23/american-ipas-part-3-five-hops-that-shaped-your-ipa/
+* Hop Utilization/Late Hopping:
+    * [A Modified IBU Calculation (Especially for Late Hopping and Whirlpool Hops)](https://alchemyoverlord.wordpress.com/2015/05/12/a-modified-ibu-measurement-especially-for-late-hopping/)
+    * [An Analysis of Sub-Boiling Hop Utilization](https://alchemyoverlord.wordpress.com/2016/03/06/an-analysis-of-sub-boiling-hop-utilization/)
+    * [A Summary of Factors Affecting IBUs](https://alchemyoverlord.wordpress.com/2017/01/03/a-summary-of-factors-affecting-ibus/)
+    * [https://alchemyoverlord.wordpress.com/2015/08/19/techniques-for-maximizing-hop-flavor-and-aroma/]
+    * https://byo.com/article/behind-the-ibu-advanced-brewing/
+
 # TODO
 
 * I need to read a bit more about pitching rate?
@@ -88,22 +102,8 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
      * https://beerandbrewing.com/the-best-way-to-use-whirlpool-hops-in-homebrew/
      * https://byo.com/article/hop-stands/
 
-# Next Recipes
-
-* Amber Ale
-    * http://www.homebrewtalk.com/showthread.php?t=55809
-* Chilli Beer (Stout?)
-   * https://byo.com/body/item/859-hot-hot-hot-brewing-with-chili-peppers
-   * https://byo.com/bock/item/1088-make-your-beer-burn-bring-the-heat-of-hot-peppers-to-your-brewing
-   * http://www.homebrewing.com/articles/chile-beer/
-* Modern Times' Blazing World (Amber IPA)
-* Milk Stout
-   * https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout
-* Americal Pale Ale
-   * https://byo.com/recipe/benjamin-sharps-american-pale-ale/ (no malt conversion)
 
 ## pH
-
 
 * (From: http://www.basicbrewing.com/index.php?page=basic-brewing-radio-2007) January 11, 2007 - John Palmer on pH - John Palmer, author of How to Brew, walks us through the potentially intimidating topic of pH. John tells us how to measure pH and what to do with our measurements to improve our beers.
 
@@ -128,10 +128,6 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 ## YouTube 
 
 * https://www.youtube.com/channel/UCh_h4W2VmFdo3R8g1XaXN_Q
-
-## Irish Moss
-
-* http://www.homebrewtalk.com/showthread.php?t=87785
 
 
 ## Tips
@@ -166,29 +162,56 @@ search "trickle sparge beer brewing"
   * maybe due to slow boil: http://www.homebrewtalk.com/showthread.php?t=148179
   * http://www.love2brew.com/Articles.asp?ID=526
   * http://beerandwinejournal.com/proper-boil-ph/
-* I don't whirpool to separate the hot break material from the wort, is this a problem (however I use irish moss)? https://beerandbrewing.com/dictionary/aSbC3qutQd/hot-break/
 
-## Small Batches
+FAQ
+---
+
+### Why X minutes boiling time?^[For more information, here's a good [article](https://byo.com/article/boiling-advanced-brewing/) from BYO magazine. The [following article](https://www.homebrewsupply.com/learn/60-90-otherwise-finding-best-boil-time.html) indicates different boiling times depending of style.]
+
+When I first asked myself that question, it was for Mad Fermentationist's [India Red Ale](india red ale/readme.md). The recipe was asking for 75 boiling time.
+
+The reasons why someone would have longer boil time is mentioned in this [thread](https://www.homebrewtalk.com/forum/threads/90min-vs-60min-boil.87058/) and the [following](https://www.homebrewersassociation.org/forum/index.php?topic=7513.0):
+
+* To increase wort carmelization
+* To breakdown DMS pre-cusors
+* To form and skim hot break prior to 60 minute bittering additions
+* To "slightly" increase hop utilization (See Fix, Principles or any brewing software)
+* *To facilitate melanoidin creation (longer boils tends to darken the wort and there are maillard reactions taking place producing more melanoidins that enhance the maltiness of the wort)*
+* To better improve hot break coagulation
+* To better accomodate consequtive batching.
+* To allow more time for drinkin' while brewin'.
+
+For the [India Red Ale](india red ale/readme.md), my guess is that we want to facilitate the melanoidin creation. As mentionned in the [following article](https://byo.com/article/boiling-advanced-brewing/):<blockquote>When subjected to the temperature and agitation of boiling, complex reactions occur between sugars and amino acids, producing substances known as melanoidins. These are usually considered pleasant, resulting in flavors typically associated with the browning of meats and bread. Longer boiling times result in increased melanoidin production and are a major cause of wort darkening. It should be noted this is not quite the same thing as sugar caramelization, which requires higher temperatures and less water than what is present during boiling. Caramelization is part of the process that occurs during the production of crystal and other colored malts.</blockquote>
+
+However, from the following articles brulosophy seems to indicate that longer boil time doesn't seem change anything on the flavor:
+
+* http://brulosophy.com/2015/09/14/boil-length-pt-2-pilsner-malt-exbeeriment-results/
+* http://brulosophy.com/2017/11/13/boil-length-pt-3-60-minutes-vs-180-minutes-exbeeriment-results/
+* http://brulosophy.com/2015/03/11/the-impact-of-boil-length-ale-exbeeriment-results/
+
+I still can reach a conclusion, except that for now I'll accept doing the extra boiling times.
+
+### How can I do small batches
 
 * https://byo.com/mead/item/1378-small-scale-brewing
 * http://www.mrmalty.com/calc/calc.html
 * http://www.homebrewtalk.com/showthread.php?t=462474
 * http://www.homebrewtalk.com/showthread.php?t=458101
 * http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/
-
 * Volume Management: https://www.brewersfriend.com/2010/06/12/water-volume-management-in-all-grain-brewing/
 
 * (big) http://www.homebrewtalk.com/showthread.php?t=311884
-
-* 2 gal would be enough to fit completely in the kettle (full volume).
-* maybe 2 gals is just enough so that I might have a better boil, without scorching?
-* Boil off is more problematic: No sparge, no mash out?
 * Cover kettle with sleeping bag - (maybe I should do the same thing for full volume, or create an isolant)
-* Hop?
 
-* 1 lb (0.453592 kg) grain occupies 0.32 (0.3028329L) quarts when saturated (according to Promash). So 1Kg fills 0.667632806575072 L. 
+### Do I need to whirlpool/Do I need to separate the hot break material from the wort?
 
-(/ 0.3028329 0.453592 )
+is this a problem (however I use irish moss)? https://beerandbrewing.com/dictionary/aSbC3qutQd/hot-break/
+
+### Why should I use Irish Moss?
+
+* http://www.homebrewtalk.com/showthread.php?t=87785
+
+
 
 
 Tools
@@ -196,3 +219,29 @@ Tools
 
 * https://biabbrewing.com/brew-day-prep/biab-calculators-and-software/
 * http://www.biabrewer.info/
+
+# Next Recipes
+
+* Amber Ale
+    * http://www.homebrewtalk.com/showthread.php?t=55809
+* Chilli Beer (Stout?)
+   * https://byo.com/body/item/859-hot-hot-hot-brewing-with-chili-peppers
+   * https://byo.com/bock/item/1088-make-your-beer-burn-bring-the-heat-of-hot-peppers-to-your-brewing
+   * http://www.homebrewing.com/articles/chile-beer/
+* Modern Times' Blazing World (Amber IPA)
+* Milk Stout
+   * https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout
+* Americal Pale Ale
+   * https://byo.com/recipe/benjamin-sharps-american-pale-ale/ (no malt conversion)
+
+Books Whishlist
+---------------
+
+* Listed [here](https://learn.kegerator.com/homebrewing-books/)
+
+
+Equipment Whishlist
+-------------------
+
+* Brewing heater trays, mats and belts (warming plates)
+* https://learn.kegerator.com/brewing-gadgets/

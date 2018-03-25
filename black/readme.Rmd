@@ -1,0 +1,20 @@
+---
+title: "ArtMalte Black Trainee"
+output: github_document
+---
+
+
+[Brewersfriend's recipe](https://www.brewersfriend.com/homebrew/recipe/view/623479/artmalte-black-trainee)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../black/brewlog.xml'
+
+```
+
+```{r test-include, child = '../scripts/brewlog-template.Rmd'}
+```
+
+# Recipe Notes
+
+* This recipe was my first beer, done during a beer brewing training. 
