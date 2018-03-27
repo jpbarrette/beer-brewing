@@ -1,0 +1,23 @@
+
+
+
+---
+title: "Mad Fermentationist's Standard American Pale Ale (SAPA)"
+output: github_document
+---
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../sapa/MadFermentationistsStandardAmericanPaleAle.xml'
+
+```
+
+```{r test-include, child = '../scripts/brewlog-template.Rmd'}
+```
+
+# Notes
+
+
+* https://www.themadfermentationist.com/2012/07/standard-american-pale-ale-recipe-yeah.html
+* https://www.brewersfriend.com/homebrew/recipe/view/600614/mad-fermentationist-s-standard-american-pale-ale
+
