@@ -1,11 +1,20 @@
 
 #functions here are a complete rip off from biabcalculator.com
 
-system_variables <- list(trub_size = 1.5, boiloff_rate = 2.75, grain_absorption = 0.48, kettle_size = 27)
+# I don't have any thrub (I pour everything in the fermenter), however whole leaf hops has some wort absorption.
+#
+# https://www.homebrewtalk.com/forum/threads/leaf-hop-absorption-measured.241469/
+#
+# 138.3 ml/oz
+get_whole_hops_volume = function(wholehop_weight) {
+  wholehop_weight*138.3/28.3495
+}
 
-create_metric_recipe <- function(grain_weight, grain_temp, batch_size, mash_temp, boil_time, system_variables) {
+system_variables <- list(trub_size = 0.0, boiloff_rate = 2.75, grain_absorption = 0.48, kettle_size = 27)
+
+create_metric_recipe <- function(grain_weight, wholehop_weight, grain_temp, batch_size, mash_temp, boil_time, system_variables) {
   # thermodynamic const is 0.2 for metric system
-  list(grain_weight = grain_weight, grain_temp = grain_temp, batch_size = batch_size, mash_temp = mash_temp, boil_time = boil_time, trub_size = system_variables$trub_size, boiloff_rate = system_variables$boiloff_rate, grain_absorption = system_variables$grain_absorption, thermodynamic_constant = 0.41) 
+  list(grain_weight = grain_weight, grain_temp = grain_temp, batch_size = batch_size, mash_temp = mash_temp, boil_time = boil_time, trub_size = system_variables$trub_size + get_whole_hops_volume(whole_hops_weight), boiloff_rate = system_variables$boiloff_rate, grain_absorption = system_variables$grain_absorption, thermodynamic_constant = 0.41) 
 }
 
 get_water_needed = function (recipe) {

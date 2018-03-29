@@ -11,11 +11,11 @@ Recipe
 -   Batch Size: 9 Liters (fermentor volume)
 -   Boil Gravity: TODO (recipe based estimate)
 -   Efficiency: 65% (brew house)
--   Source: <https://www.themadfermentationist.com/2012/07/stan>
+-   Source: Michael Tonsmeire
 -   Original Gravity: 1.050
 -   Final Gravity: 1.010
 -   ABV (standard): 5.27%
--   IBU (tinseth): 0
+-   IBU (tinseth): 53.37
 -   SRM (morey): 6.4
 
 Fermentables
@@ -52,27 +52,30 @@ Recipe Parameter
 -   Grain Temp: 20 Celsius
 -   Batch Size: 9 Liters
 -   Mash Temp: 68 Celsius
--   Boil Time: 75 Minutes
+-   Boil Time: 60 Minutes
 
 System Variables
 ----------------
 
 -   Kettle Size: Liters
--   Trub: 1.5 Liters
+-   Trub: 0.17 Liters, TODO: show the actual trub + whole hops lost
 -   Boiloff Rate: 2.75 Liters/Hour
 -   Grain Absorption: 0.48 Liters/Kilograms of grain
 
 Recipe Output
 -------------
 
--   Total Water Needed: 14.97 Liters
--   Strike Water Temp: 68.7 Celsius
--   Total Mash Volume: 16.42 Liters
--   Preboil Wort: 13.94 Liters
--   Postboil Wort: 10.5 Liters
+-   Total Water Needed: 12.96 Liters
+-   Strike Water Temp: 68.8 Celsius
+-   Total Mash Volume: 14.4 Liters
+-   Preboil Wort: 11.92 Liters
+-   Postboil Wort: 9.17 Liters
 -   Into Fermenter: 9 Liters
 
 Notes
 =====
 
--   Note that it seems that there will be no bitterness in this beer, but it's due to the formula not taking into consideration the IBU from whirlpool hop additions. We'll see what it gives.
+-   From American Homebrewer's Association's blog, there's an [article](https://www.homebrewersassociation.org/how-to-brew/effect-post-boilwhirlpool-hop-additions-bitterness-beer/) that mentions that I can expect a 3.58% utilization with a 10 minutes whirlpool. This gives us 53.37 IBU, which is a lot for an American Pale Ale. However, as Michael Tonsmeire was saying:
+    <blockquote>
+    Despite around 50 IBUs, this beer should not be harshly bitter owing to the lower perceived bitterness of late additions.
+    </blockquote>

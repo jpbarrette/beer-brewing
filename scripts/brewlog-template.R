@@ -7,6 +7,9 @@ source("biab-calculator.R")
 
 # retrieve the xml recipe
 beerxml_output <- read_xml(brewlog_file)
+data <- XML::xmlParse(brewlog_file)
+whole_hops <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//HOPS/HOP[FORM=\"Leaf\" and USER_HOP_USE != \"Dry Hop\"]"), stringsAsFactors = FALSE) %>% transform(AMOUNT = as.numeric(AMOUNT))
+whole_hops_weight <- sum(whole_hops$AMOUNT)
 
 batch_size <- xml_double(xml_find_first(beerxml_output, xpath='//BATCH_SIZE'))
 grain_weight <- sum(xml_double(xml_find_all(beerxml_output, xpath='//FERMENTABLES/*/AMOUNT')))
@@ -14,7 +17,7 @@ grain_temp <- xml_double(xml_find_first(beerxml_output, xpath='//MASH/GRAIN_TEMP
 mash_temp <- xml_double(xml_find_first(beerxml_output, xpath='//MASH/MASH_STEPS/*/STEP_TEMP'))
 boil_time <- xml_double(xml_find_first(beerxml_output, xpath='//BOIL_TIME'))
 
-recipe <- create_metric_recipe(grain_weight, grain_temp, batch_size, mash_temp, boil_time, system_variables)
+recipe <- create_metric_recipe(grain_weight, whole_hops_weight, grain_temp, batch_size, mash_temp, boil_time, system_variables)
 
 preboil_wort_volume <- round(get_pre_boil_wort_volume(recipe), 2)
 postboil_wort_volume <- round(get_post_boil_wort_volume(recipe), 2)
