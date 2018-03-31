@@ -10,3 +10,8 @@
 * Verify brewhouse efficiency
 * read https://byo.com/malt/item/1313-refractometers
 * https://byo.com/stories/issue/item/2913-amarillo-amber-ale (I'm playing with the idea of using my carared
+
+
+
+Next Step for recipe:
+* https://byo.com/article/rusty-truck-brewing-company-replicator/

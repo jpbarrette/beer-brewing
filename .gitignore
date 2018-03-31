@@ -5,7 +5,9 @@ india red ale/.Rhistory
 *.R~
 *.md~
 *.Rmd#
+*.md#
 *.R#
+.#*
 scripts/.#brewlog-template.Rmd
 scripts/.#brewlog-template.R
 scripts/.Rhistory
