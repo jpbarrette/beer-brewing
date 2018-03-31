@@ -51,9 +51,10 @@ Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIA
 ## System Variables
 
 * Kettle Size: `r recipe$kettle_size` Liters
-* Trub: `r recipe$trub_size` Liters
+* Trub: `r  round(recipe$trub_size, 2)` Liters, TODO: show the actual trub + whole hops lost
 * Boiloff Rate: `r recipe$boiloff_rate` Liters/Hour
 * Grain Absorption: `r recipe$grain_absorption` Liters/Kilograms of grain
+* TODO: Bottled Volume (minus yeast cake)
     
 ## Recipe Output
 

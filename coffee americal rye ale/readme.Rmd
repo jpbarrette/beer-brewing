@@ -1,0 +1,22 @@
+---
+title: "Coffee American Rye Ale"
+output: github_document
+---
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../coffee americal rye ale/CoffeeAmericanRyeAle.xml'
+
+```
+
+```{r test-include, child = '../scripts/brewlog-template.Rmd'}
+```
+
+# Notes
+
+* https://byo.com/article/coffee-american-rye-ale/
+* https://byo.com/article/brewing-with-coffee/
+* https://www.brewersfriend.com/homebrew/recipe/view/629539/coffee-american-rye-ale
+* https://www.homebrewtalk.com/forum/threads/simcoe-rye-red-ipa.625290/
+* https://byo.com/article/brewing-with-rye-tips-from-the-pros/
+
