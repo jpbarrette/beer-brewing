@@ -31,8 +31,8 @@ final_gravity <- sprintf("%.3f", as.numeric(strsplit(xml_text(xml_find_first(bee
 sprintf("%.3f", as.numeric(strsplit(xml_text(xml_find_first(beerxml_output, xpath='//RECIPE/EST_OG')), " ")[[1]][[1]]))
 
 recipe_price_calculator <- function(recipe, hops_weight) {
-  # yeast ~ 3, cleaning product ~ 1, shipping ~ 2, malt ~ 3/kg, hop ~ 7/100g
-  5 + 3*recipe$grain_weight + 7*hops_weight/100
+  # yeast ~ 3, cleaning product ~ 2 (200g chemipro + 6ml starsan), shipping ~ 2, malt ~ 3/kg, hop ~ 7/100g
+  7 + 3*recipe$grain_weight + 7*hops_weight/100
 }
 
 

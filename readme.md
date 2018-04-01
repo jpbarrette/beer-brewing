@@ -254,3 +254,14 @@ Equipment Whishlist
 
 * Brewing heater trays, mats and belts (warming plates)
 * https://learn.kegerator.com/brewing-gadgets/
+
+Shops
+-----
+
+* https://www.comptoir-houblon.fr/
+* http://www.brouwland.com/
+
+Hop Varieties
+------------
+
+* https://www.morebeer.com/articles/homebrew_beer_hops
