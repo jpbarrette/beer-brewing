@@ -8,11 +8,11 @@ output: github_document
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../india red ale/brewlog 2018-03-23.xml'
+brewlog_file = '../recipes/india red ale/brewlog 2018-03-23.xml'
 
 ```
 
-```{r test-include, child = '../scripts/brewlog-template.Rmd'}
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
 ```
 
 # Preparation Notes

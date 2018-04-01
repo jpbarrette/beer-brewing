@@ -5,7 +5,7 @@ output: github_document
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../coffee americal rye ale/CoffeeAmericanRyeAle.xml'
+brewlog_file = '../recipes/coffee americal rye ale/CoffeeAmericanRyeAle.xml'
 
 ```
 

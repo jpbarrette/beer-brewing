@@ -30,6 +30,10 @@ final_gravity <- sprintf("%.3f", as.numeric(strsplit(xml_text(xml_find_first(bee
 
 sprintf("%.3f", as.numeric(strsplit(xml_text(xml_find_first(beerxml_output, xpath='//RECIPE/EST_OG')), " ")[[1]][[1]]))
 
+recipe_price_calculator <- function(recipe, hops_weight) {
+  # yeast ~ 3, cleaning product ~ 1, shipping ~ 2, malt ~ 3/kg, hop ~ 7/100g
+  5 + 3*recipe$grain_weight + 7*hops_weight/100
+}
 
 
 abv <-  xml_text(xml_find_first(beerxml_output, xpath='//RECIPE/EST_ABV'))  
@@ -56,5 +60,9 @@ hops <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//HOPS/*"), stringsAs
 #hops$TIME <- as.difftime(hops$TIME, units="mins") 
 
 #TODO Add IBU
+orig_hops <- hops
 hops <- mutate(hops, Amount=sprintf("%.fg", AMOUNT*1000), AA=ALPHA, Variety=NAME, Type=FORM, Use = USE, Time = timetaken(TIME)) %>% 
   select(Amount, Variety, Type, AA, Use, Time)
+
+recipe_cost <- recipe_price_calculator(recipe, sum(orig_hops$AMOUNT*1000))
+

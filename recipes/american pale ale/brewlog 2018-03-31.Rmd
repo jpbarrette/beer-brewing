@@ -1,8 +1,5 @@
-
-
-
 ---
-title: "Mad Fermentationist's Standard American Pale Ale (SAPA)"
+title: "Mad Fermentationist's Standard American Pale Ale"
 output: github_document
 ---
 
@@ -12,11 +9,11 @@ Original recipe from [Mad Fermentationist's blog](https://www.themadfermentation
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../standard american pale ale/MadFermentationistsStandardAmericanPaleAle.xml'
+brewlog_file = '../recipes/american pale ale/brewlog 2018-03-31.xml'
 
 ```
 
-```{r test-include, child = '../scripts/brewlog-template.Rmd'}
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
 ```
 
 # Notes

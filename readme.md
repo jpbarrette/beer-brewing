@@ -222,6 +222,13 @@ Tools
 
 # Next Recipes
 
+* Coffee American Rye Ale
+* Red Rey IPA
+* Coffee Oatmeal Stout
+
+# Recipes to Explore
+
+* Rogue's Hazelnut Brown Ale
 * Amber Ale
     * http://www.homebrewtalk.com/showthread.php?t=55809
 * Chilli Beer (Stout?)
