@@ -16,6 +16,16 @@ brewlog_file = '../recipes/american pale ale/brewlog 2018-03-31.xml'
 ```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
 ```
 
-# Notes
+# Recipe Notes
 
-* From American Homebrewer's Association's blog, there's an [article](https://www.homebrewersassociation.org/how-to-brew/effect-post-boilwhirlpool-hop-additions-bitterness-beer/) that mentions that I can expect a 3.58% utilization with a 10 minutes whirlpool. This gives us 53.37 IBU, which is a lot for an American Pale Ale. However, as Michael Tonsmeire was saying: <blockquote>Despite around 50 IBUs, this beer should not be harshly bitter owing to the lower perceived bitterness of late additions.</blockquote>
+* From American Homebrewer's Association's blog, there's an [article](https://www.homebrewersassociation.org/how-to-brew/effect-post-boilwhirlpool-hop-additions-bitterness-beer/) that mentions that I can expect a 3.58% utilization with a 10 minutes whirlpool. This gives us 69.91 IBU, which is a lot for an American Pale Ale. However, as Michael Tonsmeire was saying: <blockquote>Despite around 50 IBUs, this beer should not be harshly bitter owing to the lower perceived bitterness of late additions.</blockquote>Note that in his notes, he doesn't take into consideration the IBUs contributed by his whirlpool hops.
+
+# Brewing Notes
+
+* (16h10) Started kettle. Water volume 13L, temperature at 46C, depth 14.8cm.
+* (17h00) Mashing
+* (18h00) Fired kettle boil. Wort at 64C, depth 13.5cm (estimated 12L), preboil gravity: 1.026 (at 60C). Estimated preboil gravitywas 1.034, but with temperature correction, it gives 1.039 (1.026 at 60C, compensated for 20C). With actual OG it seems the formula overestimates?
+* (18h30) Boil started. Note that the boil is stronger this time. Probably because there's less water. Maybe with 12L boiling water the boiloff is greater than my estimated 2.75L/h.
+* (19h30) Added all flameout hop, put kettle lid, and waited 10 minutes before getting hop out of it.
+* (20h00) OG: 1.050
+* (20h30) Cleaning finished.

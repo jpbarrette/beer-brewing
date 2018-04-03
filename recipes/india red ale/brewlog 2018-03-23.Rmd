@@ -37,3 +37,5 @@ brewlog_file = '../recipes/india red ale/brewlog 2018-03-23.xml'
 * OG: 1.058
 * Fermenter: 7.75L, pourred all wort (with trub), but kept hop out (estimating 0.5L)
 * Need to validate that the final volume fit with estimation (compared with last brew). Note that 14.4cm of preboil wort at 60C probably is less than 12.84L of wort when cold.
+* (2018/04/03) Read gravity: 1.010
+* (2018/04/03) Added dryhop. Didn't have any more cascade, so added Simcoe instead. 25g Centennial + 28 Simcoe (added a bit too much, but didn't wanted to put back the 3g)

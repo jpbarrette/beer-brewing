@@ -30,3 +30,9 @@ brewlog_file = '../recipes/macgyvers-island/brewlog 2018-03-17.xml'
 # Post Notes
 
 * Awesome [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/)
+
+# Bottling Notes
+
+* Target carbonation: 3.0. 7.8g/L. 10.8L in fermentor, 1.5 yeast cake + 250mL of sugar water = 9.5 in racking container. (managed to get only 9L because I spilled some wort)
+* 74g of sugar in 250mL water.
+* Gave 11 x 750mL bottles.
