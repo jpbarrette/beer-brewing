@@ -5,7 +5,7 @@ output: github_document
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../recipes/macgyvers-island/brewlog 2018-03-17.xml'
+brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
 
 ```
 
