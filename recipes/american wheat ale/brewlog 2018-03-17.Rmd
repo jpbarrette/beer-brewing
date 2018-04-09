@@ -31,8 +31,12 @@ brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
 
 * Awesome [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/)
 
-# Bottling Notes
+# Bottling Notes (01/04/2018)
 
 * Target carbonation: 3.0. 7.8g/L. 10.8L in fermentor, 1.5 yeast cake + 250mL of sugar water = 9.5 in racking container. (managed to get only 9L because I spilled some wort)
 * 74g of sugar in 250mL water.
 * Gave 11 x 750mL bottles.
+
+# TODO
+
+* Batch volume isn't the targetted one. Efficiency neither. Need target and actual.
