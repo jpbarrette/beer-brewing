@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RECIPES>
  <RECIPE>
-  <NAME>Mad Fermentationist's Standard American Pale Ale</NAME>
+  <NAME>Mad Fermentationist's Standard American Pale Ale - 2018/03/31</NAME>
   <VERSION>1</VERSION>
   <TYPE>All Grain</TYPE>
   <BREWER>Michael Tonsmeire</BREWER>
@@ -94,9 +94,9 @@
     <USE>Aroma</USE>
     <USER_HOP_USE>Whirlpool</USER_HOP_USE>
     <TIME>10</TIME>
-    <FORM>Leaf</FORM>
+    <FORM>Pellet</FORM>
     <UTILIZATION>4</UTILIZATION>
-    <TEMPERATURE>0</TEMPERATURE>
+    <TEMPERATURE>98</TEMPERATURE>
    </HOP>
    <HOP>
     <NAME>Columbus</NAME>
@@ -123,14 +123,14 @@
     <TEMPERATURE>98</TEMPERATURE>
    </HOP>
    <HOP>
-    <NAME>Cascade</NAME>
+    <NAME>Centennial</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>7</ALPHA>
+    <ALPHA>10.3</ALPHA>
     <AMOUNT>0.015</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>5760</TIME>
-    <FORM>Leaf</FORM>
+    <FORM>Pellet</FORM>
    </HOP>
    <HOP>
     <NAME>Columbus</NAME>
