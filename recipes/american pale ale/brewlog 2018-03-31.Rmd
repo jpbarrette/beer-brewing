@@ -29,3 +29,7 @@ brewlog_file = '../recipes/american pale ale/brewlog 2018-03-31.xml'
 * (19h30) Added all flameout hop, put kettle lid, and waited 10 minutes before getting hop out of it.
 * (20h00) OG: 1.050
 * (20h30) Cleaning finished.
+
+# Dry Hopping
+
+* 17g Centennial, 26 Columbus, 34 Simcoe
