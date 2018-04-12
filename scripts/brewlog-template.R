@@ -64,6 +64,7 @@ fermentables <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//FERMENTABLE
 
 hops <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//HOPS/*"), stringsAsFactors = FALSE) %>% select(AMOUNT, ALPHA, NAME, FORM, USE, TIME) %>% transform(AMOUNT = as.numeric(AMOUNT), ALPHA = as.numeric(ALPHA), TIME = as.numeric(TIME))
 #hops$TIME <- as.difftime(hops$TIME, units="mins") 
+yeasts <- XML::xmlToDataFrame(nodes = XML::getNodeSet(data, "//YEASTS/*"), stringsAsFactors = FALSE) %>% rename(Name = NAME, Attenuation = ATTENUATION) %>% select(Name, Attenuation) %>% transform(Attenuation = paste(Attenuation, "%", sep = ""))
 
 #TODO Add IBU
 orig_hops <- hops

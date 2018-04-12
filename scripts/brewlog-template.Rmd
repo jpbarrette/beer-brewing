@@ -36,6 +36,14 @@ kable(hops)
 
 ```
 
+# Yeasts 
+
+```{r kable-yeasts, echo=FALSE}
+
+kable(yeasts)
+
+```
+
 # BIAB Calculator
 
 Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIAB Calculator](http://www.biabcalculator.com/)

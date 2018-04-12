@@ -126,7 +126,7 @@
     <NAME>Centennial</NAME>
     <VERSION>1</VERSION>
     <ALPHA>10.3</ALPHA>
-    <AMOUNT>0.015</AMOUNT>
+    <AMOUNT>0.017</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>5760</TIME>
@@ -136,7 +136,7 @@
     <NAME>Columbus</NAME>
     <VERSION>1</VERSION>
     <ALPHA>17.2</ALPHA>
-    <AMOUNT>0.02</AMOUNT>
+    <AMOUNT>0.026</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>5760</TIME>
@@ -146,7 +146,7 @@
     <NAME>Simcoe</NAME>
     <VERSION>1</VERSION>
     <ALPHA>13.9</ALPHA>
-    <AMOUNT>0.03</AMOUNT>
+    <AMOUNT>0.034</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>5760</TIME>
