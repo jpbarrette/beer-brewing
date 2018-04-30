@@ -3,6 +3,8 @@ title: "Modern Times Fortunate Island"
 output: github_document
 ---
 
+Inspiration from [here](https://www.themadfermentationist.com/2012/11/hoppy-wheat-with-march-pump-hoprocket.html) and [here](https://www.themadfermentationist.com/2014/03/fortunate-islands-homebrewed-yeast.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/635830/macgyver-s-island-fortunate-island-2018-03-17-)
+
 ```{r setup-variables, echo=FALSE}
 
 brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
