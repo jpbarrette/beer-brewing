@@ -14,7 +14,7 @@ brewlog_file = '../recipes/coffee americal rye ale/CoffeeAmericanRyeAle.xml'
 
 # Notes
 
-* https://byo.com/article/coffee-american-rye-ale/
+* https://byo.com/article/coffee-american-rye-ale/ (from:https://byo.com/article/crafting-coffee-beers/)
 * https://byo.com/article/brewing-with-coffee/
 * https://www.brewersfriend.com/homebrew/recipe/view/629539/coffee-american-rye-ale
 * https://www.homebrewtalk.com/forum/threads/simcoe-rye-red-ipa.625290/
