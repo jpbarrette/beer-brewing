@@ -222,11 +222,10 @@ Tools
 
 # Next Recipes
 
-* Coffee American Rye Ale
-* Red Rye IPA
-* Coffee Oatmeal Stout
+* American Wheat Ale
 * [Rye Wit Session](http://beerandwinejournal.com/rye-wit-session-beer)
-
+* Red Rye IPA
+* Coffee American Rye Ale
 
 # Recipes to Explore
 
