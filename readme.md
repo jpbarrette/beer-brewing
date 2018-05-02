@@ -223,8 +223,10 @@ Tools
 # Next Recipes
 
 * Coffee American Rye Ale
-* Red Rey IPA
+* Red Rye IPA
 * Coffee Oatmeal Stout
+* [Rye Wit Session](http://beerandwinejournal.com/rye-wit-session-beer)
+
 
 # Recipes to Explore
 
@@ -240,8 +242,6 @@ Tools
    * https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout
 * Americal Pale Ale
    * https://byo.com/recipe/benjamin-sharps-american-pale-ale/ (no malt conversion)
-* Rye 
-   * http://beerandwinejournal.com/rye-wit-session-beer/
 
 Books Whishlist
 ---------------
