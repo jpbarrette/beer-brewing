@@ -31,7 +31,7 @@ brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
 
 # Post Notes
 
-* Awesome [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/)
+* Readind the following article about [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/), I realized that I could just use my BIAB bag has a hop sock. However, instead of tying it like a hop sock, just fit it on the kettle. I managed to do this for later recipe and it works quite well while doing whirlpool. However, I'm wondering if it wouldn't be better to have some false bottom or screen to get the bag to "sterilize" when boiling,without scorching/burning.
 
 # Bottling Notes (01/04/2018)
 

@@ -16,8 +16,11 @@ Keeping track of my beer brewing experiments
 * 2017/06/18 - [Mosaic Session IPA](recipes/mosaic%20session%20ipa/brewlog%202017-06-18.md), [Karl Stauss' Mosaic Session IPA](https://www.ratebeer.com/beer/karl-strauss-mosaic-session-ipa/248383/) Clone, American IPA
 * 2017/09/13 - [MacGyvers's Island](recipes/american wheat ale/brewlog 2017-09-13.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone, American Wheat Ale
 * 2017/10/28 - [What Does Malt Taste Like](recipes/northern english brown ale/brewlog 2017-10-28.md), Northern English Brown Ale
-* 2017/11/10 - [John Palmer's Amber Ale ("Wheat + Belgiumified")](american amber ale/brewlog 2017-11-10.md), Amber Ale
-* 2018/01/27 - [Alpine Black House](coffee oatmeal stout/brewlog 2018-01-27.md), [Modern Time's Black House](https://www.themadfermentationist.com/2012/06/toasted-oat-coffee-stout.html) Clone, Coffee Oatmeal Stout
+* 2017/11/10 - [John Palmer's Amber Ale ("Wheat + Belgiumified")](recipes/american amber ale/brewlog 2017-11-10.md), Amber Ale
+* 2018/01/27 - [Alpine Black House](recipes/coffee oatmeal stout/brewlog 2018-01-27.md), [Modern Time's Black House](https://www.ratebeer.com/beer/modern-times-black-house/218228/) Clone, Coffee Oatmeal Stout
+* 2018/03/17 - [MacGyvers's Island](recipes/american wheat ale/brewlog_2018-03-17.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone, American Wheat Ale
+* 2018/03/23 - [India Red Ale](recipes/india%20red%20ale/brewlog_2018-03-23.md), [Mad Fermentationist's India Red Ale](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html) Clone
+* 2018/03/31 - [American Pale Ale](recipes/american%20pale%20ale/brewlog_2018-03-31.md), [Mad Fermentationist's Standard American Pale Ale Recipe (Yeah Right)](https://www.themadfermentationist.com/2012/07/standard-american-pale-ale-recipe-yeah.html) Clone
 
 # Articles
 

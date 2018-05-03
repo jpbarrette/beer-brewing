@@ -1,0 +1,20 @@
+---
+title: "Modern Times Fortunate Island"
+output: github_document
+---
+
+Inspiration from [here](https://www.themadfermentationist.com/2012/11/hoppy-wheat-with-march-pump-hoprocket.html) and [here](https://www.themadfermentationist.com/2014/03/fortunate-islands-homebrewed-yeast.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/514761/macgyver-s-island-fortunate-island-9l)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/american wheat ale/brewlog.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+# Preparation Notes
+
+* Readind the following article about [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/), I realized that I could just use my BIAB bag has a hop sock. However, instead of tying it like a hop sock, just fit it on the kettle. I managed to do this for later recipe and it works quite well while doing whirlpool. However, I'm wondering if it wouldn't be better to have some false bottom or screen to get the bag to "sterilize" when boiling,without scorching/burning.
+* I'll lower the IBU this time. I want to make sure I get more control over taste before using high IBU.
