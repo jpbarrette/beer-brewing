@@ -1,3 +1,8 @@
+---
+title: "My Beer Brewing Experiments"
+output: github_document
+---
+
 # Beer
 Keeping track of my beer brewing experiments
 
