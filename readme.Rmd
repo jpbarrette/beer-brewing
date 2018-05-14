@@ -115,6 +115,7 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 
 * (From: http://www.basicbrewing.com/index.php?page=basic-brewing-radio-2007) January 11, 2007 - John Palmer on pH - John Palmer, author of How to Brew, walks us through the potentially intimidating topic of pH. John tells us how to measure pH and what to do with our measurements to improve our beers.
 * https://www.grandannecy.fr/france/DT1304406161/page/De-l-eau-de-qualit%C3%A9-au-robinet.html
+* http://solidarites-sante.gouv.fr/sante-et-environnement/eaux/article/qualite-de-l-eau-potable
 * https://www.themadfermentationist.com/2008/09/i-think-that-water-treatment-has-made.html
 * https://github.com/pruby/brew-salt-optimiser
 * http://beersmith.com/blog/2016/02/11/the-sulfate-to-chloride-ratio-and-beer-bitterness/
