@@ -89,5 +89,14 @@ Preparation Notes
     \[Stagger\] flame-out hop additions. Before adding the second dose, \[allow\] the wort to naturally cool for 15 minutes to preserve some of the heat-sensitive essential oils that are usually driven off with a standard hop-stand.
     </blockquote>
 -   At 60C, preboil gravity should be at 1.036.[1]
+-   Target Water Profile: Light colored an hoppy, but a bit sweet. Ideal Target: 75 ppm chloride, 175 sulfate. This has been taken from Michael Tonsmeire's article "Homebrew Water Treatment - A Practical Guide", adjusted having Michael's [water adjustment](https://www.themadfermentationist.com/2015/06/hop-juice-north-east-ipa-recipe.html?showComment=1444350236292#c7342676659099941542) in mind for NEIPAs. So, instead of pushing as much the chloride, I'll limit at 75 ppm for now.
+    <blockquote>
+    I don't think that water salts need to be exactly anything, but the general range is 100-200 PPM for both chloride and sulfate. I aim for more minerals (both) in lower gravity beers to compensate for less minerals from the malt. Otherwise it is to taste, 150/150 was about right for me in an APA/IPA. Chloride is part of the signature character of NEIPA compared to other IPAs, but it is more mouthfeel than juiciness (although that softness helps the juiciness of the hop and yeast esters along).
+    </blockquote>
+    -   12.8L of strike water
+    -   2g gypsum
+    -   2g calcium chloride
+    -   2.5g epsom salt
+    -   3.0ml lactic acid
 
 [1] Calculated by brewersfriend.com's [Hydrometer Temperature Adjustment Calculator](https://www.brewersfriend.com/hydrometer-temp/)
