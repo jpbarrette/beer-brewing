@@ -85,7 +85,7 @@
     <TIME>30</TIME>
     <FORM>Pellet</FORM>
     <UTILIZATION></UTILIZATION>
-    <TEMPERATURE>78</TEMPERATURE>
+    <TEMPERATURE>80</TEMPERATURE>
    </HOP>
    <HOP>
     <NAME>Citra</NAME>
@@ -97,7 +97,7 @@
     <TIME>30</TIME>
     <FORM>Pellet</FORM>
     <UTILIZATION></UTILIZATION>
-    <TEMPERATURE>78</TEMPERATURE>
+    <TEMPERATURE>80</TEMPERATURE>
    </HOP>
    <HOP>
     <NAME>Amarillo</NAME>
@@ -154,18 +154,22 @@
   </YEASTS>
   <WATERS>
    <WATER>
-    <NAME>Cinnaminson, NJ</NAME>
+    <NAME>Light colored an hoppy, but a bit sweet</NAME>
     <VERSION>1</VERSION>
     <AMOUNT>9</AMOUNT>
-    <CALCIUM>27</CALCIUM>
-    <BICARBONATE>68</BICARBONATE>
-    <SULFATE>18</SULFATE>
-    <CHLORIDE>49</CHLORIDE>
-    <SODIUM>39</SODIUM>
-    <MAGNESIUM>6</MAGNESIUM>
-    <NOTES>4.81 gallons&#13;
-4.25g gypsum&#13;
-3.0ml/0.6tsp phosphoric acid</NOTES>
+    <CALCIUM>125</CALCIUM>
+    <BICARBONATE>0</BICARBONATE>
+    <SULFATE>170</SULFATE>
+    <CHLORIDE>79</CHLORIDE>
+    <SODIUM>3</SODIUM>
+    <MAGNESIUM>22</MAGNESIUM>
+    <NOTES>Ideal Target: 75 ppm chloride, 175 sulfate&#13;
+&#13;
+12.8L of strike water&#13;
+2g gypsum&#13;
+2g calcium chloride&#13;
+2.5g epsom salt&#13;
+3.0ml lactic acid</NOTES>
    </WATER>
   </WATERS>
   <STYLE>

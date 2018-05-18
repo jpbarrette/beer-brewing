@@ -77,7 +77,7 @@ Recipe Output
 -   Preboil Wort: 11.75 Liters
 -   Postboil Wort: 9 Liters
 -   Into Fermenter: 9 Liters
--   Estimated cost: 21.06 (2.34/L)
+-   Estimated cost: 24.44 (2.72/L)
 
 Preparation Notes
 =================
@@ -88,3 +88,6 @@ Preparation Notes
     <blockquote>
     \[Stagger\] flame-out hop additions. Before adding the second dose, \[allow\] the wort to naturally cool for 15 minutes to preserve some of the heat-sensitive essential oils that are usually driven off with a standard hop-stand.
     </blockquote>
+-   At 60C, preboil gravity should be at 1.036.[1]
+
+[1] Calculated by brewersfriend.com's [Hydrometer Temperature Adjustment Calculator](https://www.brewersfriend.com/hydrometer-temp/)
