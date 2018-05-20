@@ -36,6 +36,14 @@ kable(hops)
 
 ```
 
+# Yeasts 
+
+```{r kable-yeasts, echo=FALSE}
+
+kable(yeasts)
+
+```
+
 # BIAB Calculator
 
 Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIAB Calculator](http://www.biabcalculator.com/)
@@ -51,9 +59,10 @@ Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIA
 ## System Variables
 
 * Kettle Size: `r recipe$kettle_size` Liters
-* Trub: `r recipe$trub_size` Liters
+* Trub: `r  round(recipe$trub_size, 2)` Liters, TODO: show the actual trub + whole hops lost
 * Boiloff Rate: `r recipe$boiloff_rate` Liters/Hour
 * Grain Absorption: `r recipe$grain_absorption` Liters/Kilograms of grain
+* TODO: Bottled Volume (minus yeast cake)
     
 ## Recipe Output
 
@@ -63,4 +72,5 @@ Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIA
 * Preboil Wort: `r preboil_wort_volume` Liters
 * Postboil Wort: `r postboil_wort_volume` Liters
 * Into Fermenter: `r round(get_fermenter_volume(recipe), 2)` Liters
+* Estimated cost: `r recipe_cost` (`r round(recipe_cost / get_fermenter_volume(recipe) , 2)`/L)
         

@@ -4,15 +4,15 @@ output: github_document
 ---
 
 
-[original recipe](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/601663/mad-fermentationist-s-india-red-ale)
+[original recipe](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/645361/mad-fermentationist-s-india-red-ale-2018-03-23-)
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../india red ale/brewlog 2018-03-23.xml'
+brewlog_file = '../recipes/india red ale/brewlog 2018-03-23.xml'
 
 ```
 
-```{r test-include, child = '../scripts/brewlog-template.Rmd'}
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
 ```
 
 # Preparation Notes
@@ -37,3 +37,16 @@ brewlog_file = '../india red ale/brewlog 2018-03-23.xml'
 * OG: 1.058
 * Fermenter: 7.75L, pourred all wort (with trub), but kept hop out (estimating 0.5L)
 * Need to validate that the final volume fit with estimation (compared with last brew). Note that 14.4cm of preboil wort at 60C probably is less than 12.84L of wort when cold.
+* (2018/04/03) Read gravity: 1.010
+* (2018/04/03) Added dryhop. Didn't have any more cascade, so added Simcoe instead. 25g Centennial + 28 Simcoe (added a bit too much, but didn't wanted to put back the 3g)
+
+# Bottling Notes (2018/04/08)
+
+* Target carbonation: 3.0 -> 7.8g/L, 7.75L in fermentor, 1.5 yeast cake + 250mL of sugar water = 6.5 in racking container. 
+* 50g of sugar in 250mL water (6.5 * 7.8)
+* Gave 7 x 750mL bottles. Had to waste almost a 750 ml bottle. Next time make sure you have a normal bottle (330mL) for the end.
+
+# TODO
+
+* Note how changing the recipe from 60 minutes (target) to 100 minutes (actual) affected the volumes. I can use that to confirm my system variables. Normally the "total water needed" should stay the same.
+

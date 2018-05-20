@@ -1,0 +1,44 @@
+---
+title: "Modern Times Fortunate Island"
+output: github_document
+---
+
+Inspiration from [here](https://www.themadfermentationist.com/2012/11/hoppy-wheat-with-march-pump-hoprocket.html) and [here](https://www.themadfermentationist.com/2014/03/fortunate-islands-homebrewed-yeast.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/635830/macgyver-s-island-fortunate-island-2018-03-17-)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+# Notes
+
+* Volume: 16.2, depth: 18.4cm
+* (17h30) Stated the kettle (temp 35C)
+* (18h00) Water ready at 68C (after steering), put grains gradullary to avoid dough balls. Note that thermometer was should 75C. Need to have better thermometer.
+* (19h30) After 90 minutes mash, fired up the kettle. Depth was 17.6 cm. (note that for the depth I never checked the temperature, since it [expands](https://www.engineeringtoolbox.com/volumetric-temperature-expansion-d_315.html))
+* Preboil gravity: 1.018 (still warm).
+* (20h05) Wort boilling roll started. There was a bit of boil over (kettle lid was on to get hot quickly).
+* (20h50) Put bittering hop, 6g of Columbus. Total boil time was 1h45. 
+* (21h50) Flame out, put whirlpool hop and kettle lid (25g Mosaic, 25g Cascade, 11g Amarillo). Waited for 10 minutes.
+* (22h00) Started wort chilling.
+* (22h15) Wort at 21C. Took final gravity from trub. Wort in fermenter 10.8L, OG: 1.040. Boiloff rate calculation must be wrong. Need to check. In my calculation I put trub size, but it was zero in previous recipe. Estimation of preboil volume is 15.31, but it's was 15.85 (but might be okay since it needs to be temperature corrected). Need to recheck size with 20C water.
+* I let the hop cones free in the wort. Caused my grief when tried to rack in the fermenter. I broke my auto siphon. Next time just put the grain bag and add the hop in it.
+* (8h) Temp of cooler was 16C. Might be too cold. Fermentation didn't started. Will see tomorrow morning.
+
+# Post Notes
+
+* Readind the following article about [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/), I realized that I could just use my BIAB bag has a hop sock. However, instead of tying it like a hop sock, just fit it on the kettle. I managed to do this for later recipe and it works quite well while doing whirlpool. However, I'm wondering if it wouldn't be better to have some false bottom or screen to get the bag to "sterilize" when boiling,without scorching/burning.
+
+# Bottling Notes (01/04/2018)
+
+* Target carbonation: 3.0. 7.8g/L. 10.8L in fermentor, 1.5 yeast cake + 250mL of sugar water = 9.5 in racking container. (managed to get only 9L because I spilled some wort)
+* 74g of sugar in 250mL water.
+* Gave 11 x 750mL bottles.
+
+# TODO
+
+* Batch volume isn't the targetted one. Efficiency neither. Need target and actual.

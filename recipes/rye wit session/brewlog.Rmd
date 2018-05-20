@@ -1,0 +1,27 @@
+
+---
+title: "Rye Wit Session"
+output: github_document
+---
+
+Recipe inspired from James Spencer's [Rye Wit Session](http://beerandwinejournal.com/rye-wit-session-beer). My [recipe](https://www.brewersfriend.com/homebrew/recipe/view/646277/rye-wit-session-ale).
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/rye wit session/brewlog.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+
+# Preparation Notes
+
+* I think I should have a lower "liquor-to-grist" ratio on this brew. I might not use the full volume to help alpha amylaze.
+* For this recipe I want to keep a similiar hop profile than my american pale ale or american wheat ale (but not the IBU). This will allow us to compare the malt profile.
+
+
+
+
+
