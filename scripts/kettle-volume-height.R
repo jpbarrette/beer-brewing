@@ -11,4 +11,3 @@ ggplot(dat, aes(x=xvar, y=yvar)) +
 lm(yvar ~ xvar, dat)
 
 kettle_volume_height <- function(x) { -0.7059 + 0.9409 * x }
-kettle_volume_height(15.9)
