@@ -173,3 +173,8 @@ Recipe Modification
 * 3.0% Crystal 90L -> CaraRed
 
 IBU -> 41 to 35 since not using hopshot as mentionned in the comments
+
+Post Notes
+----------
+
+* I was looking into changing coffee extraction process by cold brewing the coffee, but from [Michael Tonsmeire's comment](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html?showComment=1359030420416#c8363421427029234704): <blockquote>I add coffee by steeping the coarsely crushed beans directly in the beer for about 18 hours right before kegging. I find that it contributes a great fresh-coffee aroma without a harsh/acrid bite of "old" coffee. I also find the flavor is more persistent than adding cold brewed coffee.</blockquote>

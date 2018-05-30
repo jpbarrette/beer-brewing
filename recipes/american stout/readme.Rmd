@@ -1,0 +1,56 @@
+---
+title: "Zymurgy Magazine's Stout Trousers"
+output: github_document
+---
+
+* https://www.brewersfriend.com/homebrew/recipe/view/659037/stout-trousers
+* https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/
+* https://byo.com/article/american-stout-style-profile/
+* Water profile from Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/american stout/brewlog.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html) Water Profile
+----------------------------------------------------
+
+* Calcium(Ca): 104.0 ppm
+* Magnesium(Mg): 15.0 ppm
+* Sodium(Na): 64.0 ppm
+* Sulfate(SO4): 102.0 ppm
+* Chloride(Cl): 76.0 ppm
+* biCarbonate(HCO3): 280.0 ppm
+
+Target Water Profile
+--------------------
+
+Water Additions:
+
+* Gypsum: 1.5g
+* Calcium Cloride: 1.8g
+* Epsom Salt: 1g
+* Lactic Acid (80%): 3ml
+* Salt? 
+
+Resulting Water:
+
+* Calcium(Ca): 116.0 ppm
+* Magnesium(Mg): 11.0 ppm
+* Sodium(Na): 3 ppm
+* Sulfate(SO4): 102.0 ppm
+* Chloride(Cl): 72.0 ppm
+* pH: 5.24
+
+Questions
+---------
+
+* There's a little bit less sodium that target profile.
+    * Is this a problem
+    * How can I add sodium (http://brulosophy.com/2018/01/22/water-chemistry-pt-10-the-impact-of-sodium-on-beer-exbeeriment-results/)?
+    * https://www.themadfermentationist.com/2008/09/i-think-that-water-treatment-has-made.html
