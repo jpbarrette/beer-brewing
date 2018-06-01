@@ -136,6 +136,11 @@ Preparation Notes
     For best result, add acids prior to heating the water since heating can drive off a portion of the alkalinity that the acid addition was calculated to remove.
     </blockquote>
 -   As original recipe mentions, I'll target a 5.2 mash water pH (4.8 strike water pH).
+-   I didn't have chocolate malt as mentionned in the recipe, but I had chocolate rye and chocolate wheat. I decided to try chocolate rye, because it said to lend more a "milk chocolate" taste, and I wanted to see what it gave in there (and was affraid to push too much on the coffee/chocolate). From BYO's [Chocolate Malt article](https://byo.com/article/chocolate-malt/):
+    <blockquote>
+    Chocolate rye (~250 °L) and chocolate wheat (~400 °L) are the two biggest non-barley chocolate malts. Although similar to chocolate malt made from barley, the rye version has more spiciness and milk chocolate quality. The wheat version has more of a pronounced dark chocolate character.
+    </blockquote>
+    Note however that with the "chocolate malt", which is described as "roasted nut", maybe it would be nice not to have too many tastes and the same time. We'll see.
 
 Questions
 ---------
@@ -145,3 +150,9 @@ Questions
     -   How can I add sodium (<http://brulosophy.com/2018/01/22/water-chemistry-pt-10-the-impact-of-sodium-on-beer-exbeeriment-results/>)?
     -   <https://www.themadfermentationist.com/2008/09/i-think-that-water-treatment-has-made.html>
 -   Why 100 minutes of boil?
+    -   <https://byo.com/article/boiling-advanced-brewing/>
+    -   <https://www.homebrewsupply.com/learn/60-90-otherwise-finding-best-boil-time.html>
+    -   <https://www.homebrewtalk.com/forum/threads/longer-boil-better-beer.295106/>
+-   Right pH?
+    -   <https://byo.com/article/the-dark-secrets-of-stout/>
+    -   <http://www.madalchemist.com/archives/mashing-the-perfect-sweet-stout/>
