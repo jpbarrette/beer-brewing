@@ -18,8 +18,8 @@ Recipe
 -   Original Gravity: 1.065
 -   Final Gravity: 1.017
 -   ABV (standard): 6.3%
--   IBU (tinseth): 50.76
--   SRM (morey): 44.43
+-   IBU (tinseth): 59.94
+-   SRM (morey): 42.85
 
 Fermentables
 ============
@@ -30,14 +30,14 @@ Fermentables
 | Belgian - Roasted Barley |    0.14|  65.22|     575.0| 5.2    |
 | Belgian - Chocolate      |    0.10|  65.22|     340.0| 3.7    |
 | German - CaraRye         |    0.10|  73.91|      67.0| 3.7    |
-| German - Carafa II       |    0.04|  69.57|     425.0| 1.5    |
+| German - Chocolate Rye   |    0.04|  67.39|     240.0| 1.5    |
 
 Hops
 ====
 
 | Amount | Variety  | Type   |   AA| Use   | Time    |
 |:-------|:---------|:-------|----:|:------|:--------|
-| 12g    | Columbus | Leaf   |   15| Boil  | 60 mins |
+| 12g    | Columbus | Pellet |   15| Boil  | 60 mins |
 | 40g    | Cascade  | Pellet |    7| Aroma | 30 mins |
 
 Yeasts
@@ -65,7 +65,7 @@ System Variables
 ----------------
 
 -   Kettle Size: Liters
--   Trub: 0.06 Liters, TODO: show the actual trub + whole hops lost
+-   Trub: 0 Liters, TODO: show the actual trub + whole hops lost
 -   Boiloff Rate: 2.75 Liters/Hour
 -   Grain Absorption: 0.48 Liters/Kilograms of grain
 -   TODO: Bottled Volume (minus yeast cake)
@@ -73,11 +73,11 @@ System Variables
 Recipe Output
 -------------
 
--   Total Water Needed: 14.42 Liters
+-   Total Water Needed: 14.36 Liters
 -   Strike Water Temp: 68.9 Celsius
--   Total Mash Volume: 16.2 Liters
--   Preboil Wort: 13.14 Liters
--   Postboil Wort: 8.56 Liters
+-   Total Mash Volume: 16.15 Liters
+-   Preboil Wort: 13.08 Liters
+-   Postboil Wort: 8.5 Liters
 -   Into Fermenter: 8.5 Liters
 -   Estimated cost: 18.65 (2.19/L)
 
@@ -118,6 +118,19 @@ Resulting Water:
 -   Bicarbonate: 28 ppm
 -   Mash pH: 5.27
 
+Recipe Changes
+--------------
+
+-   I didn't have Carafa II as mentionned in the recipe (I only had Carafa Special II, which isn't the same thing), but since I had chocolate rye, I decided to go with this. It's said to lend more a "milk chocolate" taste, and I wanted to see what it gave in there. Next time I might try with Chocolate Wheat. From BYO's [Chocolate Malt article](https://byo.com/article/chocolate-malt/):
+    <blockquote>
+    Chocolate rye (~250 °L) and chocolate wheat (~400 °L) are the two biggest non-barley chocolate malts. Although similar to chocolate malt made from barley, the rye version has more spiciness and milk chocolate quality. The wheat version has more of a pronounced dark chocolate character.
+    </blockquote>
+    We'll see what it'll give, but I suspect that Carafa II would have lending more bitterness, which is desired for this style. Note also that in this recipe I also have [brewferm's "chocolate malt"](https://www.brouwland.com/en/our-products/brewing/malts-and-flakes/roasted-malts/brewferm-chocolate-900-ebc/d/barley-malt-brewferm-chocolate-900-ebc-25-kg)[1], which is described as "roasted nut". We'll see how this will mix togheter. We'll see.
+-   Cara60 will be substituted by CaraRye. Weyermann's webpage description:
+    <blockquote>
+    CARARYE® can be used to impart typical rye flavors and aromas, with the characteristic malty and spicy notes. Intense aromas of bread, coffee, dark chocolate and dried fruit also come through.
+    </blockquote>
+
 Preparation Notes
 -----------------
 
@@ -127,20 +140,11 @@ Preparation Notes
     All-grain brewers can use a single infusion mash and a low enough mash temperature so that the resulting beer does not end up too viscous. A temperature range of 148 to 154 °F (64 to 68 °C) works well. Use a lower mash temperature when using lower attenuating yeasts or high starting gravities and use a higher temperature when using the higher attenuating yeasts or lower starting gravity beers.
     </blockquote>
     This means that since I use Safale US-04, which is low attenuating, I'll use a low mash temperature; 65C should be enough. *Wasn't temp just bullshit?*
--   Cara60 will be substituted by CaraRye. (check with Michael Tonsmeire comment)
-    <blockquote>
-    CARARYE® can be used to impart typical rye flavors and aromas, with the characteristic malty and spicy notes. Intense aromas of bread, coffee, dark chocolate and dried fruit also come through.
-    </blockquote>
 -   Will add lactic acid and salts before heating (from Bru'N'Water):
     <blockquote>
     For best result, add acids prior to heating the water since heating can drive off a portion of the alkalinity that the acid addition was calculated to remove.
     </blockquote>
 -   As original recipe mentions, I'll target a 5.2 mash water pH (4.8 strike water pH).
--   I didn't have chocolate malt as mentionned in the recipe, but I had chocolate rye and chocolate wheat. I decided to try chocolate rye, because it said to lend more a "milk chocolate" taste, and I wanted to see what it gave in there (and was affraid to push too much on the coffee/chocolate). From BYO's [Chocolate Malt article](https://byo.com/article/chocolate-malt/):
-    <blockquote>
-    Chocolate rye (~250 °L) and chocolate wheat (~400 °L) are the two biggest non-barley chocolate malts. Although similar to chocolate malt made from barley, the rye version has more spiciness and milk chocolate quality. The wheat version has more of a pronounced dark chocolate character.
-    </blockquote>
-    Note however that with the "chocolate malt", which is described as "roasted nut", maybe it would be nice not to have too many tastes and the same time. We'll see.
 
 Questions
 ---------
@@ -149,6 +153,16 @@ Questions
     -   Is this a problem
     -   How can I add sodium (<http://brulosophy.com/2018/01/22/water-chemistry-pt-10-the-impact-of-sodium-on-beer-exbeeriment-results/>)?
     -   <https://www.themadfermentationist.com/2008/09/i-think-that-water-treatment-has-made.html>
+    -   Which salt to use:
+    -   <http://brulosophy.com/2018/01/22/water-chemistry-pt-10-the-impact-of-sodium-on-beer-exbeeriment-results/>
+    -   <https://onlinelibrary.wiley.com/doi/pdf/10.1002/j.2050-0416.1951.tb01621.x>
+    -   From Bru'N'Water's [website](https://sites.google.com/site/brunwater/water-knowledge):
+        <blockquote>
+        Table Salt provides sodium and chloride ions and is readily soluble in water. Non-iodized salt is preferred since iodine is poisonous to yeast. Table salt is also known as sodium chloride and its chemical formula is: NaCl. Table salt does not readily pick up moisture from the air. Non-iodized table salt is available from grocery stores. A table salt addition of 1 gram per gallon, increases the sodium content of the water by about 104 ppm and the chloride content by about 160 ppm. An addition of 1 gram per liter, increases the sodium content of the water by about 393 ppm and the chloride content by about 607 ppm.
+        </blockquote>
+    -   Iodized salt harms yeast?
+    -   canning salt
+    -   kosher salt
 -   Why 100 minutes of boil?
     -   <https://byo.com/article/boiling-advanced-brewing/>
     -   <https://www.homebrewsupply.com/learn/60-90-otherwise-finding-best-boil-time.html>
@@ -156,3 +170,5 @@ Questions
 -   Right pH?
     -   <https://byo.com/article/the-dark-secrets-of-stout/>
     -   <http://www.madalchemist.com/archives/mashing-the-perfect-sweet-stout/>
+
+[1] I saw somewhere that brewferm was in fact from Castle Malting
