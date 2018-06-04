@@ -125,7 +125,7 @@ Recipe Changes
     <blockquote>
     Chocolate rye (~250 °L) and chocolate wheat (~400 °L) are the two biggest non-barley chocolate malts. Although similar to chocolate malt made from barley, the rye version has more spiciness and milk chocolate quality. The wheat version has more of a pronounced dark chocolate character.
     </blockquote>
-    We'll see what it'll give, but I suspect that Carafa II would have lending more bitterness, which is desired for this style. Note also that in this recipe I also have [brewferm's "chocolate malt"](https://www.brouwland.com/en/our-products/brewing/malts-and-flakes/roasted-malts/brewferm-chocolate-900-ebc/d/barley-malt-brewferm-chocolate-900-ebc-25-kg)[1], which is described as "roasted nut". We'll see how this will mix togheter. We'll see.
+    We'll see what it'll give, but I suspect that Carafa II would have lending more bitterness, which might be what is desired for this style. Note also that in this recipe I also have [brewferm's Chocolate malt](https://www.brouwland.com/en/our-products/brewing/malts-and-flakes/roasted-malts/brewferm-chocolate-900-ebc/d/barley-malt-brewferm-chocolate-900-ebc-25-kg) [1], which is described as "roasted nut". We'll see how this will mix togheter. We'll see.
 -   Cara60 will be substituted by CaraRye. Weyermann's webpage description:
     <blockquote>
     CARARYE® can be used to impart typical rye flavors and aromas, with the characteristic malty and spicy notes. Intense aromas of bread, coffee, dark chocolate and dried fruit also come through.
