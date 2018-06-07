@@ -1,12 +1,9 @@
 ---
-title: "Zymurgy Magazine's Stout Trousers"
+title: "American Stout"
 output: github_document
 ---
 
-* https://www.brewersfriend.com/homebrew/recipe/view/659037/stout-trousers
-* https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/
-* https://byo.com/article/american-stout-style-profile/
-* Water profile from Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html)
+This recipe is inspired from [Zymurgy Magazine's Stout Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/), was built and adjusted with [Brewer's Friend website](https://www.brewersfriend.com/) (available [here](https://www.brewersfriend.com/homebrew/recipe/view/659037/stout-trousers). The recipe adjustment were made with help of the following [Brew You Own](https://byo.com/)'s article: [American Stout Style Profile](https://byo.com/article/american-stout-style-profile/). Also, I made the water profile adjustment by reading Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html) recipe.
 
 ```{r setup-variables, echo=FALSE}
 
