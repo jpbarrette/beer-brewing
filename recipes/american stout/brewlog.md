@@ -5,7 +5,7 @@ This recipe is inspired from [Zymurgy Magazine’s Stout
 Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/),
 was built and adjusted with [Brewer’s Friend
 website](https://www.brewersfriend.com/) (available
-[here](https://www.brewersfriend.com/homebrew/recipe/view/659037/stout-trousers).
+[here](https://www.brewersfriend.com/homebrew/recipe/view/659037/stout-trousers)).
 The recipe adjustment were made with help of the following [Brew You
 Own](https://byo.com/)’s article: [American Stout Style
 Profile](https://byo.com/article/american-stout-style-profile/). Also, I
@@ -122,6 +122,11 @@ Resulting Water:
 
 ## Recipe Changes
 
+  - Right now I’m estimating mash efficiency at 65%, even though last
+    brew I’ve done had 75% efficiency. This means that the current
+    recipe undershoot the ABV, but then if I have a higher ABV, I’ll
+    probably endup with the actual desired, but if I get 65% efficiency,
+    I can either boil longer or accept a lower ABV.
   - I didn’t have Carafa II as mentionned in the recipe (I only had
     Carafa Special II, which isn’t the same thing), but since I had
     chocolate rye, I decided to go with this. It’s said to lend more a
