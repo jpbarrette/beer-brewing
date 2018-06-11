@@ -212,6 +212,20 @@ However, from the following articles brulosophy seems to indicate that longer bo
 
 I still can reach a conclusion, except that for now I'll accept doing the extra boiling times.
 
+### What is BrewDog DIY Extra Pale malt?
+
+https://www.homebrewersassociation.org/forum/index.php?PHPSESSIONID=db397cdb091a595f47f4d402396ac64c&topic=26421.msg406484#msg406484
+
+> Extra Pale is equivalent to Pils malt with respect to kilning and color. It only differs with respect to the barley cultivar. Extra Pale malt will have significant SMM content and higher potential for DMS formation. 
+> 
+> I have elected to classify base malts with respect to color rating. I refer to all base malts with color between 1.2L and 2.2L as Pils malt. All base malts with color between 2.3L and 4L are called Pale malt. Pils malts tend to have sweeter or honey flavor and pale malt tends to add nutty notes to their flavor. Extra pale malt is a pils malt. Vienna malt typically falls in the pale malt range.
+> 
+> Pils malts have significant SMM content and minor DMS content and therefore require more boiling time to convert that SMM to DMS. It then takes some time for the converted DMS to volatilize. 
+> 
+> Pale malts typically have low SMM content and have more significant DMS content. Since DMS is easily volatilized from wort, they don't have to be boiled as long as pils malts do.    
+> 
+> Unless you're brewing a very pale colored beer, there is only minor reason to employ pils malt (obtaining that honey sweet malt flavor). If your beer is intended to be darker than about 3 or 4 SRM, then most brewers would find that a pale malt would work very well and there would be fewer problems with DMS.
+
 ### How can I do small batches
 
 * https://byo.com/mead/item/1378-small-scale-brewing
