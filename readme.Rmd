@@ -35,17 +35,17 @@ Keeping track of my beer brewing experiments
     * https://homebrew.stackexchange.com/questions/12717/sparging-with-biab
     * http://beersmith.com/blog/2009/04/24/avoiding-a-stuck-sparge-for-all-grain-beer/
     * http://www.homebrewtalk.com/showthread.php?t=289087
-     * http://www.bagbrewer.com/mashing-methods.html
-    search "trickle sparge beer brewing" 
+    * http://www.bagbrewer.com/mashing-methods.html search "trickle sparge beer brewing" 
 
 ## Question 
 
 * Why cold break doesn't happen to me? Is it because it's too slow?
-  * http://howtobrew.com/book/section-1/boiling-and-cooling/7-2-the-hot-break
-  * https://byo.com/water/item/249-boiling-advanced-brewing
-  * maybe due to slow boil: http://www.homebrewtalk.com/showthread.php?t=148179
-  * http://www.love2brew.com/Articles.asp?ID=526
-  * http://beerandwinejournal.com/proper-boil-ph/
+    * http://brulosophy.com/2017/05/29/boil-vigor-weak-vs-strong-exbeeriment-results/
+    * http://howtobrew.com/book/section-1/boiling-and-cooling/7-2-the-hot-break
+    * https://byo.com/water/item/249-boiling-advanced-brewing
+    * maybe due to slow boil: http://www.homebrewtalk.com/showthread.php?t=148179
+    * http://www.love2brew.com/Articles.asp?ID=526
+    * http://beerandwinejournal.com/proper-boil-ph/
 
 FAQ
 ---
@@ -65,7 +65,7 @@ The reasons why someone would have longer boil time is mentioned in this [thread
 * To better accomodate consequtive batching.
 * To allow more time for drinkin' while brewin'.
 
-For the [India Red Ale](india red ale/readme.md), my guess is that we want to facilitate the melanoidin creation. As mentionned in the [following article](https://byo.com/article/boiling-advanced-brewing/):<blockquote>When subjected to the temperature and agitation of boiling, complex reactions occur between sugars and amino acids, producing substances known as melanoidins. These are usually considered pleasant, resulting in flavors typically associated with the browning of meats and bread. Longer boiling times result in increased melanoidin production and are a major cause of wort darkening. It should be noted this is not quite the same thing as sugar caramelization, which requires higher temperatures and less water than what is present during boiling. Caramelization is part of the process that occurs during the production of crystal and other colored malts.</blockquote>
+For the [India Red Ale](recipes/india red ale/readme.md), my guess was that we want to facilitate the melanoidin creation. As mentionned in the [following article](https://byo.com/article/boiling-advanced-brewing/):<blockquote>When subjected to the temperature and agitation of boiling, complex reactions occur between sugars and amino acids, producing substances known as melanoidins. These are usually considered pleasant, resulting in flavors typically associated with the browning of meats and bread. Longer boiling times result in increased melanoidin production and are a major cause of wort darkening. It should be noted this is not quite the same thing as sugar caramelization, which requires higher temperatures and less water than what is present during boiling. Caramelization is part of the process that occurs during the production of crystal and other colored malts.</blockquote>
 
 However, from the following articles brulosophy seems to indicate that longer boil time doesn't seem change anything on the flavor:
 
@@ -73,7 +73,9 @@ However, from the following articles brulosophy seems to indicate that longer bo
 * http://brulosophy.com/2017/11/13/boil-length-pt-3-60-minutes-vs-180-minutes-exbeeriment-results/
 * http://brulosophy.com/2015/03/11/the-impact-of-boil-length-ale-exbeeriment-results/
 
-I still can reach a conclusion, except that for now I'll accept doing the extra boiling times.
+Finally, I managed to contact Michael Tonsmiere, and ask him why he used a 75 minutes boil and he [answered](http://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html?showComment=1521765903592#c9077526662741676021): <blockquote>Melanoidins are formed during the boil, but an extra 15 minutes won't make an appreciable difference in the finished beer. I was likely just tweaking the timing to hit my gravity/volume.</blockquote>
+
+So, for the general case I still can't reach a conclusion, however for the India Red Ale, 60 minutes is what I'll aim for. 
 
 ### What is BrewDog DIY Extra Pale malt?
 

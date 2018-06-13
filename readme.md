@@ -73,6 +73,7 @@ Keeping track of my beer brewing experiments
 
   - Why cold break doesn’t happen to me? Is it because it’s too
         slow?
+      - <http://brulosophy.com/2017/05/29/boil-vigor-weak-vs-strong-exbeeriment-results/>
       - <http://howtobrew.com/book/section-1/boiling-and-cooling/7-2-the-hot-break>
       - <https://byo.com/water/item/249-boiling-advanced-brewing>
       - maybe due to slow boil:
@@ -105,9 +106,10 @@ and the
   - To better accomodate consequtive batching.
   - To allow more time for drinkin’ while brewin’.
 
-For the [India Red Ale](india%20red%20ale/readme.md), my guess is that
-we want to facilitate the melanoidin creation. As mentionned in the
-[following article](https://byo.com/article/boiling-advanced-brewing/):
+For the [India Red Ale](recipes/india%20red%20ale/readme.md), my guess
+was that we want to facilitate the melanoidin creation. As mentionned in
+the [following
+article](https://byo.com/article/boiling-advanced-brewing/):
 
 <blockquote>
 
@@ -132,9 +134,21 @@ longer boil time doesn’t seem change anything on the
   - <http://brulosophy.com/2017/11/13/boil-length-pt-3-60-minutes-vs-180-minutes-exbeeriment-results/>
   - <http://brulosophy.com/2015/03/11/the-impact-of-boil-length-ale-exbeeriment-results/>
 
-I still can reach a conclusion, except that for now I’ll accept doing
-the extra boiling
-times.
+Finally, I managed to contact Michael Tonsmiere, and ask him why he used
+a 75 minutes boil and he
+[answered](http://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html?showComment=1521765903592#c9077526662741676021):
+
+<blockquote>
+
+Melanoidins are formed during the boil, but an extra 15 minutes won’t
+make an appreciable difference in the finished beer. I was likely just
+tweaking the timing to hit my gravity/volume.
+
+</blockquote>
+
+So, for the general case I still can’t reach a conclusion, however for
+the India Red Ale, 60 minutes is what I’ll aim
+for.
 
 ### What is BrewDog DIY Extra Pale malt?
 
