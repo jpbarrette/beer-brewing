@@ -81,7 +81,7 @@ Keeping track of my beer brewing experiments
       - <http://www.love2brew.com/Articles.asp?ID=526>
       - <http://beerandwinejournal.com/proper-boil-ph/>
 
-## FAQ
+## Previous Questions
 
 ### Why X minutes boiling time?\[5\]
 
@@ -179,28 +179,7 @@ for.
 > If your beer is intended to be darker than about 3 or 4 SRM, then most
 > brewers would find that a pale malt would work very well and there
 > would be fewer problems with
-    DMS.
-
-### How can I do small batches
-
-  - <https://byo.com/mead/item/1378-small-scale-brewing>
-
-  - <http://www.mrmalty.com/calc/calc.html>
-
-  - <http://www.homebrewtalk.com/showthread.php?t=462474>
-
-  - <http://www.homebrewtalk.com/showthread.php?t=458101>
-
-  - <http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/>
-
-  - Volume Management:
-    <https://www.brewersfriend.com/2010/06/12/water-volume-management-in-all-grain-brewing/>
-
-  - (big) <http://www.homebrewtalk.com/showthread.php?t=311884>
-
-  - Cover kettle with sleeping bag - (maybe I should do the same thing
-    for full volume, or create an
-isolant)
+DMS.
 
 ### Do I need to whirlpool/Do I need to separate the hot break material from the wort?
 
@@ -222,7 +201,7 @@ is this a problem (however I use irish moss)?
   - <https://biabbrewing.com/brew-day-prep/biab-calculators-and-software/>
   - <http://www.biabrewer.info/>
 
-# Next Recipes
+# Next
 
   - <https://beerandbrewing.com/chocolate-coffee-stout-recipe/>
   - American Wheat Ale

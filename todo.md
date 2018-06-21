@@ -26,32 +26,36 @@ TODO List
 
 It seems that since I don’t use as much water as BIAB requires
 generally, I might have less pH problems. But what does it mean to have
-full volume? Doesn’t it screw up the pH? \*
-<https://www.homebrewersassociation.org/wp-content/uploads/How-To-Brew-in-a-Bag.pdf>
-\* <http://www.thebrewingnetwork.com/forum/viewtopic.php?t=4650> \*
-<http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/>
-\*
-<http://beersmith.com/blog/2009/04/14/brew-in-a-bag-biab-all-grain-beer-brewing/>
-\* <http://www.beersmith.com/forum/index.php?topic=11026.0> \*
-<http://www.homebrewtalk.com/showthread.php?t=165168> \*
-<http://www.homebrewtalk.com/showthread.php?t=202609> \* Lactic acid to
-lower to pH (enzymatic activity + tannin) \* Stir \* squeeze (rotate the
-bag to squeeze) \* <http://www.homebrewtalk.com/showthread.php?t=225875>
-\* Maybe contact <http://nateobrew.blogspot.fr/> \*
-<http://www.homebrewtalk.com/showthread.php?t=211616> \* 90 minutes mash
-\* Mash Out for 10 minutes (see homebrewacademy) \*
-<http://brulosophy.com/2015/09/10/6-tips-for-dealing-with-efficiency-problems/>
-\* Finer crush \*
-<https://www.homebrewersassociation.org/forum/index.php?topic=13806.0>
-\*
-<https://www.beeradvocate.com/community/threads/brew-in-a-bag-what-efficiency-can-i-expect.106215/>
-\* <http://homebrewacademy.com/brewing-big-beers-biab/> \*
-<https://aussiehomebrewer.com/threads/increasing-biab-efficiency.25844/>
-\* <http://www.love2brew.com/Articles.asp?ID=387> \*
-<https://pricelessbrewing.github.io/methods/Efficiency/> (lots’ of
-calculators, very nice\!) \* Maybe I should a 20 litters mash, then add
-little water to mash out?
+full volume? Doesn’t it screw up the
+    pH?
 
+  - <https://www.homebrewersassociation.org/wp-content/uploads/How-To-Brew-in-a-Bag.pdf>
+  - <http://www.thebrewingnetwork.com/forum/viewtopic.php?t=4650>
+  - <http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/>
+  - <http://beersmith.com/blog/2009/04/14/brew-in-a-bag-biab-all-grain-beer-brewing/>
+  - <http://www.beersmith.com/forum/index.php?topic=11026.0>
+  - <http://www.homebrewtalk.com/showthread.php?t=165168>
+  - <http://www.homebrewtalk.com/showthread.php?t=202609>
+  - Lactic acid to lower to pH (enzymatic activity + tannin)
+  - Stir
+  - squeeze (rotate the bag to squeeze)
+  - <http://www.homebrewtalk.com/showthread.php?t=225875>
+  - Maybe contact <http://nateobrew.blogspot.fr/>
+  - <http://www.homebrewtalk.com/showthread.php?t=211616>
+  - 90 minutes mash
+  - Mash Out for 10 minutes (see
+    homebrewacademy)
+  - <http://brulosophy.com/2015/09/10/6-tips-for-dealing-with-efficiency-problems/>
+  - Finer
+    crush
+  - <https://www.homebrewersassociation.org/forum/index.php?topic=13806.0>
+  - <https://www.beeradvocate.com/community/threads/brew-in-a-bag-what-efficiency-can-i-expect.106215/>
+  - <http://homebrewacademy.com/brewing-big-beers-biab/>
+  - <https://aussiehomebrewer.com/threads/increasing-biab-efficiency.25844/>
+  - <http://www.love2brew.com/Articles.asp?ID=387>
+  - <https://pricelessbrewing.github.io/methods/Efficiency/> (lots’ of
+    calculators, very nice\!)
+  - Maybe I should a 20 litters mash, then add little water to mash out?
   - After your mash. you need to give things a good stir, and keep on
     stirring while you add heat and bring the whole mash up to Mash Out
     temp. In traditional brewing mash out isn’t really necessary, but in
@@ -106,6 +110,57 @@ little water to mash out?
       - <https://www.homebrewersassociation.org/how-to-brew/effect-post-boilwhirlpool-hop-additions-bitterness-beer/>
       - <https://beerandbrewing.com/the-best-way-to-use-whirlpool-hops-in-homebrew/>
       - <https://byo.com/article/hop-stands/>
+
+## FastFerment improvement on refegaration
+
+  - <https://www.brouwland.com/en/our-products/winemaking/bottles-tanks-barrels/plastic-tubs/fermentation-tanks/d/fastferment-insulated-jacket>
+  - Bigger mason
+    jar.
+
+## Why having a Sample Port?
+
+<http://www.beersmith.com/forum/index.php?topic=7800.0>
+
+## How can I do small batches
+
+  - <https://byo.com/mead/item/1378-small-scale-brewing>
+
+  - <http://www.mrmalty.com/calc/calc.html>
+
+  - <http://www.homebrewtalk.com/showthread.php?t=462474>
+
+  - <http://www.homebrewtalk.com/showthread.php?t=458101>
+
+  - <http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/>
+
+  - Volume Management:
+    <https://www.brewersfriend.com/2010/06/12/water-volume-management-in-all-grain-brewing/>
+
+  - (big) <http://www.homebrewtalk.com/showthread.php?t=311884>
+
+  - Cover kettle with sleeping bag - (maybe I should do the same thing
+    for full volume, or create an isolant)
+
+  - Note how fastferment allows me to loose less wort by being able to
+    get directly from fermenter to bottles. Only problem might be
+    sediments on the side of the fermentor.
+
+## Yeast is Clogging FastFerment’s Ball Valve
+
+I changed the yeast collection recipient a first time, but the yeast is
+stuck in the fermenter’s neck and the collection recipient doesn’t fill
+up. Reading about this everyone was suggesting to use any stick to help
+unclog it. However, reading those forums I endup reading also about how
+there:
+
+<blockquote>
+
+are patches of trub hanging on the sides of the conical. As it drains
+into the keg patches of trub flow into the keg.
+
+</blockquote>
+
+Some people were suggesting to filter the wort:
 
 ## Water Treatment
 

@@ -20,6 +20,7 @@ output: github_document
 * https://www.brew.is/files/malt.html
 
 ### Astringency (Oversparging/Hot Sparging)
+
 * http://beersmith.com/blog/2015/10/25/astringency-from-grains-oversparging-and-hot-sparging-your-beer/
 * http://beersmith.com/blog/2017/02/28/extract-beer-brewing-tip-dont-steep-grains-with-too-much-water/ (that's why we don't add all water)
 
@@ -27,6 +28,7 @@ output: github_document
 ### BIAB
 
 It seems that since I don't use as much water as BIAB requires generally, I might have less pH problems. But what does it mean to have full volume? Doesn't it screw up the pH?
+
 * https://www.homebrewersassociation.org/wp-content/uploads/How-To-Brew-in-a-Bag.pdf
 * http://www.thebrewingnetwork.com/forum/viewtopic.php?t=4650
 * http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/
@@ -51,8 +53,6 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
 * http://www.love2brew.com/Articles.asp?ID=387
 * https://pricelessbrewing.github.io/methods/Efficiency/ (lots' of calculators, very nice!)
 * Maybe I should a 20 litters mash, then add little water to mash out?
-
-
 * After your mash. you need to give things a good stir, and keep on stirring while you add heat and bring the whole mash up to Mash Out temp. In traditional brewing mash out isn't really necessary, but in BIAB its really quite important for efficiency. You can skip it, but you will probably lose close to 5 points of efficiency  (168f/75.5556C)
 
 #### Improving efficiency
@@ -92,6 +92,31 @@ It seems that since I don't use as much water as BIAB requires generally, I migh
      * https://beerandbrewing.com/the-best-way-to-use-whirlpool-hops-in-homebrew/
      * https://byo.com/article/hop-stands/
 
+## FastFerment improvement on refegaration
+
+* https://www.brouwland.com/en/our-products/winemaking/bottles-tanks-barrels/plastic-tubs/fermentation-tanks/d/fastferment-insulated-jacket
+* Bigger mason jar.
+
+## Why having a Sample Port?
+
+http://www.beersmith.com/forum/index.php?topic=7800.0
+
+## How can I do small batches
+
+* https://byo.com/mead/item/1378-small-scale-brewing
+* http://www.mrmalty.com/calc/calc.html
+* http://www.homebrewtalk.com/showthread.php?t=462474
+* http://www.homebrewtalk.com/showthread.php?t=458101
+* http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/
+* Volume Management: https://www.brewersfriend.com/2010/06/12/water-volume-management-in-all-grain-brewing/
+
+* (big) http://www.homebrewtalk.com/showthread.php?t=311884
+* Cover kettle with sleeping bag - (maybe I should do the same thing for full volume, or create an isolant)
+* Note how fastferment allows me to loose less wort by being able to get directly from fermenter to bottles. Only problem might be sediments on the side of the fermentor.
+
+## Yeast is Clogging FastFerment's Ball Valve
+
+I changed the yeast collection recipient a first time, but the yeast is stuck in the fermenter's neck and the collection recipient doesn't fill up. Reading about this everyone was suggesting to use any stick to help unclog it. However, reading those forums I endup reading also about how there:<blockquote>are patches of trub hanging on the sides of the conical. As it drains into the keg patches of trub flow into the keg.</blockquote>Some people were suggesting to filter the wort:
 
 ## Water Treatment
 
