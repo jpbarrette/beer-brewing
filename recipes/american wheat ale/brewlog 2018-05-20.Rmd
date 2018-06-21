@@ -52,10 +52,12 @@ hop_price_override = 10.25
 # Post Brew Day Notes
 
 * 2018/06/10 9h00: Put dry hop into fermenter (25g Amarillo + 25g Citra) and changed yeast jar (500 ml jar). I would have done it after two of fermentation, but I didn't managed to get to it.
+* Removed once FastFerment's original mason, and then two 500mL mason jars.
 
 # Bottling Notes (2018/06/20)
 
 * Target carbonation: 3.0. 7.5g/L (at 18C for calculating residual carbonation)^[Note that since the fermentor stayed at least two hours at 27C, it might be undercarbonated], estimated 6.5L in racking container. That would have given 48.75g, but I didn't have enough sugar, so I put only 46g.
+* From a bit less than 7.5L in the fermentor, we ended up with 6.5L in the racking bucket, since the was still a yeast cake.
 * 46g of sugar in 250mL water.
 * Gave 7^[However, I lost one bottle since I did a mistake of filling a non-sterilized bottle] x 750mL + 2 x 330mL = 5.91L.
 * My racking technique needs to be improved. I introduced way too much oxygen (beer was splashing) and I introduced too much starsan by mistake in the wort.
