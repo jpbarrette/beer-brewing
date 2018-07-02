@@ -15,7 +15,7 @@ brewlog_file = '../recipes/american stout/brewlog_2018-06-23.xml'
 ```
 
 Water Information
------------------
+=================
 
 Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html) Water Profile:
 
@@ -52,7 +52,7 @@ Resulting Water:
 * Mash pH: 5.37
 
 Recipe Changes
---------------
+==============
 
 Right now I'm estimating mash efficiency at 65%, even though last brew I've done had 75% efficiency. This means that the current recipe undershoot the ABV, but then if I have a higher ABV, I'll probably endup with the actual desired, but if I get 65% efficiency, I can either boil longer or accept a lower ABV.
 
@@ -61,7 +61,7 @@ I didn't have Carafa II as mentionned in the recipe (I only had Carafa Special I
 Cara60 will be substituted by CaraRye. Weyermann's webpage description: <blockquote>CARARYE® can be used to impart typical rye flavors and aromas, with the characteristic malty and spicy notes.  Intense aromas of bread, coffee, dark chocolate and dried fruit also come through.</blockquote>
 
 Preparation Notes
------------------
+=================
 
 * Used Bru'N'Water spreadsheet to be able to calculate sodium additions. Essentially, I decided to 
 * Form BYO's article: <blockquote>All-grain brewers can use a single infusion mash and a low enough mash temperature so that the resulting beer does not end up too viscous. A temperature range of 148 to 154 °F (64 to 68 °C) works well. Use a lower mash temperature when using lower attenuating yeasts or high starting gravities and use a higher temperature when using the higher attenuating yeasts or lower starting gravity beers.</blockquote> This means that since I use Safale US-04, which is low attenuating, I'll use a low mash temperature; 65C should be enough. _Wasn't temp just bullshit?_
@@ -69,7 +69,7 @@ Preparation Notes
 * As original recipe mentions, I'll target a 5.2 mash water pH (4.8 strike water pH).
 
 Questions
----------
+=========
 
 * There's a little bit less sodium that target profile.
     * Is this a problem
@@ -89,3 +89,16 @@ Questions
 * Right pH?
     * https://byo.com/article/the-dark-secrets-of-stout/
     * http://www.madalchemist.com/archives/mashing-the-perfect-sweet-stout/
+
+Brew Notes
+==========
+
+* (17h50) Filling kettle
+* (18h00) Kettle is leaking with the new valve. Had to empty and fill it again.
+* (18h24) Fired kettle; water at 25C. I let the lid off to make sure chlorine. Started milling.
+* (19h05) Mashing in. Went from 68C strike water temp to 66C with grains. It seems 22L is the max volume I can mash in that kettle.
+* (20h08) Finished mashing. Wort at 65.7C, 17.8cm depth in the kettle. 1.042 preboil gravity at 65C. Started the boil.
+* (20h45) Boil started. Put 20g of Columbus hop at 14.6% AA
+* (21h59) Put hopstand hop; 70g of loose Cascade hop pellets) at 76C. Covered the kettle with the lid. After 30 minutes, I started the immersion chiller; The wort was at 66C then.
+* (22h48) Transfered everying into the fermentor (with all trub) and oxigenized. 13 liters in the fermentor.
+* (23h06) Poured yeast in. However, I pitched at 21C, which I think is a mistake. Tap water is too hot at this time. Next time, let's put the yeast in only on the next morning, giving time for the wort to cool to 15C.
