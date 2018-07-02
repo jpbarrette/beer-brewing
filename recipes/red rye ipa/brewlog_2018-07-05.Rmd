@@ -33,5 +33,5 @@ Preparation Notes
     * Sulfate: 152ppm
     * Chloride: 151ppm
     * Bicarbonate: 66ppm
-    
+* Need to check for sodium: http://brulosophy.com/2018/01/22/water-chemistry-pt-10-the-impact-of-sodium-on-beer-exbeeriment-results/. Probably 50ppm would be sufficient. 
 
