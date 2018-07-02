@@ -7,7 +7,7 @@ This recipe is inspired from [Zymurgy Magazine's Stout Trousers](https://www.hom
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../recipes/american stout/brewlog_2018-06-23.xml'
+brewlog_file = '../recipes/american stout/brewlog_2018-06-28.xml'
 
 ```
 
