@@ -16,23 +16,34 @@ brewlog_file = '../recipes/red rye ipa/brewlog_2018-07-05.xml'
 ```
 
 
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 50ppm
+    * Sulfate: 150ppm
+    * Chloride: 150ppm
+    * Mash pH: 5.35
+* Water Additions:
+    * 1.5g Gypsum
+    * 2.99 Calcium Chloride (2.3g, but since it's 77%, 2.99g)
+    * 4.9g Epsom Salt
+    * 4.0ml Lactic Acid (80%)
+    * 2.3g Salt
+* Adjusted Water Profile:
+    * Calcium: 113ppm
+    * Magnesium: 30ppm
+    * Sodium: 50ppm
+    * Sulfate: 152ppm
+    * Chloride: 155ppm
+    * Bicarbonate: 66ppm
+    * Estimated Mash pH: 5.36
+
 Preparation Notes
 =================
 
-* https://www.morebeer.com/articles/treating_homebrew_water
-* Target Water Profile: 150ppm of sulfate and 150ppm of chloride
-* Water Additions:
-    * 1.5g Gypsum
-    * 5.71 Calcium Chloride (4.4g, but since it's 77%, 5.71g)
-    * 4.9g Epsom Salt
-    * 3.0ml Lactic Acid (80%)
-* Adjusted Water Profile:
-    * Calcium: 152ppm
-    * Magnesium: 30ppm
-    * Sodium: 3ppm
-    * Sulfate: 152ppm
-    * Chloride: 151ppm
-    * Bicarbonate: 66ppm
 * Need to check for sodium: http://brulosophy.com/2018/01/22/water-chemistry-pt-10-the-impact-of-sodium-on-beer-exbeeriment-results/. Probably 50ppm would be sufficient.
 * https://beerandbrewing.com/make-your-best-rye-ipa-beer-recipe/
+* http://beerandwinejournal.com/rye-ipa/
+* https://www.seriouseats.com/recipes/2011/04/red-ale-for-beginning-homebrewers-hoppy-red-ale-recipe.html
 

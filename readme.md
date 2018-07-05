@@ -61,6 +61,7 @@ Keeping track of my beer brewing experiments
 
 ## TO READ
 
+  - <https://www.morebeer.com/articles/treating_homebrew_water>
   - (search results from “batch sparge
         biab”):
       - <https://homebrew.stackexchange.com/questions/12717/sparging-with-biab>

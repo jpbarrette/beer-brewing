@@ -31,6 +31,7 @@ Keeping track of my beer brewing experiments
 
 ## TO READ
 
+* https://www.morebeer.com/articles/treating_homebrew_water
 * (search results from "batch sparge biab"):
     * https://homebrew.stackexchange.com/questions/12717/sparging-with-biab
     * http://beersmith.com/blog/2009/04/24/avoiding-a-stuck-sparge-for-all-grain-beer/
