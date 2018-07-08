@@ -7,7 +7,7 @@ Original recipe from [here](https://www.themadfermentationist.com/2012/08/india-
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../recipes/red rye ipa/brewlog_2018-07-05.xml'
+brewlog_file = '../recipes/red rye ipa/brewlog_2018-07-08.xml'
 
 ```
 
