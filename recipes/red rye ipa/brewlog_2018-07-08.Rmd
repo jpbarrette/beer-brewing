@@ -58,4 +58,4 @@ Brew Notes
 * (16h22) Started immersion chiller.
 * (16h37) Put wort in fermentor at 27.5 degrees. I didn't put the yeast yet. I put the wort in the basement in an insulation jacket with ice bottles. This will allow the wort to go at reasonable pitching temp. 1.064 OG at 27.5C.
 * (16h50) Cleanup almost done.
-* (23h50) Pitching yeast.
+* (23h50) Pitching yeast at 17.5C.
