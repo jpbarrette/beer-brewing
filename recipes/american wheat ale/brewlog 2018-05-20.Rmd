@@ -65,6 +65,9 @@ hop_price_override = 10.25
 * Forgot again to mesure FG. We'll have the trust the estimates.
 * I tasted the uncarbonated beer. I have high hopes for this one. 
 
+# Tasting Notes
 
+* Reading [this](http://brulosophy.com/2017/07/03/loose-vs-bagged-dry-hops-exbeeriment-results/) I realized that since I don't cold crash, I endup with a lot of hop matter in the bottles. So for now, let's not put them loose in the fermentor, until I can get to cold crash.
+* https://www.winning-homebrew.com/dry-hopping.html
 
 
