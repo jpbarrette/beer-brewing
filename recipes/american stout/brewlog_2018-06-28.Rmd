@@ -108,6 +108,9 @@ Post-Brew Notes
 ===============
 
 * I need to adjust batch target size in brewer's friend to validate the efficiency.
-* (2018-07-21, 19h00) Estimating 11 to 12 liters of beer. let's estimate 23C max temp of that beer. for 3.0 it gives 7.8g per liters. with brown sugar which is 97% fermentable. (11 / 12) * 3.0 * 0.97 = 2.66 carbon volume. This means that if I collect 12 liters intead of 11 liters, instead of 2.91 carbon volume, we'll end with 2.66.
 
-Let's use 11.5 liters. 11.5 * 7.8 = 89.7... 90g!
+Bottling Notes (2018-07-21)
+===========================
+
+* Estimating 11 to 12 liters of beer. So, I'll consider 11.5L. Let's estimate 23C max temp of that beer. For 2.5 carbonation volume it gives 6.1g of sugar per liters, hence 70g of sugar.
+* 11L, 70g of sugar, 1.016 FG. Gave 12x750mL, 5x330mL.
