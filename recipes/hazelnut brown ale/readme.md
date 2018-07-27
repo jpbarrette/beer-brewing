@@ -9,7 +9,7 @@
 # Recipes
 
 * https://byo.com/recipe/rogue-hazelnut-brown-nectar-clone/
-  * https://www.homebrewtalk.com/forum/threads/rogue-hazelnut-brown-nectar.28798/#post-433553
+* https://www.homebrewtalk.com/forum/threads/rogue-hazelnut-brown-nectar.28798/#post-433553
 * http://paulsrecipepage.blogspot.fr/2008/04/homemade-hazelnut-extract.html
 * https://www.homebrewersassociation.org/forum/index.php?topic=19030.msg242430#msg242430
 
