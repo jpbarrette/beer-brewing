@@ -52,6 +52,11 @@ Resulting Water:
 * Bicarbonate: 135 ppm
 * Mash pH: 5.40
 
+Preparation Notes
+=================
+
+* https://byo.com/article/brewing-with-oatmeal-2/
+
 Recipe Changes
 ==============
 

@@ -31,6 +31,7 @@ Keeping track of my beer brewing experiments
 * 2018/06/28 - [American Stout](recipes/american stout/brewlog_2018-06-28.md), [Zymurgy Magazine's Stout
 Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/) Clone
 * 2018/07/08 - [Red Rye IPA](recipes/red rye ipa/brewlog_2018-07-08.md), [Mad Fermentationist's Red Rye IPA](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) Clone
+* 2018/07/22 - [American Wheat Ale](recipes/american%20wheat%20ale/brewlog_2018-07-22.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone
 
 ## TO READ
 
@@ -113,26 +114,18 @@ Tools
 
 # Next 
 
-* https://beerandbrewing.com/chocolate-coffee-stout-recipe/
-* American Wheat Ale
-* [Rye Wit Session](http://beerandwinejournal.com/rye-wit-session-beer)
-* Red Rye IPA
-* Coffee American Rye Ale
+* [Coffee Oatmeal Stout](recipes/coffee oatmeal stout/brewlog.md)
+* [Chocolate Coffee Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
+* [Rye Wit Session](recipes/rye wit session/brewlog.md)
+* [Coffee American Rye Ale](recipes/coffee americal rye ale/readme.Rmd)
 
 # Recipes to Explore
 
-* Rogue's Hazelnut Brown Ale
-* Amber Ale
-    * http://www.homebrewtalk.com/showthread.php?t=55809
-* Chilli Beer (Stout?)
-   * https://byo.com/body/item/859-hot-hot-hot-brewing-with-chili-peppers
-   * https://byo.com/bock/item/1088-make-your-beer-burn-bring-the-heat-of-hot-peppers-to-your-brewing
-   * http://www.homebrewing.com/articles/chile-beer/
+* [Rogue's Hazelnut Brown Ale](recipes/hazelnut brown ale/readme.Rmd)
+* [Chilli Stout](recipes/chili stout/readme.Rmd)
 * Modern Times' Blazing World (Amber IPA)
-* Milk Stout
-   * https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout
-* Americal Pale Ale
-   * https://byo.com/recipe/benjamin-sharps-american-pale-ale/ (no malt conversion)
+* [Milk Stout](https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout)
+* [Americal Pale Ale](https://byo.com/recipe/benjamin-sharps-american-pale-ale/) (no malt conversion)
 
 Books Whishlist
 ---------------
@@ -152,6 +145,7 @@ Shops
 * https://www.comptoir-houblon.fr/
 * http://www.brouwland.com/
 * https://www.rolling-beers.fr
+* https://www.polsinelli.it/
 
 Hop Varieties
 ------------

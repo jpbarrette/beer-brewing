@@ -182,6 +182,7 @@ Some people were suggesting to filter the wort:
   - <https://byo.com/article/the-power-of-ph/>
   - <http://braukaiser.com/wiki/index.php?title=How_pH_affects_brewing>
   - <http://drunkalchemist.blogspot.fr/2014/07/effect-of-ph-on-flavor-profile.html>
+  - <https://www.themadfermentationist.com/2013/11/focus-on-brewing-ph-american-pale-ale.html>
 
 ## Sanitizing
 

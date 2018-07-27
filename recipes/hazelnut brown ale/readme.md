@@ -21,7 +21,7 @@
 
 Here is the recipe from AustinHomebrew:
 
-Rouge Hazelnut Brown Nectar
+Rogue Hazelnut Brown Nectar
 
 OG: 1.056
 
