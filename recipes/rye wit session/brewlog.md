@@ -75,8 +75,11 @@ from [BIAB Calculator](http://www.biabcalculator.com/)
 
 # Preparation Notes
 
+  - I could seperate the water in two kettle to warm faster?
   - I think I should have a lower “liquor-to-grist” ratio on this brew.
-    I might not use the full volume to help alpha amylaze.
+    I might not use the full volume to help alpha amylaze. *UPDATE* I
+    won’t do that, but it means the efficiency might be lower. So, 3.3%
+    is good because if I’m going lower, it’s okay.
   - For this recipe I want to keep a similiar hop profile than my
     american pale ale or american wheat ale (but not the IBU). This will
     allow us to compare the malt profile.
