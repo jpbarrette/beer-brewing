@@ -1,5 +1,5 @@
 ---
-title: "Mad Fermentiationist's Red Rye IPA"
+title: "Mad Fermentiationist's Big Hop IPA"
 output: github_document
 ---
 
