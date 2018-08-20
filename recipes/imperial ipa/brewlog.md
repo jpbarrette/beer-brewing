@@ -10,38 +10,38 @@ Recipe
 -   Style: American IPA
 -   Batch Size: 15 Liters (fermentor volume)
 -   Boil Gravity: TODO (recipe based estimate)
--   Efficiency: 60% (brew house)
+-   Efficiency: 55% (brew house)
 -   Source: Pliny the Elder
--   Original Gravity: 1.071
--   Final Gravity: 1.011
--   ABV (standard): 7.94%
--   IBU (tinseth): 62.51
--   SRM (morey): 5.72
+-   Original Gravity: 1.070
+-   Final Gravity: 1.010
+-   ABV (standard): 7.79%
+-   IBU (tinseth): 73.36
+-   SRM (morey): 7.5
 
 Fermentables
 ============
 
 | Name                   |  Amount|   Yield|  Lovibond| Bill % |
 |:-----------------------|-------:|-------:|---------:|:-------|
-| German - Pale Ale      |    4.72|   84.78|       2.3| 89.9   |
-| - Cane Sugar           |    0.25|  100.00|       0.0| 4.8    |
-| German - Wheat Malt    |    0.25|   80.43|       2.0| 4.8    |
-| German - Caramel Wheat |    0.03|   73.91|      46.0| 0.6    |
+| German - Pale Ale      |    4.80|   84.78|       2.3| 86.8   |
+| - Cane Sugar           |    0.30|  100.00|       0.0| 5.4    |
+| German - Wheat Malt    |    0.27|   80.43|       2.0| 4.9    |
+| German - Caramel Wheat |    0.16|   73.91|      46.0| 2.9    |
 
 Hops
 ====
 
 | Amount | Variety  | Type   |    AA| Use     | Time    |
 |:-------|:---------|:-------|-----:|:--------|:--------|
-| 25g    | Columbus | Pellet |  15.0| Boil    | 60 mins |
-| 60g    | Cascade  | Pellet |   7.0| Aroma   | 30 mins |
-| 60g    | Simcoe   | Pellet |  12.7| Aroma   | 30 mins |
-| 20g    | Cascade  | Pellet |   7.0| Dry Hop | 12 days |
-| 20g    | Columbus | Pellet |  15.0| Dry Hop | 12 days |
-| 20g    | Simcoe   | Pellet |  12.7| Dry Hop | 12 days |
-| 20g    | Cascade  | Pellet |   7.0| Dry Hop | 3 days  |
-| 20g    | Columbus | Pellet |  15.0| Dry Hop | 3 days  |
-| 20g    | Simcoe   | Pellet |  12.7| Dry Hop | 3 days  |
+| 37g    | Columbus | Pellet |  15.0| Boil    | 30 mins |
+| 64g    | Cascade  | Pellet |   7.0| Aroma   | 30 mins |
+| 64g    | Simcoe   | Pellet |  12.7| Aroma   | 30 mins |
+| 21g    | Cascade  | Pellet |   7.0| Dry Hop | 12 days |
+| 21g    | Columbus | Pellet |  15.0| Dry Hop | 12 days |
+| 21g    | Simcoe   | Pellet |  12.7| Dry Hop | 12 days |
+| 21g    | Cascade  | Pellet |   7.0| Dry Hop | 3 days  |
+| 21g    | Columbus | Pellet |  15.0| Dry Hop | 3 days  |
+| 21g    | Simcoe   | Pellet |  12.7| Dry Hop | 3 days  |
 
 Yeasts
 ======
@@ -58,11 +58,11 @@ Since I use BIAB (Brew in a Bag) method, here's the calculations taken from [BIA
 Recipe Parameter
 ----------------
 
--   Grain Bill: 5.25 Kilograms
+-   Grain Bill: 5.53 Kilograms
 -   Grain Temp: 20 Celsius
 -   Batch Size: 15 Liters
 -   Mash Temp: 65 Celsius
--   Boil Time: 60 Minutes
+-   Boil Time: 30 Minutes
 
 System Variables
 ----------------
@@ -76,13 +76,13 @@ System Variables
 Recipe Output
 -------------
 
--   Total Water Needed: 20.27 Liters
--   Strike Water Temp: 66.2 Celsius
--   Total Mash Volume: 23.77 Liters
--   Preboil Wort: 17.75 Liters
+-   Total Water Needed: 19.03 Liters
+-   Strike Water Temp: 66.3 Celsius
+-   Total Mash Volume: 22.72 Liters
+-   Preboil Wort: 16.38 Liters
 -   Postboil Wort: 15 Liters
 -   Into Fermenter: 15 Liters
--   Estimated cost: 41.3 (2.75/L)
+-   Estimated cost: 44.0986 (2.94/L)
 
 Water Information
 =================
@@ -93,11 +93,11 @@ Water Information
     -   Chloride: 150ppm
     -   Mash pH: 5.35
 -   Water Additions:
-    -   1.5g Gypsum
-    -   2.99 Calcium Chloride (2.3g, but since it's 77%, 2.99g)
-    -   4.9g Epsom Salt
-    -   4.0ml Lactic Acid (80%)
-    -   2.3g Salt
+    -   1.6g Gypsum
+    -   3.25g Calcium Chloride (2.5g, but since it's 77%, 3.25g)
+    -   5.3g Epsom Salt
+    -   5.0ml Lactic Acid (80%)
+    -   2.4g Salt
 -   Adjusted Water Profile:
     -   Calcium: 113ppm
     -   Magnesium: 30ppm
