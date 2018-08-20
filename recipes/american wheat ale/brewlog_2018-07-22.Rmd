@@ -59,6 +59,17 @@ Brew Notes
 * (22h35) Finished cleaning up everything.
 * (7h30) Pitched yeast. Fermentor was at 18.2C.
 
-   
+Post Notes
+==========
+
+* Hop loose
+
+Bottling Notes (2018/08/05)
+==========================
+
+* ~15.7L in the fermentor. Estimating 12L in the racking bucket. Estimated 20C on final fermentation temp.
+* Target carbonation: 3.0 volume
+* 7.7g of sugar per liter gives (* 12 7.7) = 92.4g of sugar.
+* 1.010 FG
 
 
