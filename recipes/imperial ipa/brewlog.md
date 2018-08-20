@@ -1,7 +1,7 @@
 Mad Fermentiationist's Big Hop IPA
 ================
 
-Recipe inspired from MadFermentationist's [here](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) and [here](https://www.themadfermentationist.com/2013/04/three-modern-times-west-test-batches.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/672949/madfermentationist-s-red-rye-ipa)
+This is my interpretation of Pliny the Elder's recipe. This is inspired from MadFermentationist's [own interpretation](https://www.themadfermentationist.com/2010/12/pliny-younger-clone-recipe.html) and his own [DIPA Bomb recipe](https://www.themadfermentationist.com/2010/02/big-ipa-recipe-1-lb-of-hops.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/686156/imperial-ipa-almost-)
 
 Recipe
 ======
@@ -34,14 +34,14 @@ Hops
 | Amount | Variety  | Type   |    AA| Use     | Time    |
 |:-------|:---------|:-------|-----:|:--------|:--------|
 | 37g    | Columbus | Pellet |  15.0| Boil    | 30 mins |
-| 64g    | Cascade  | Pellet |   7.0| Aroma   | 30 mins |
-| 64g    | Simcoe   | Pellet |  12.7| Aroma   | 30 mins |
-| 21g    | Cascade  | Pellet |   7.0| Dry Hop | 12 days |
-| 21g    | Columbus | Pellet |  15.0| Dry Hop | 12 days |
-| 21g    | Simcoe   | Pellet |  12.7| Dry Hop | 12 days |
-| 21g    | Cascade  | Pellet |   7.0| Dry Hop | 3 days  |
-| 21g    | Columbus | Pellet |  15.0| Dry Hop | 3 days  |
-| 21g    | Simcoe   | Pellet |  12.7| Dry Hop | 3 days  |
+| 60g    | Cascade  | Pellet |   7.0| Aroma   | 30 mins |
+| 60g    | Simcoe   | Pellet |  12.7| Aroma   | 30 mins |
+| 20g    | Cascade  | Pellet |   7.0| Dry Hop | 12 days |
+| 20g    | Columbus | Pellet |  15.0| Dry Hop | 12 days |
+| 20g    | Simcoe   | Pellet |  12.7| Dry Hop | 12 days |
+| 20g    | Cascade  | Pellet |   7.0| Dry Hop | 3 days  |
+| 20g    | Columbus | Pellet |  15.0| Dry Hop | 3 days  |
+| 20g    | Simcoe   | Pellet |  12.7| Dry Hop | 3 days  |
 
 Yeasts
 ======
@@ -82,7 +82,7 @@ Recipe Output
 -   Preboil Wort: 16.38 Liters
 -   Postboil Wort: 15 Liters
 -   Into Fermenter: 15 Liters
--   Estimated cost: 44.0986 (2.94/L)
+-   Estimated cost: 42.98 (2.87/L)
 
 Water Information
 =================

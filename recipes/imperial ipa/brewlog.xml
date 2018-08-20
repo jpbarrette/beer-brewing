@@ -88,7 +88,7 @@
     <NAME>Cascade</NAME>
     <VERSION>1</VERSION>
     <ALPHA>7</ALPHA>
-    <AMOUNT>0.064</AMOUNT>
+    <AMOUNT>0.06</AMOUNT>
     <USE>Aroma</USE>
     <USER_HOP_USE>Whirlpool</USER_HOP_USE>
     <TIME>30</TIME>
@@ -100,7 +100,7 @@
     <NAME>Simcoe</NAME>
     <VERSION>1</VERSION>
     <ALPHA>12.7</ALPHA>
-    <AMOUNT>0.064</AMOUNT>
+    <AMOUNT>0.06</AMOUNT>
     <USE>Aroma</USE>
     <USER_HOP_USE>Whirlpool</USER_HOP_USE>
     <TIME>30</TIME>
@@ -112,7 +112,7 @@
     <NAME>Cascade</NAME>
     <VERSION>1</VERSION>
     <ALPHA>7</ALPHA>
-    <AMOUNT>0.02133</AMOUNT>
+    <AMOUNT>0.02</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>17280</TIME>
@@ -122,7 +122,7 @@
     <NAME>Columbus</NAME>
     <VERSION>1</VERSION>
     <ALPHA>15</ALPHA>
-    <AMOUNT>0.02133</AMOUNT>
+    <AMOUNT>0.02</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>17280</TIME>
@@ -132,7 +132,7 @@
     <NAME>Simcoe</NAME>
     <VERSION>1</VERSION>
     <ALPHA>12.7</ALPHA>
-    <AMOUNT>0.02133</AMOUNT>
+    <AMOUNT>0.02</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>17280</TIME>
@@ -142,7 +142,7 @@
     <NAME>Cascade</NAME>
     <VERSION>1</VERSION>
     <ALPHA>7</ALPHA>
-    <AMOUNT>0.02133</AMOUNT>
+    <AMOUNT>0.02</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>4320</TIME>
@@ -152,7 +152,7 @@
     <NAME>Columbus</NAME>
     <VERSION>1</VERSION>
     <ALPHA>15</ALPHA>
-    <AMOUNT>0.02133</AMOUNT>
+    <AMOUNT>0.02</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>4320</TIME>
@@ -162,7 +162,7 @@
     <NAME>Simcoe</NAME>
     <VERSION>1</VERSION>
     <ALPHA>12.7</ALPHA>
-    <AMOUNT>0.02133</AMOUNT>
+    <AMOUNT>0.02</AMOUNT>
     <USE>Dry Hop</USE>
     <USER_HOP_USE>Dry Hop</USER_HOP_USE>
     <TIME>4320</TIME>
