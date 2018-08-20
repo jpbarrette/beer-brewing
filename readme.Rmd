@@ -1,0 +1,154 @@
+---
+title: "My Beer Brewing Experiments"
+output: github_document
+---
+
+# Beer
+
+Keeping track of my beer brewing experiments
+
+# Equipment
+
+* Kettle height: 29 cm
+* Kettle diameter: 35 cm
+* Kettle depth to volume function: f(x) = -0.7059 + 0.9409x^[for more info, look at scripts/kettle-volume-height.R]
+* Grain absorption: 0.48 Liters/Kilograms of grain^[Grain absorption calculation made while reasonably squeezing + without mash off. Calculated on 2018/01/27]
+* Boiloff rate: 2.75 Liters per Hour^[Calculated on 2018/01/27]
+* Trub size: 1.5 L^[Calculated on 2018/01/27]
+* Kettle size: 27 L
+
+# Brew sessions
+
+* 2017/06/18 - [Mosaic Session IPA](recipes/mosaic%20session%20ipa/brewlog%202017-06-18.md), [Karl Stauss' Mosaic Session IPA](https://www.ratebeer.com/beer/karl-strauss-mosaic-session-ipa/248383/) Clone, American IPA
+* 2017/09/13 - [MacGyvers's Island](recipes/american wheat ale/brewlog 2017-09-13.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone, American Wheat Ale
+* 2017/10/28 - [What Does Malt Taste Like](recipes/northern english brown ale/brewlog 2017-10-28.md), Northern English Brown Ale
+* 2017/11/10 - [John Palmer's Amber Ale ("Wheat + Belgiumified")](recipes/american amber ale/brewlog 2017-11-10.md), Amber Ale
+* 2018/01/27 - [Alpine Black House](recipes/coffee oatmeal stout/brewlog 2018-01-27.md), [Modern Time's Black House](https://www.ratebeer.com/beer/modern-times-black-house/218228/) Clone, Coffee Oatmeal Stout
+* 2018/03/17 - [MacGyvers's Island](recipes/american wheat ale/brewlog_2018-03-17.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone, American Wheat Ale
+* 2018/03/23 - [India Red Ale](recipes/india%20red%20ale/brewlog_2018-03-23.md), [Mad Fermentationist's India Red Ale](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html) Clone
+* 2018/03/31 - [American Pale Ale](recipes/american%20pale%20ale/brewlog_2018-03-31.md), [Mad Fermentationist's Standard American Pale Ale Recipe (Yeah Right)](https://www.themadfermentationist.com/2012/07/standard-american-pale-ale-recipe-yeah.html) Clone
+* 2018/05/20 - [American Wheat Ale](recipes/american wheat ale/brewlog_2018-05-20.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone
+* 2018/06/28 - [American Stout](recipes/american stout/brewlog_2018-06-28.md), [Zymurgy Magazine's Stout
+Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/) Clone
+* 2018/07/08 - [Red Rye IPA](recipes/red rye ipa/brewlog_2018-07-08.md), [Mad Fermentationist's Red Rye IPA](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) Clone
+* 2018/07/22 - [American Wheat Ale](recipes/american%20wheat%20ale/brewlog_2018-07-22.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone
+
+## TO READ
+
+* https://www.morebeer.com/articles/treating_homebrew_water
+* (search results from "batch sparge biab"):
+    * https://homebrew.stackexchange.com/questions/12717/sparging-with-biab
+    * http://beersmith.com/blog/2009/04/24/avoiding-a-stuck-sparge-for-all-grain-beer/
+    * http://www.homebrewtalk.com/showthread.php?t=289087
+    * http://www.bagbrewer.com/mashing-methods.html search "trickle sparge beer brewing" 
+
+## Question 
+
+* Why cold break doesn't happen to me? Is it because it's too slow?
+    * http://brulosophy.com/2017/05/29/boil-vigor-weak-vs-strong-exbeeriment-results/
+    * http://howtobrew.com/book/section-1/boiling-and-cooling/7-2-the-hot-break
+    * https://byo.com/water/item/249-boiling-advanced-brewing
+    * maybe due to slow boil: http://www.homebrewtalk.com/showthread.php?t=148179
+    * http://www.love2brew.com/Articles.asp?ID=526
+    * http://beerandwinejournal.com/proper-boil-ph/
+
+Previous Questions
+------------------
+
+### Why X minutes boiling time?^[For more information, here's a good [article](https://byo.com/article/boiling-advanced-brewing/) from BYO magazine. The [following article](https://www.homebrewsupply.com/learn/60-90-otherwise-finding-best-boil-time.html) indicates different boiling times depending of style.]
+
+When I first asked myself that question, it was for Mad Fermentationist's [India Red Ale](india red ale/readme.md). The recipe was asking for 75 boiling time.
+
+The reasons why someone would have longer boil time is mentioned in this [thread](https://www.homebrewtalk.com/forum/threads/90min-vs-60min-boil.87058/) and the [following](https://www.homebrewersassociation.org/forum/index.php?topic=7513.0):
+
+* To increase wort carmelization
+* To breakdown DMS pre-cusors
+* To form and skim hot break prior to 60 minute bittering additions
+* To "slightly" increase hop utilization (See Fix, Principles or any brewing software)
+* *To facilitate melanoidin creation (longer boils tends to darken the wort and there are maillard reactions taking place producing more melanoidins that enhance the maltiness of the wort)*
+* To better improve hot break coagulation
+* To better accomodate consequtive batching.
+* To allow more time for drinkin' while brewin'.
+
+For the [India Red Ale](recipes/india red ale/readme.md), my guess was that we want to facilitate the melanoidin creation. As mentionned in the [following article](https://byo.com/article/boiling-advanced-brewing/):<blockquote>When subjected to the temperature and agitation of boiling, complex reactions occur between sugars and amino acids, producing substances known as melanoidins. These are usually considered pleasant, resulting in flavors typically associated with the browning of meats and bread. Longer boiling times result in increased melanoidin production and are a major cause of wort darkening. It should be noted this is not quite the same thing as sugar caramelization, which requires higher temperatures and less water than what is present during boiling. Caramelization is part of the process that occurs during the production of crystal and other colored malts.</blockquote>
+
+However, from the following articles brulosophy seems to indicate that longer boil time doesn't seem change anything on the flavor:
+
+* http://brulosophy.com/2015/09/14/boil-length-pt-2-pilsner-malt-exbeeriment-results/
+* http://brulosophy.com/2017/11/13/boil-length-pt-3-60-minutes-vs-180-minutes-exbeeriment-results/
+* http://brulosophy.com/2015/03/11/the-impact-of-boil-length-ale-exbeeriment-results/
+
+Finally, I managed to contact Michael Tonsmiere, and ask him why he used a 75 minutes boil and he [answered](http://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html?showComment=1521765903592#c9077526662741676021): <blockquote>Melanoidins are formed during the boil, but an extra 15 minutes won't make an appreciable difference in the finished beer. I was likely just tweaking the timing to hit my gravity/volume.</blockquote>
+
+So, for the general case I still can't reach a conclusion, however for the India Red Ale, 60 minutes is what I'll aim for. 
+
+### What is BrewDog DIY Extra Pale malt?
+
+https://www.homebrewersassociation.org/forum/index.php?PHPSESSIONID=db397cdb091a595f47f4d402396ac64c&topic=26421.msg406484#msg406484
+
+> Extra Pale is equivalent to Pils malt with respect to kilning and color. It only differs with respect to the barley cultivar. Extra Pale malt will have significant SMM content and higher potential for DMS formation. 
+> 
+> I have elected to classify base malts with respect to color rating. I refer to all base malts with color between 1.2L and 2.2L as Pils malt. All base malts with color between 2.3L and 4L are called Pale malt. Pils malts tend to have sweeter or honey flavor and pale malt tends to add nutty notes to their flavor. Extra pale malt is a pils malt. Vienna malt typically falls in the pale malt range.
+> 
+> Pils malts have significant SMM content and minor DMS content and therefore require more boiling time to convert that SMM to DMS. It then takes some time for the converted DMS to volatilize. 
+> 
+> Pale malts typically have low SMM content and have more significant DMS content. Since DMS is easily volatilized from wort, they don't have to be boiled as long as pils malts do.    
+> 
+> Unless you're brewing a very pale colored beer, there is only minor reason to employ pils malt (obtaining that honey sweet malt flavor). If your beer is intended to be darker than about 3 or 4 SRM, then most brewers would find that a pale malt would work very well and there would be fewer problems with DMS.
+
+
+### Do I need to whirlpool/Do I need to separate the hot break material from the wort?
+
+is this a problem (however I use irish moss)? https://beerandbrewing.com/dictionary/aSbC3qutQd/hot-break/
+
+### Why should I use Irish Moss?
+
+* http://www.homebrewtalk.com/showthread.php?t=87785
+* [Take the Luck out of Clear Beer with Irish Moss](https://www.homebrewersassociation.org/how-to-brew/take-the-luck-out-of-clear-beer-with-irish-moss/). After reading this article and this [one](http://brulosophy.com/2018/04/30/the-impact-of-various-fining-methods-on-new-england-ipa-exbeeriment-results/), I wonder if it's of any use since I transfer everying into the fermenter.
+
+Tools
+-----
+
+* https://biabbrewing.com/brew-day-prep/biab-calculators-and-software/
+* http://www.biabrewer.info/
+
+# Next 
+
+* [Coconut Vanilla Milk Stout](https://www.themadfermentationist.com/2014/12/coconut-vanilla-milk-stout-recipe.html)
+* [Coffee Oatmeal Stout](recipes/coffee oatmeal stout/brewlog.md)
+* [Chocolate Coffee Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
+* [Rye Wit Session](recipes/rye wit session/brewlog.md)
+* [Coffee American Rye Ale](recipes/coffee americal rye ale/readme.Rmd)
+
+# Recipes to Explore
+
+* [Rogue's Hazelnut Brown Ale](recipes/hazelnut brown ale/readme.Rmd)
+* [Chilli Stout](recipes/chili stout/readme.Rmd)
+* Modern Times' Blazing World (Amber IPA)
+* [Milk Stout](https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout)
+* [Americal Pale Ale](https://byo.com/recipe/benjamin-sharps-american-pale-ale/) (no malt conversion)
+
+Books Whishlist
+---------------
+
+* Listed [here](https://learn.kegerator.com/homebrewing-books/)
+
+
+Equipment Whishlist
+-------------------
+
+* Brewing heater trays, mats and belts (warming plates)
+* https://learn.kegerator.com/brewing-gadgets/
+
+Shops
+-----
+
+* https://www.comptoir-houblon.fr/
+* http://www.brouwland.com/
+* https://www.rolling-beers.fr
+* https://www.polsinelli.it/
+
+Hop Varieties
+------------
+
+* https://www.morebeer.com/articles/homebrew_beer_hops

@@ -1,0 +1,73 @@
+---
+title: "Mad Fermentiationist's Red Rye IPA"
+output: github_document
+---
+
+Original recipe from [here](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) and [here](https://www.themadfermentationist.com/2013/04/three-modern-times-west-test-batches.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/672949/madfermentationist-s-red-rye-ipa)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/red rye ipa/brewlog_2018-07-08.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 50ppm
+    * Sulfate: 150ppm
+    * Chloride: 150ppm
+    * Mash pH: 5.35
+* Water Additions:
+    * 1.5g Gypsum
+    * 2.99 Calcium Chloride (2.3g, but since it's 77%, 2.99g)
+    * 4.9g Epsom Salt
+    * 4.0ml Lactic Acid (80%)
+    * 2.3g Salt
+* Adjusted Water Profile:
+    * Calcium: 113ppm
+    * Magnesium: 30ppm
+    * Sodium: 50ppm
+    * Sulfate: 152ppm
+    * Chloride: 155ppm
+    * Bicarbonate: 66ppm
+    * Estimated Mash pH: 5.36
+
+Preparation Notes
+=================
+
+* Need to check for sodium: http://brulosophy.com/2018/01/22/water-chemistry-pt-10-the-impact-of-sodium-on-beer-exbeeriment-results/. Probably 50ppm would be sufficient.
+* https://beerandbrewing.com/make-your-best-rye-ipa-beer-recipe/
+* http://beerandwinejournal.com/rye-ipa/
+* https://www.seriouseats.com/recipes/2011/04/red-ale-for-beginning-homebrewers-hoppy-red-ale-recipe.html
+
+Brew Notes
+==========
+
+* (11h50) Started setting up, filling 19 Liters of strike water and milling.
+* (12h50) Mash in (took longer than usual because kettle wasn't at max). Strike temp 66.5, got down to 65.1 with grains.
+* (13h50) Getting grains out. Wort is at 64C. Preboil gravity at 1.038 at 60.3 degrees.
+* (13h10) Wort at 75.6, wort is at 18.2cm in the kettle.
+* (14h37) Wort is boiling (took more time, because kettle wasn't at max), put 24g of 14.6% AA Columbus.
+* (15h40) Stopped kettle, started chilling to target temp of 70C for hop stand. Added 81g of 13.9% AA Simcoe at 70C for 30 minutes.
+* (16h22) Started immersion chiller.
+* (16h37) Put wort in fermentor at 27.5 degrees. I didn't put the yeast yet. I put the wort in the basement in an insulation jacket with ice bottles. This will allow the wort to go at reasonable pitching temp. 1.064 OG at 27.5C.
+* (16h50) Cleanup almost done.
+* (23h50) Pitching yeast at 17.5C.
+
+Post Brew Notes
+===============
+
+* (2018-07-21, 13h00) Put 80g of Simcoe pellet hop in a meslin bag weighted with a shot glass.
+
+Bottling Notes (2018-07-27)
+===========================
+
+* 13.5L, guessing 11L in bottling bucket. Target carbonation volume 3.0 (over carbonation), max fermentation temperature 18C -> 7.5g * 11L = 82g of sugar.
+* Racked 9.5L (spilled some beer). Gave 11x750mL + 4x330mL
+* FG 1.010

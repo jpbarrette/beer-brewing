@@ -3,6 +3,8 @@ title: "Modern Times Fortunate Island"
 output: github_document
 ---
 
+Inspiration from [here](https://www.themadfermentationist.com/2012/11/hoppy-wheat-with-march-pump-hoprocket.html) and [here](https://www.themadfermentationist.com/2014/03/fortunate-islands-homebrewed-yeast.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/635830/macgyver-s-island-fortunate-island-2018-03-17-)
+
 ```{r setup-variables, echo=FALSE}
 
 brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
@@ -26,6 +28,11 @@ brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
 * (22h15) Wort at 21C. Took final gravity from trub. Wort in fermenter 10.8L, OG: 1.040. Boiloff rate calculation must be wrong. Need to check. In my calculation I put trub size, but it was zero in previous recipe. Estimation of preboil volume is 15.31, but it's was 15.85 (but might be okay since it needs to be temperature corrected). Need to recheck size with 20C water.
 * I let the hop cones free in the wort. Caused my grief when tried to rack in the fermenter. I broke my auto siphon. Next time just put the grain bag and add the hop in it.
 * (8h) Temp of cooler was 16C. Might be too cold. Fermentation didn't started. Will see tomorrow morning.
+
+
+# Post Notes
+
+* Readind the following article about [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/), I realized that I could just use my BIAB bag has a hop sock. However, instead of tying it like a hop sock, just fit it on the kettle. I managed to do this for later recipe and it works quite well while doing whirlpool. However, I'm wondering if it wouldn't be better to have some false bottom or screen to get the bag to "sterilize" when boiling,without scorching/burning.
 
 # Bottling Notes (01/04/2018)
 
