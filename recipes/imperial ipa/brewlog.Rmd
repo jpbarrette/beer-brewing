@@ -1,0 +1,39 @@
+---
+title: "Mad Fermentiationist's Big Hop IPA"
+output: github_document
+---
+
+This is my interpretation of Pliny the Elder's recipe. This is inspired from MadFermentationist's [own interpretation](https://www.themadfermentationist.com/2010/12/pliny-younger-clone-recipe.html) and his own [DIPA Bomb recipe](https://www.themadfermentationist.com/2010/02/big-ipa-recipe-1-lb-of-hops.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/686156/imperial-ipa-almost-)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/imperial ipa/brewlog.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 50ppm
+    * Sulfate: 150ppm
+    * Chloride: 150ppm
+    * Mash pH: 5.35
+* Water Additions:
+    * 1.5g Gypsum
+    * 2.99 Calcium Chloride (2.3g, but since it's 77%, 2.99g)
+    * 4.9g Epsom Salt
+    * 4.5ml Lactic Acid (80%)
+    * 2.3g Salt
+* Adjusted Water Profile:
+    * Calcium: 113ppm
+    * Magnesium: 30ppm
+    * Sodium: 50ppm
+    * Sulfate: 152ppm
+    * Chloride: 155ppm
+    * Bicarbonate: 66ppm
+    * Estimated Mash pH: 5.36

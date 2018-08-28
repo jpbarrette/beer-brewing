@@ -29,6 +29,7 @@ brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
 * I let the hop cones free in the wort. Caused my grief when tried to rack in the fermenter. I broke my auto siphon. Next time just put the grain bag and add the hop in it.
 * (8h) Temp of cooler was 16C. Might be too cold. Fermentation didn't started. Will see tomorrow morning.
 
+
 # Post Notes
 
 * Readind the following article about [hop sock system](https://www.brewersfriend.com/forum/threads/using-a-hop-sock.155/), I realized that I could just use my BIAB bag has a hop sock. However, instead of tying it like a hop sock, just fit it on the kettle. I managed to do this for later recipe and it works quite well while doing whirlpool. However, I'm wondering if it wouldn't be better to have some false bottom or screen to get the bag to "sterilize" when boiling,without scorching/burning.
@@ -39,6 +40,16 @@ brewlog_file = '../recipes/american wheat ale/brewlog 2018-03-17.xml'
 * 74g of sugar in 250mL water.
 * Gave 11 x 750mL bottles.
 
+# Tasting Notes (24/04/2018)
+
+* Appearance - Straw color, a bit of hazyness.
+* Smell - Delicate peach and apples aroma. Gives a hint of acidity.
+* Taste - Bitterness a bit too present compared to the rather absence of hop flavor. Acidity (probably due to the wheat) is appreciable though. 
+* Mouthfeel - A tad too watery to my taste, probably due to the low ABV. Good carbonation, but I'm surprised that the bubbles seems pretty big compared to what I'm used to. Might be due to low ABV?
+* Drinkability & Notes - This is still the best beer I made to date. However, I need to improve my aroma hop utilization. Higher ABV and better aroma should make it a very good summer/"after hard work day" beer.
+
 # TODO
 
-* Batch volume isn't the targetted one. Efficiency neither. Need target and actual.
+* Batch volume isn't the targetted one. Efficiency neither. Need to revisit those numbers.
+* Need to try hop stand at 170F/76C for 30 minutes, rather than 98C for 10 minutes.
+* There's too much yeast in bottom of bottles, I really need to improve my "racking" so that I transfert less yeast into bottles. Right now I use huge 30L buckets to ferment, but containing only 9L of beer. This means that I have a large yeast cake surface contact with beer. Need to have more suitable equipment for 9L batches.

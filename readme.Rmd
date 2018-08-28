@@ -114,6 +114,7 @@ Tools
 
 # Next 
 
+* [Coconut Vanilla Milk Stout](https://www.themadfermentationist.com/2014/12/coconut-vanilla-milk-stout-recipe.html)
 * [Coffee Oatmeal Stout](recipes/coffee oatmeal stout/brewlog.md)
 * [Chocolate Coffee Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
 * [Rye Wit Session](recipes/rye wit session/brewlog.md)
