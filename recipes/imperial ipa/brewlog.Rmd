@@ -37,3 +37,19 @@ Water Information
     * Chloride: 155ppm
     * Bicarbonate: 66ppm
     * Estimated Mash pH: 5.36
+
+Brew Notes (2018/08/23)
+=======================
+
+* Grains where crushed fine. Also, I put the whole milled grains bag at the same time. This caused a giant dough ball.
+* Strike water was at 68.5. Had to stir to break that giant dough ball. Temp lowered to 64.6 before I managed to cover the kettle.
+* Every fit in the kettle, there's still space left for 1 liter.
+* (20h18) 35 minutes mash, mash ended at 63.5C. 
+* (20h18) Started kettle
+* (20h57) Boil started
+* (21h28) Stopped kettle fire. Put hop.
+* (21h30) I took a sample but too realy. I lost a lot of hop in that sample which won't contribute to the beer.
+* (21h45) Put second batch of hop)
+* (22h00) Started immersion chiller
+* (22h08) Put wort in fermentor at 32C, 14L.
+* (22h10) FG 1.088 at 30C
