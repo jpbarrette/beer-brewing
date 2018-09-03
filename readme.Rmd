@@ -32,6 +32,7 @@ Keeping track of my beer brewing experiments
 Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/) Clone
 * 2018/07/08 - [Red Rye IPA](recipes/red rye ipa/brewlog_2018-07-08.md), [Mad Fermentationist's Red Rye IPA](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) Clone
 * 2018/07/22 - [American Wheat Ale](recipes/american%20wheat%20ale/brewlog_2018-07-22.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone
+* 2018/08/23 - [Imperial IPA](recipes/imperial ipa/brewlog_2018-08-23.md), [Pliny the Elder](https://www.ratebeer.com/beer/russian-river-pliny-the-elder/8936/) Clone.
 
 ## TO READ
 

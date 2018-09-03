@@ -7,7 +7,7 @@ This is my interpretation of Pliny the Elder's recipe. This is inspired from Mad
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../recipes/imperial ipa/brewlog.xml'
+brewlog_file = '../recipes/imperial ipa/brewlog_2018-08-23.xml'
 
 ```
 
@@ -53,3 +53,10 @@ Brew Notes (2018/08/23)
 * (22h00) Started immersion chiller
 * (22h08) Put wort in fermentor at 32C, 14L.
 * (22h10) FG 1.088 at 30C
+
+Post Notes
+==========
+
+* 2018/09/29 - Got the fermentor out of the fridge, but after 6 hours, it was bubling too strongly. Decided to put it back in the fridge to let continue fermentation at low temp (17C).
+* 2018/09/02 - Got the fermentor out of the fridge to finish fermentation.
+* 2018/09/03 - Beer at 21C, still bubling but weakly that first time I got it out of fridge.

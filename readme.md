@@ -73,6 +73,10 @@ Keeping track of my beer brewing experiments
     Time’s Fortunate
     Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/)
     Clone
+  - 2018/08/23 - [Imperial
+    IPA](recipes/imperial%20ipa/brewlog_2018-08-23.md), [Pliny the
+    Elder](https://www.ratebeer.com/beer/russian-river-pliny-the-elder/8936/)
+    Clone.
 
 ## TO READ
 
@@ -219,6 +223,8 @@ is this a problem (however I use irish moss)?
 
 # Next
 
+  - [Coconut Vanilla Milk
+    Stout](https://www.themadfermentationist.com/2014/12/coconut-vanilla-milk-stout-recipe.html)
   - [Coffee Oatmeal Stout](recipes/coffee%20oatmeal%20stout/brewlog.md)
   - [Chocolate Coffee
     Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
@@ -237,6 +243,20 @@ is this a problem (however I use irish moss)?
   - [Americal Pale
     Ale](https://byo.com/recipe/benjamin-sharps-american-pale-ale/) (no
     malt conversion)
+  - [Top 50 Commercial Clone Beer Recipes
+    (HBA)](https://www.homebrewersassociation.org/top-50-commercial-clone-beer-recipes/)
+  - [5 Fruit Beer Recipes to Brew at
+    Home](https://www.homebrewersassociation.org/how-to-brew/5-fruit-beer-recipes-to-brew-at-home/)
+      - Tangerine Porter
+  - [7 Must-Try Stout Recipes to Brew at
+    Home](https://www.homebrewersassociation.org/how-to-brew/7-must-try-stout-recipes-to-brew-at-home/)
+      - Irish-Style Dry Stout
+      - Coconut Sweet Stout
+      - Chai Milk Stout
+      - Session Oatmeal Stout
+      - Imperial Stout
+  - [Founders Kentucky Breakfast
+    Stout](https://www.homebrewersassociation.org/homebrew-recipe/kentucky-breakfast-stout/)
 
 ## Books Whishlist
 
