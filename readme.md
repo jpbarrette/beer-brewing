@@ -223,23 +223,26 @@ is this a problem (however I use irish moss)?
 
 # Next
 
-  - [Coconut Vanilla Milk
-    Stout](https://www.themadfermentationist.com/2014/12/coconut-vanilla-milk-stout-recipe.html)
-  - [Coffee Oatmeal Stout](recipes/coffee%20oatmeal%20stout/brewlog.md)
-  - [Chocolate Coffee
-    Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
-  - [Rye Wit Session](recipes/rye%20wit%20session/brewlog.md)
-  - [Coffee American Rye
-    Ale](recipes/coffee%20americal%20rye%20ale/readme.Rmd)
+  - [American Rye Stout](recipes/american%20stout/brewlog.md)
+  - [Red Rye IPA](recipes/red%20rye%20ipa/brewlog_2018-07-08.md)
 
 # Recipes to Explore
 
-  - [Rogue’s Hazelnut Brown
-    Ale](recipes/hazelnut%20brown%20ale/readme.Rmd)
-  - [Chilli Stout](recipes/chili%20stout/readme.Rmd)
-  - Modern Times’ Blazing World (Amber IPA)
+  - [Rye Wit Session](recipes/rye%20wit%20session/brewlog.md)
+  - [Coconut Sweet Stout](./recipes/coconut%20sweet%20stout/readme.md)
   - [Milk
     Stout](https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout)
+  - [Rogue’s Hazelnut Brown
+    Ale](recipes/hazelnut%20brown%20ale/readme.Rmd)
+  - [Hefeweizen](./recipes/hefeweizen/readme.md)
+  - [Chocolate Coffee
+    Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
+  - [Coffee American Rye
+    Ale](./recipes/coffee%20americal%20rye%20ale/readme.Rmd)
+  - [Black IPA](./recipes/black%20ipa/readme.md)
+  - [Chilli Stout](recipes/chili%20stout/readme.Rmd)
+  - Modern Times’ Blazing World (Amber IPA)
+  - [Coffee Oatmeal Stout](recipes/coffee%20oatmeal%20stout/brewlog.md)
   - [Americal Pale
     Ale](https://byo.com/recipe/benjamin-sharps-american-pale-ale/) (no
     malt conversion)
