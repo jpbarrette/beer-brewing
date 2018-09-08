@@ -1,0 +1,61 @@
+---
+title: "Mad Fermentiationist's Red Rye IPA"
+output: github_document
+---
+
+Original recipe from [here](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) and [here](https://www.themadfermentationist.com/2013/04/three-modern-times-west-test-batches.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/701488/madfermentationist-s-red-rye-ipa)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/red rye ipa/brewlog_2018-09-07.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 50ppm
+    * Sulfate: 150ppm
+    * Chloride: 150ppm
+    * Mash pH: 5.35
+* Water Additions:
+    * 1.5g Gypsum
+    * 2.99 Calcium Chloride (2.3g, but since it's 77%, 2.99g)
+    * 4.9g Epsom Salt
+    * 4.0ml Lactic Acid (80%)
+    * 2.3g Salt
+* Adjusted Water Profile:
+    * Calcium: 113ppm
+    * Magnesium: 30ppm
+    * Sodium: 50ppm
+    * Sulfate: 152ppm
+    * Chloride: 155ppm
+    * Bicarbonate: 66ppm
+    * Estimated Mash pH: 5.36
+
+Preparation Notes
+=================
+
+Modified Hopstand schedule and shorter boil/mash time: 30 minutes. 19 Liters in the kettle for mashing.
+
+Brew Notes
+==========
+
+
+
+Post Brew Notes
+===============
+
+
+Bottling Notes (2018-07-27)
+===========================
+
+
+Related Article/References
+==========================
+

@@ -71,3 +71,8 @@ Bottling Notes (2018-07-27)
 * 13.5L, guessing 11L in bottling bucket. Target carbonation volume 3.0 (over carbonation), max fermentation temperature 18C -> 7.5g * 11L = 82g of sugar.
 * Racked 9.5L (spilled some beer). Gave 11x750mL + 4x330mL
 * FG 1.010
+
+Related Article/References
+==========================
+
+* [Beer & Wine Journal's Rye IPA](http://beerandwinejournal.com/rye-ipa/)'s article.

@@ -73,6 +73,10 @@ Keeping track of my beer brewing experiments
     Time’s Fortunate
     Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/)
     Clone
+  - 2018/08/23 - [Imperial
+    IPA](recipes/imperial%20ipa/brewlog_2018-08-23.md), [Pliny the
+    Elder](https://www.ratebeer.com/beer/russian-river-pliny-the-elder/8936/)
+    Clone.
 
 ## TO READ
 
@@ -219,24 +223,43 @@ is this a problem (however I use irish moss)?
 
 # Next
 
-  - [Coffee Oatmeal Stout](recipes/coffee%20oatmeal%20stout/brewlog.md)
-  - [Chocolate Coffee
-    Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
-  - [Rye Wit Session](recipes/rye%20wit%20session/brewlog.md)
-  - [Coffee American Rye
-    Ale](recipes/coffee%20americal%20rye%20ale/readme.Rmd)
+  - [American Rye Stout](recipes/american%20stout/brewlog.md)
+  - [Red Rye IPA](recipes/red%20rye%20ipa/brewlog_2018-07-08.md)
 
 # Recipes to Explore
 
-  - [Rogue’s Hazelnut Brown
-    Ale](recipes/hazelnut%20brown%20ale/readme.Rmd)
-  - [Chilli Stout](recipes/chili%20stout/readme.Rmd)
-  - Modern Times’ Blazing World (Amber IPA)
+  - [Rye Wit Session](recipes/rye%20wit%20session/brewlog.md)
+  - [Coconut Sweet Stout](./recipes/coconut%20sweet%20stout/readme.md)
   - [Milk
     Stout](https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout)
+  - [Rogue’s Hazelnut Brown
+    Ale](recipes/hazelnut%20brown%20ale/readme.Rmd)
+  - [Hefeweizen](./recipes/hefeweizen/readme.md)
+  - [Chocolate Coffee
+    Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
+  - [Coffee American Rye
+    Ale](./recipes/coffee%20americal%20rye%20ale/readme.Rmd)
+  - [Black IPA](./recipes/black%20ipa/readme.md)
+  - [Chilli Stout](recipes/chili%20stout/readme.Rmd)
+  - Modern Times’ Blazing World (Amber IPA)
+  - [Coffee Oatmeal Stout](recipes/coffee%20oatmeal%20stout/brewlog.md)
   - [Americal Pale
     Ale](https://byo.com/recipe/benjamin-sharps-american-pale-ale/) (no
     malt conversion)
+  - [Top 50 Commercial Clone Beer Recipes
+    (HBA)](https://www.homebrewersassociation.org/top-50-commercial-clone-beer-recipes/)
+  - [5 Fruit Beer Recipes to Brew at
+    Home](https://www.homebrewersassociation.org/how-to-brew/5-fruit-beer-recipes-to-brew-at-home/)
+      - Tangerine Porter
+  - [7 Must-Try Stout Recipes to Brew at
+    Home](https://www.homebrewersassociation.org/how-to-brew/7-must-try-stout-recipes-to-brew-at-home/)
+      - Irish-Style Dry Stout
+      - Coconut Sweet Stout
+      - Chai Milk Stout
+      - Session Oatmeal Stout
+      - Imperial Stout
+  - [Founders Kentucky Breakfast
+    Stout](https://www.homebrewersassociation.org/homebrew-recipe/kentucky-breakfast-stout/)
 
 ## Books Whishlist
 

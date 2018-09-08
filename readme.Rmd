@@ -32,6 +32,7 @@ Keeping track of my beer brewing experiments
 Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/) Clone
 * 2018/07/08 - [Red Rye IPA](recipes/red rye ipa/brewlog_2018-07-08.md), [Mad Fermentationist's Red Rye IPA](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) Clone
 * 2018/07/22 - [American Wheat Ale](recipes/american%20wheat%20ale/brewlog_2018-07-22.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone
+* 2018/08/23 - [Imperial IPA](recipes/imperial ipa/brewlog_2018-08-23.md), [Pliny the Elder](https://www.ratebeer.com/beer/russian-river-pliny-the-elder/8936/) Clone.
 
 ## TO READ
 
@@ -114,19 +115,33 @@ Tools
 
 # Next 
 
-* [Coconut Vanilla Milk Stout](https://www.themadfermentationist.com/2014/12/coconut-vanilla-milk-stout-recipe.html)
-* [Coffee Oatmeal Stout](recipes/coffee oatmeal stout/brewlog.md)
-* [Chocolate Coffee Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
-* [Rye Wit Session](recipes/rye wit session/brewlog.md)
-* [Coffee American Rye Ale](recipes/coffee americal rye ale/readme.Rmd)
+* [American Rye Stout](recipes/american%20stout/brewlog.md)
+* [Red Rye IPA](recipes/red%20rye%20ipa/brewlog_2018-07-08.md)
 
 # Recipes to Explore
 
+* [Rye Wit Session](recipes/rye wit session/brewlog.md)
+* [Coconut Sweet Stout](./recipes/coconut%20sweet%20stout/readme.md)
+* [Milk Stout](https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout)
 * [Rogue's Hazelnut Brown Ale](recipes/hazelnut brown ale/readme.Rmd)
+* [Hefeweizen](./recipes/hefeweizen/readme.md)
+* [Chocolate Coffee Stout](https://beerandbrewing.com/chocolate-coffee-stout-recipe/)
+* [Coffee American Rye Ale](./recipes/coffee americal rye ale/readme.Rmd)
+* [Black IPA](./recipes/black%20ipa/readme.md)
 * [Chilli Stout](recipes/chili stout/readme.Rmd)
 * Modern Times' Blazing World (Amber IPA)
-* [Milk Stout](https://byo.com/stories/issue/item/3602-mitch-s-steele-magnolias-session-milk-stout)
+* [Coffee Oatmeal Stout](recipes/coffee oatmeal stout/brewlog.md)
 * [Americal Pale Ale](https://byo.com/recipe/benjamin-sharps-american-pale-ale/) (no malt conversion)
+* [Top 50 Commercial Clone Beer Recipes (HBA)](https://www.homebrewersassociation.org/top-50-commercial-clone-beer-recipes/)
+* [5 Fruit Beer Recipes to Brew at Home](https://www.homebrewersassociation.org/how-to-brew/5-fruit-beer-recipes-to-brew-at-home/)
+    * Tangerine Porter
+* [7 Must-Try Stout Recipes to Brew at Home](https://www.homebrewersassociation.org/how-to-brew/7-must-try-stout-recipes-to-brew-at-home/)
+    * Irish-Style Dry Stout
+    * Coconut Sweet Stout
+    * Chai Milk Stout
+    * Session Oatmeal Stout
+    * Imperial Stout
+* [Founders Kentucky Breakfast Stout](https://www.homebrewersassociation.org/homebrew-recipe/kentucky-breakfast-stout/)
 
 Books Whishlist
 ---------------

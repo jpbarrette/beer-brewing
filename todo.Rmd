@@ -29,6 +29,7 @@ output: github_document
 
 It seems that since I don't use as much water as BIAB requires generally, I might have less pH problems. But what does it mean to have full volume? Doesn't it screw up the pH?
 
+* https://byo.com/article/biab-tips-from-the-pros/
 * https://www.homebrewersassociation.org/wp-content/uploads/How-To-Brew-in-a-Bag.pdf
 * http://www.thebrewingnetwork.com/forum/viewtopic.php?t=4650
 * http://brulosophy.com/2014/04/25/brew-in-a-bag-all-grain-brewing-made-very-easy/
@@ -171,3 +172,21 @@ I changed the yeast collection recipient a first time, but the yeast is stuck in
 * To get the wort to boil, please stir a bit the wort, it's gonna help?
 * I started to oxigen the wort directly when trying to chill it, to save some time.
 * I can't do the real BIAB "no sparge" because my kettle simply doesn't have the full volume.
+
+# Oxygen Stone:
+
+* https://www.morebeer.com/products/oxygen-stone-05-micron-14-barb.html
+* https://www.homebrewersassociation.org/forum/index.php?topic=987.0
+* https://www.homebrewtalk.com/forum/threads/how-to-clean-a-diffusion-stone.215119/
+* https://www.thesprucepets.com/clean-and-rejuvenate-old-air-stones-2920956
+
+
+# Should I Aerate Wort when using Dry Yeast?
+
+https://discussions.probrewer.com/showthread.php?53010-Dry-yeast-needs-aerating-wort
+* Denny Conn: https://www.homebrewtalk.com/forum/threads/aeration-with-dry-yeast.148132/
+* https://beerandbrewing.com/how-to-use-dry-yeast/
+
+# How to Brew a Hop Bomb
+
+* https://byo.com/mr-wizard/brewing-a-hop-bomb/?utm_source=Brew+Your+Own+-+Live&utm_campaign=c02aa390ab-Newsletter_29_Inactive&utm_medium=email&utm_term=0_b55e7c72d8-c02aa390ab-62132839&mc_cid=c02aa390ab&mc_eid=02ece4fb38
