@@ -9,7 +9,7 @@ The first recipe had a thin mouthfeel. To remedy that I decided to confirm a ten
 
 ```{r setup-variables, echo=FALSE}
 
-brewlog_file = '../recipes/american stout/brewlog.xml'
+brewlog_file = '../recipes/american stout/brewlog_2018-09-20.xml'
 
 ```
 
@@ -123,3 +123,14 @@ Make one small change per brew, omitting the change in the next brew if it doesn
 
 Carapils?
 
+Brewing Notes
+=============
+
+* (18h30) Fired kettle, put salts and acid.
+* (19h14) Mashing, strike water at 71C, mash temp was 69.3
+* (19h45) Getting grains bag out. Preboil gravity 1.042 at 63.5C. 17.7cm of wort depth.
+* (20h20) Worst is boiling; added columbus hop.
+* (20h52) Stopped kettle, fired immersion chiller to bring to whirlpool temp, to then let it at that temperature. Choose 75C since I used Simcoe instead of Cascade hop (6 to 13.9% AA); so I didn't wanted to make it too bitter (lower temp means lower alpha-acid isomerization). Added whirlpool hop for 30 minutes.
+* (21h23) Started cooling. Stopped it when reached 30C (my tap water is around 21C). Put wort in fermentor without putting yeast yet. Put fermenter in fridge (was set at "6" setting). 
+* (22h02) Finished cleaning.
+* (2018/09/21 6h30) Added yeast in fermentor. Wort at 11C. 
