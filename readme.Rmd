@@ -28,11 +28,13 @@ Keeping track of my beer brewing experiments
 * 2018/03/23 - [India Red Ale](recipes/india%20red%20ale/brewlog_2018-03-23.md), [Mad Fermentationist's India Red Ale](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html) Clone
 * 2018/03/31 - [American Pale Ale](recipes/american%20pale%20ale/brewlog_2018-03-31.md), [Mad Fermentationist's Standard American Pale Ale Recipe (Yeah Right)](https://www.themadfermentationist.com/2012/07/standard-american-pale-ale-recipe-yeah.html) Clone
 * 2018/05/20 - [American Wheat Ale](recipes/american wheat ale/brewlog_2018-05-20.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone
-* 2018/06/28 - [American Stout](recipes/american stout/brewlog_2018-06-28.md), [Zymurgy Magazine's Stout
-Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/) Clone
+* 2018/06/28 - [American Stout](recipes/american stout/brewlog_2018-06-28.md), [Zymurgy Magazine's Stout Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/) Clone
 * 2018/07/08 - [Red Rye IPA](recipes/red rye ipa/brewlog_2018-07-08.md), [Mad Fermentationist's Red Rye IPA](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) Clone
 * 2018/07/22 - [American Wheat Ale](recipes/american%20wheat%20ale/brewlog_2018-07-22.md), [Modern Time's Fortunate Island](https://www.ratebeer.com/beer/modern-times-fortunate-islands/218229/) Clone
 * 2018/08/23 - [Imperial IPA](recipes/imperial ipa/brewlog_2018-08-23.md), [Pliny the Elder](https://www.ratebeer.com/beer/russian-river-pliny-the-elder/8936/) Clone.
+* 2018/09/07 - [Red Rye IPA](recipes/red rye ipa/brewlog_2018-09-07.md), [Mad Fermentationist's Red Rye IPA](https://www.themadfermentationist.com/2012/08/india-red-rye-ale-recipe.html) Clone
+* 2018/09/20 - [American Rye Stout](recipes/american stout/brewlog_2018-09-20.md), own recipe.
+
 
 ## TO READ
 
