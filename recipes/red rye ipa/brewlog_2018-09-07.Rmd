@@ -74,10 +74,17 @@ Brew Notes
 * (21h20) Cleanup finished.
 * (2018/07/28 8h) Sprinkled dry yeast in the fermenter.
 
-
-
 Post Notes
 ==========
 
 * (2018/09/20 22h00) Dry hopping of Simcoe 80g, in a bag.
 * The fact that I had only 13 liters might be due to the fact that I milled the rye very fine. This might have cause the grains to retain more wort than usual. This is consistent with previous red rye ipa.
+
+Bottling Notes (2018/09/28)
+===========================
+
+* 10.5L, 7g/L, put 74g.
+* 1.010 FG at 16.2C.
+* 12x750mL + 4x330mL
+* Too much hop for the hop bag, use two next time
+
