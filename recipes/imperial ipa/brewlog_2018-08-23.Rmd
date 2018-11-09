@@ -53,6 +53,14 @@ Brew Notes (2018/08/23)
 * (22h00) Started immersion chiller
 * (22h08) Put wort in fermentor at 32C, 14L.
 * (22h10) FG 1.088 at 30C
+* Sparkled dry yeast directly without rehydrating
+
+Hops (To Put in notes)
+======================
+
+* 27 g columbus 14.6 + 10g columbus 13.1
+* 30 g simcoe 13.9 + 30g 13.9
+* 60 g cascade 6.6
 
 Post Notes
 ==========
@@ -61,6 +69,15 @@ Post Notes
 * 2018/09/02 - Got the fermentor out of the fridge to finish fermentation.
 * 2018/09/03 - Beer at 21C, still bubling but weakly that first time I got it out of fridge.
 * I used Micheal Tonsmeire's hop aroma protocol: at flame out add half the hop, then 15 minutes later add the second one. This protocol is took from Mitch Steele. One other protocol that mitch suggest is for the dry hop: 12 days and then 3 days, removing the previous hop. I wonder if this isn't more valid for commercial brewers. TODO: add references.
+* Hop loose for first dry hop batch, in a bag for the second one.
+* (2018/09/15) Cold crashing
+
+Bottling Notes (2018/09/17)
+===========================
+
+* FG 1.0.10 at 17.8C
+* Targeting 3.0 CO2 volume, using 20C as highest fermentation temperature. This gives 7.7g of sugar per liter. (post note: this might have been too much). Estimated 11L of wort in the blottling bucket from the 14L that were in the fermenter. 11*7.7 = 84.7g, mesured 85g of sugar. Transfer gave 10L in the blotting bucket.
+* Bottles: 11x330mL, 12x500mL.
 
 To Read
 =======

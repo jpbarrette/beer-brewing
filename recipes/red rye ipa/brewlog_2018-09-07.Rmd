@@ -51,6 +51,8 @@ Brew Notes
 Post Brew Notes
 ===============
 
+* Sparkled dry yeast directly without rehydrating
+* (2018/09/15) Fermentor is out of the fridge. Settings for inkbird was 15.2C with 1.0C buffer, 30 minutes cooldown. Avg temp seemed to be 17C for beer itself.
 
 Bottling Notes (2018-07-27)
 ===========================
@@ -58,4 +60,31 @@ Bottling Notes (2018-07-27)
 
 Related Article/References
 ==========================
+
+Brew Notes
+==========
+
+* (17h30) Fired kettle (water was boiled before to get rid of chlorine)
+* (18h00) Mashing. Strike water was at 66.8C. With grains, water was at 63.8C. (lost 100/150 mL because of bad manipulation)
+* (18h38) Mashing out. Wort was at 64C. Preboil gravity 1.040 at 58.7C.
+* (19h20) Water is boiling. Adding bittering hop.
+* (19h50) Flame out. Put half of aroma hop. Wort at 98C
+* (20h08) Put second batch of aroma hop at 85C
+* (20h30) 13 Liters in fermentor at 33C. OG 1.060 at 28C.
+* (21h20) Cleanup finished.
+* (2018/07/28 8h) Sprinkled dry yeast in the fermenter.
+
+Post Notes
+==========
+
+* (2018/09/20 22h00) Dry hopping of Simcoe 80g, in a bag.
+* The fact that I had only 13 liters might be due to the fact that I milled the rye very fine. This might have cause the grains to retain more wort than usual. This is consistent with previous red rye ipa.
+
+Bottling Notes (2018/09/28)
+===========================
+
+* 10.5L, 7g/L, put 74g.
+* 1.010 FG at 16.2C.
+* 12x750mL + 4x330mL
+* Too much hop for the hop bag, use two next time
 
