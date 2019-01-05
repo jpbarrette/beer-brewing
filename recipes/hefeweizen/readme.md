@@ -10,3 +10,5 @@
 * https://byo.com/article/german-hefe-techniques/
 * https://byo.com/recipe/german-wheat-hefeweizen/
 * https://byo.com/article/american-wheat-style-of-the-month/
+* Discussion about malt bill (Munich): https://www.homebrewtalk.com/forum/threads/50-50-munich-wheat-hefe-delicious.301118/
+* Also about munich and vienna: https://byo.com/article/using-munich-vienna-malts-tips-from-the-pros/
