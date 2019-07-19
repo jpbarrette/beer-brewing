@@ -1,0 +1,54 @@
+---
+title: "Modern Times Fortunate Island"
+output: github_document
+---
+
+Inspiration from [here](https://www.themadfermentationist.com/2012/11/hoppy-wheat-with-march-pump-hoprocket.html) and [here](https://www.themadfermentationist.com/2014/03/fortunate-islands-homebrewed-yeast.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/654729/fortunate-island-2018-05-20)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/american wheat ale/brewlog_2019-01-02.xml'
+#hop_price_override = 10.25
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 50ppm
+    * Sulfate: 150ppm
+    * Chloride: 150ppm
+    * Mash pH: 5.35
+* Water Additions:
+    * 1.6g Gypsum
+    * 3.11g Calcium Chloride (2.4g, but since it's 77%, 3.11g)
+    * 5.2g Epsom Salt
+    * 4.0ml Lactic Acid (80%) (Was 5.0ml, but since I boiled the water before the mash, I decided to add less acid)
+    * 2.4g Salt
+* Adjusted Water Profile:
+    * Calcium: 113ppm
+    * Magnesium: 30ppm
+    * Sodium: 50ppm
+    * Sulfate: 152ppm
+    * Chloride: 155ppm
+    * Bicarbonate: 9ppm
+    * Estimated Mash pH: 5.37
+
+Brew Notes
+==========
+
+
+
+Post Notes
+==========
+
+Bottling Notes (2018/08/05)
+==========================
+
+
+
+
