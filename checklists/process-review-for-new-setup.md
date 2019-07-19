@@ -35,8 +35,13 @@ use hose barb fitting to send into the cube.
 
 * buy demineralized water (https://www.brassageamateur.com/forum/ftopic34734.html)
 * Need rope loops?
+* Review available hops
+* Check readme with Michael's Tonsmeire tip on dry hopping directly when going into fermenter.
+* Review brunwater's numbers
 
+## Brewing Day
 
+* Test hydrometer
 * check kettle sealing
 * protect the small ss items with starsan 
 * buy rope loops

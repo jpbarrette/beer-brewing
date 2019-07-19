@@ -10,11 +10,13 @@ get_whole_hops_volume = function(wholehop_weight) {
   wholehop_weight*138.3/28.3495
 }
 
-system_variables <- list(trub_size = 0.0, boiloff_rate = 2.75, grain_absorption = 0.48, kettle_size = 27)
+boiloff_rate = if (exists("boiloff_rate_override")) boiloff_rate_override else 2.75
+
+system_variables <- list(trub_size = 0.0, boiloff_rate = boiloff_rate, grain_absorption = 0.48, kettle_size = 27)
 
 create_metric_recipe <- function(grain_weight, wholehop_weight, grain_temp, batch_size, mash_temp, boil_time, system_variables) {
   # thermodynamic const is 0.2 for metric system
-  list(grain_weight = grain_weight, grain_temp = grain_temp, batch_size = batch_size, mash_temp = mash_temp, boil_time = boil_time, trub_size = system_variables$trub_size + get_whole_hops_volume(whole_hops_weight), boiloff_rate = system_variables$boiloff_rate, grain_absorption = system_variables$grain_absorption, thermodynamic_constant = 0.41) 
+  list(grain_weight = grain_weight, grain_temp = grain_temp, batch_size = batch_size, mash_temp = mash_temp, boil_time = boil_time, trub_size = system_variables$trub_size + get_whole_hops_volume(whole_hops_weight), boiloff_rate = system_variables$boiloff_rate, grain_absorption = system_variables$grain_absorption, thermodynamic_constant = 0.41)
 }
 
 get_water_needed = function (recipe) {
