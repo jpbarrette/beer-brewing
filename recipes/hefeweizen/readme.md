@@ -12,3 +12,7 @@
 * https://byo.com/article/american-wheat-style-of-the-month/
 * Discussion about malt bill (Munich): https://www.homebrewtalk.com/forum/threads/50-50-munich-wheat-hefe-delicious.301118/
 * Also about munich and vienna: https://byo.com/article/using-munich-vienna-malts-tips-from-the-pros/
+
+
+* Question 2019-01-04: Recommanded calcium is 40-100ppm, in my wheat recipes I endup with 113ppm. Is it too much (even though I doubt it)?
+    * https://homebrew.stackexchange.com/questions/6167/what-calcium-ppm-is-required-in-the-mash-for-alpha-amylase-stability-and-mash-ef
