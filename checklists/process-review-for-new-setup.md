@@ -41,6 +41,7 @@ use hose barb fitting to send into the cube.
 
 ## Brewing Day
 
+* calcium chloride
 * Test hydrometer
 * check kettle sealing
 * protect the small ss items with starsan 
