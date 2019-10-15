@@ -1,0 +1,126 @@
+---
+title: "American Rye Stout"
+output: github_document
+---
+
+This is the [second iteration](./brewlog_2018-06-28.md) of [Zymurgy Magazine's Stout Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/). However, this time around the recipe is highly modified (to a point where it doesn't bear any resemblance) to become an American Rye Stout. This recipe was built and adjusted with [Brewer's Friend website](https://www.brewersfriend.com/homebrew/recipe/view/698901/american-rye-stout). The water profile adjustment by reading Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html) recipe.
+
+The first recipe had a thin mouthfeel. To remedy that I decided to confirm a tendency this recipe had, meaning using rye as a "body builder".
+
+```{r setup-variables, echo=FALSE}
+
+boiloff_rate_override = 4.0
+brewlog_file = '../recipes/american stout/brewlog_2019-10-19.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+Water Information
+=================
+
+Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html) Water Profile:
+
+* Calcium(Ca): 104.0 ppm
+* Magnesium(Mg): 15.0 ppm
+* Sodium(Na): 64.0 ppm
+* Sulfate(SO4): 102.0 ppm
+* Chloride(Cl): 76.0 ppm
+* biCarbonate(HCO3): 280.0 ppm
+
+Target Water Profile:
+
+* Sodium: *100.0 ppm*
+* Sulfate: 100.0 ppm
+* Chloride: *150 ppm*
+* Mash pH: 5.32
+
+Water Additions:
+
+* Gypsum: 2.2
+* Calcium Cloride: 0g
+* Epsom Salt: 3.5g
+* Lactic Acid (80%): 2.8ml
+* Table Salt (non-iodized): 6.5g
+
+Resulting Water:
+
+* Calcium(Ca): 69.0 ppm
+* Magnesium(Mg): 17.0 ppm
+* Sodium(Na): 97 ppm
+* Sulfate(SO4): 102 ppm
+* Chloride(Cl): 150 ppm
+* Bicarbonate: 100 ppm
+* Estimated Mash pH: 5.32
+
+Related Article/References
+==========================
+
+* Forum Question: [https://www.homebrewersassociation.org/forum/index.php?topic=7780.0](What hops with rye?)
+
+Recipe Changes
+==============
+
+
+Notes
+=====
+
+
+* Black Full in brewnwater
+
+https://byo.com/article/add-body-to-your-beer/
+
+
+http://univers-biere.net/br_flocons.php
+https://www.brassageamateur.com/forum/ftopic3396-60.html
+https://www.brassageamateur.com/forum/ftopic13884.html
+https://www.brassageamateur.com/forum/ftopic16089-10.html
+http://www.madalchemist.com/archives/mashing-the-perfect-sweet-stout/
+http://beersmith.com/blog/2016/02/11/the-sulfate-to-chloride-ratio-and-beer-bitterness/
+
+https://byo.com/article/adjuncts-explained/
+https://byo.com/article/fabulous-foam/
+https://byo.com/mr-wizard/steeping-oats-and-flaked-barley/
+https://byo.com/article/maximizing-mouthfeel-tips-from-the-pros/
+https://byo.com/article/using-munich-vienna-malts-tips-from-the-pros/
+https://www.morebeer.com/articles/using_munich_malt
+http://brulosophy.com/2017/12/11/grain-comparison-vienna-malt-vs-munich-malt-exbeeriment-results/
+https://drinks.seriouseats.com/2012/11/what-does-pilsner-malt-taste-like-munich-vienna-2-row.html
+https://www.winning-homebrew.com/malts.html
+http://www.brew-dudes.com/munich-malt-flavor/815
+https://byo.com/article/grain-on-the-brain/
+
+
+Rye or Body:
+
+* https://byo.com/article/brewing-with-rye-tips-from-the-pros/
+* https://www.morebeer.com/articles/brewwithrye
+* https://www.homebrewtalk.com/forum/threads/how-much-rye-is-too-much.243866/
+* http://www.howtobrew.com/book/section-4/experiment/increasing-the-body
+* https://knowledgeandpraxis.wordpress.com/2012/12/29/brewing-with-rye/
+* http://allaboutbeer.com/article/rye-homebrew-recipes/
+
+Make one small change per brew, omitting the change in the next brew if it doesn't get you closer to your target.
+
+Carapils?
+
+Brewing Notes
+=============
+
+* (18h30) Fired kettle, put salts and acid.
+* (19h14) Mashing, strike water at 71C, mash temp was 69.3
+* (19h45) Getting grains bag out. Preboil gravity 1.042 at 63.5C. 17.7cm of wort depth.
+* (20h20) Worst is boiling; added columbus hop.
+* (20h52) Stopped kettle, fired immersion chiller to bring to whirlpool temp, to then let it at that temperature. Choose 75C since I used Simcoe instead of Cascade hop (6 to 13.9% AA); so I didn't wanted to make it too bitter (lower temp means lower alpha-acid isomerization). Added whirlpool hop for 30 minutes.
+* (21h23) Started cooling. Stopped it when reached 30C (my tap water is around 21C). Put wort in fermentor without putting yeast yet. Put fermenter in fridge (was set at "6" setting). 
+* (22h02) Finished cleaning.
+* (2018/09/21 6h30) Added yeast in fermentor. Wort at 11C. 
+* (2018/10/16 18h) Cold crashed
+
+Bottling Notes (2018/10/16)
+===========================
+
+* FG: 1.018 at 27C
+* 11L gave 12x750mL+7x330mL
+* 7x11L, 77g of sugar

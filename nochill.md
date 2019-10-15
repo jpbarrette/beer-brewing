@@ -29,5 +29,12 @@ So:
 * Whirlpool: FWH? + hopstand, then cube: http://brulosophy.com/2015/02/09/a-year-of-no-chill-lessons-from-a-secret-xbmt/#comment-23694, Strategy: FWH, then do as before (30 minutes boil), then hopstand for 30 minutes with spider, then it should be around 85C, then put in sanitized cube
 * No Whilpool: Add whilpool hop in the cube at 80C
 
+# Risks of Botulism
+
+* https://beerandwinejournal.com/botulism/
+* https://suigenerisbrewing.blogspot.com/2014/02/fact-or-fiction-can-pathogens-survive.html
+* https://yeastmongers.pinchito.com/post/141539572770/no-chill-and-botulism
+
+Essentially, if I cool down in a few hours (3-4) and pitch morning after it should be okay.
 
 
