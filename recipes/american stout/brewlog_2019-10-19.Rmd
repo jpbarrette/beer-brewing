@@ -3,9 +3,11 @@ title: "American Rye Stout"
 output: github_document
 ---
 
-This is the [second iteration](./brewlog_2018-06-28.md) of [Zymurgy Magazine's Stout Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/). However, this time around the recipe is highly modified (to a point where it doesn't bear any resemblance) to become an American Rye Stout. This recipe was built and adjusted with [Brewer's Friend website](https://www.brewersfriend.com/homebrew/recipe/view/698901/american-rye-stout). The water profile adjustment by reading Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html) recipe.
+This is the [third iteration](./brewlog_2018-10-19.md) of [Zymurgy Magazine's Stout Trousers](https://www.homebrewersassociation.org/homebrew-recipe/stout-trousers/). However, this time around the recipe is highly modified (to a point where it doesn't bear any resemblance) to become an American Rye Stout. This recipe was built and adjusted with [Brewer's Friend website](https://www.brewersfriend.com/homebrew/recipe/view/895830/american-rye-stout). The water profile adjustment by reading Michael Tonsmeire's [Oatmeal Coffee Stout #3](https://www.themadfermentationist.com/2013/01/oatmeal-cofee-stout-3-bigger-and-bolder.html) recipe.
 
 The first recipe had a thin mouthfeel. To remedy that I decided to confirm a tendency this recipe had, meaning using rye as a "body builder".
+
+I simplified the recipe (rounder quantities) and I lowered down the IBU so that it's calculated as 30 minutes boil, but IBU will be higher because of the nochill method (calculate 40 minutes as mentionned below).
 
 ```{r setup-variables, echo=FALSE}
 
@@ -62,9 +64,12 @@ Related Article/References
 Recipe Changes
 ==============
 
+* In this batch, I'll use starsan in the jerry can before putting the hop. This way, I'll just put the jerry can right away in the river to cool down (and not fear infection).
 
 Notes
 =====
+
+
 
 
 * Black Full in brewnwater

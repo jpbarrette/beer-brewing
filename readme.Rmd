@@ -109,6 +109,13 @@ is this a problem (however I use irish moss)? https://beerandbrewing.com/diction
 * http://www.homebrewtalk.com/showthread.php?t=87785
 * [Take the Luck out of Clear Beer with Irish Moss](https://www.homebrewersassociation.org/how-to-brew/take-the-luck-out-of-clear-beer-with-irish-moss/). After reading this article and this [one](http://brulosophy.com/2018/04/30/the-impact-of-various-fining-methods-on-new-england-ipa-exbeeriment-results/), I wonder if it's of any use since I transfer everying into the fermenter.
 
+### How much Potassium Metabisulphite should I add to dechlorinate water?
+
+Looking at the following [water report](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau) for my region, I can see that I have 0.08mg/L of chlorine in my water. Calculating with given [table](https://lifefermented.wordpress.com/2013/05/19/brew-tips-chlorine-removal-with-campden-tablets/
+):
+
+1.564 * 0.08mg/L * 27L = 3.37g ~ 5g (5g is nothing specially when we look at the fact americans put around 175mg per 5 gallon/20L)
+
 ## Pending Questions
 
 * Reading the following article [https://byo.com/article/recipe-design-ethos/](Recipe Design Ethos), from Michael Tonsmeire, I was wondering:
