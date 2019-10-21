@@ -134,8 +134,11 @@ Tools
 
 # Next 
 
-* [American Rye Stout](recipes/american%20stout/brewlog.md)
-* [Red Rye IPA](recipes/red%20rye%20ipa/brewlog_2018-07-08.md)
+(to finish actual grains)
+* Hefeweizen (finishing Munich + Halertau hop)
+* Black IPA (finishing Carafa Special I)
+* India Red Ale (finishing Carafa Special I + CaraMunich I + CaraHell)
+* Imperial IPA (finishing Carawheat)
 
 # Recipes to Explore
 
