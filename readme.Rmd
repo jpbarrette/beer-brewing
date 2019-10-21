@@ -134,7 +134,8 @@ Tools
 
 # Next 
 
-(to finish actual grains)
+Those recipe are meant to finish my grain bags:
+
 * Hefeweizen (finishing Munich + Halertau hop)
 * Black IPA (finishing Carafa Special I)
 * India Red Ale (finishing Carafa Special I + CaraMunich I + CaraHell)
