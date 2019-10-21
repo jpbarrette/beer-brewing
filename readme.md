@@ -146,6 +146,7 @@ Those recipe are meant to finish my grain bags:
 -   Black IPA (finishing Carafa Special I)
 -   India Red Ale (finishing Carafa Special I + CaraMunich I + CaraHell)
 -   Imperial IPA (finishing Carawheat)
+-   Red Rye IPA (but with Melanoidin malt this time, as the original recipe?)
 
 Recipes to Explore
 ==================
