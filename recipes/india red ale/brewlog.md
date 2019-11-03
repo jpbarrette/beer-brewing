@@ -65,20 +65,43 @@ System Variables
 
 -   Kettle Size: Liters
 -   Trub: 0 Liters, TODO: show the actual trub + whole hops lost
--   Boiloff Rate: 2.75 Liters/Hour
+-   Boiloff Rate: 4 Liters/Hour
 -   Grain Absorption: 0.48 Liters/Kilograms of grain
 -   TODO: Bottled Volume (minus yeast cake)
 
 Recipe Output
 -------------
 
--   Total Water Needed: 26.21 Liters
+-   Total Water Needed: 26.83 Liters
 -   Strike Water Temp: 68.1 Celsius
--   Total Mash Volume: 30.14 Liters
--   Preboil Wort: 23.38 Liters
+-   Total Mash Volume: 30.77 Liters
+-   Preboil Wort: 24 Liters
 -   Postboil Wort: 22 Liters
 -   Into Fermenter: 22 Liters
 -   Estimated cost: 40.8 (1.85/L)
+
+Water Information
+=================
+
+-   Target Water Profile:
+    -   Sodium: 50ppm
+    -   Sulfate: 150ppm
+    -   Chloride: 150ppm
+    -   Mash pH: 5.30
+-   Water Additions:
+    -   2.2g Gypsum
+    -   4.4g Calcium Chloride (3.4g, but since it's 77%, 4.4g)
+    -   7.3g Epsom Salt
+    -   5.9ml Lactic Acid (80%)
+    -   3.4g Salt
+-   Adjusted Water Profile:
+    -   Calcium: 113ppm
+    -   Magnesium: 30ppm
+    -   Sodium: 50ppm
+    -   Sulfate: 152ppm
+    -   Chloride: 155ppm
+    -   Bicarbonate: 66ppm
+    -   Estimated Mash pH: 5.30
 
 Preparation Notes
 =================
