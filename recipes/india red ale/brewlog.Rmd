@@ -1,0 +1,23 @@
+---
+title: "Mad Fermentiationist's India Red Ale"
+output: github_document
+---
+
+
+[original recipe](https://www.themadfermentationist.com/2011/04/india-red-ale-recipe.html), [mine](https://www.brewersfriend.com/homebrew/recipe/view/899493/mad-fermentationist-s-india-red-ale)
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/india red ale/brewlog.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+# Preparation Notes
+
+# Notes
+
+# Bottling Notes
+
