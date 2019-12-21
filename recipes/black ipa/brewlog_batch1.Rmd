@@ -1,0 +1,55 @@
+---
+title: "Modern Times Fortunate Island"
+output: github_document
+---
+
+Recipe is adapted from [BYO's Barley Brown’s Brewing Co.’s Turmoil Cascadian Dark Ale clone](https://byo.com/article/specialty-ipa-layout/).
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/black ipa/brewlog_batch1.xml'
+boiloff_rate_override = 4
+#hop_price_override = 10.25
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 50ppm
+    * Sulfate: 150ppm
+    * Chloride: 150ppm
+    * Mash pH: 5.4
+* Water Additions:
+    * 2.2g Gypsum
+    * 4.25g Calcium Chloride (3.3g, but since it's 77%, 4.25g)
+    * 7g Epsom Salt
+    * 0ml Lactic Acid (80%) 
+    * 3.2g Salt
+* Adjusted Water Profile:
+    * Calcium: 113ppm
+    * Magnesium: 30ppm
+    * Sodium: 50ppm
+    * Sulfate: 152ppm
+    * Chloride: 155ppm
+    * Bicarbonate: 166ppm
+    * Estimated Mash pH: 5.46
+
+Brew Notes
+==========
+
+
+
+Post Notes
+==========
+
+Bottling Notes (2018/08/05)
+==========================
+
+
+
+
