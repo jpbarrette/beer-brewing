@@ -15,6 +15,7 @@ Lactose References:
 
 * https://www.brassageamateur.com/forum/ftopic10948.html
 * https://www.brassageamateur.com/forum/ftopic22760.html
+* https://www.reddit.com/r/Homebrewing/comments/a39nbo/milk_stout_when_to_add_lactose/
 
 Where to buy Lactose:
 
@@ -30,3 +31,14 @@ Why flaked barley:
 
 
 
+# Using coconut in brewing
+
+Neil Fisher, co-owner of WeldWerks Brewing Company, for [Craft Beer and Brewing](https://www.youtube.com/watch?v=O9IvBx_cwjA):
+
+* flaked unsweetened coconut: toating in oven a pound at a time over a oven sheet, at ~200C (400F), 4 minutes then flip and another 4 minutes. For more info, please look at video
+
+
+https://www.homebrewtalk.com/brewing-with-coconut.html
+
+* https://www.thehopandgrain.com.au/coconut-beer/
+  TODO: look at fat washing
