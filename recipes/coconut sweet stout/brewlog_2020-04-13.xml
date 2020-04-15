@@ -14,7 +14,7 @@
   <NOTES></NOTES>
   <PRIMARY_TEMP>17</PRIMARY_TEMP>
   <EST_COLOR>34.11</EST_COLOR>
-  <IBU>27.26</IBU>
+  <IBU>21.52</IBU>
   <IBU_METHOD>Tinseth</IBU_METHOD>
   <EST_ABV>5.44</EST_ABV>
   <EST_OG>1.055 sg</EST_OG>
@@ -114,26 +114,26 @@
   </FERMENTABLES>
   <HOPS>
    <HOP>
-    <NAME>Columbus</NAME>
+    <NAME>Magnum</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>13.1</ALPHA>
-    <AMOUNT>0.005</AMOUNT>
+    <ALPHA>9.8</ALPHA>
+    <AMOUNT>0.02</AMOUNT>
     <USE>Boil</USE>
     <USER_HOP_USE>Boil</USER_HOP_USE>
     <TIME>30</TIME>
-    <FORM>Pellet</FORM>
+    <FORM>Leaf</FORM>
    </HOP>
    <HOP>
-    <NAME>Simcoe</NAME>
+    <NAME>Cascade</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>12.1</ALPHA>
-    <AMOUNT>0.1</AMOUNT>
+    <ALPHA>7</ALPHA>
+    <AMOUNT>0.05</AMOUNT>
     <USE>Aroma</USE>
     <USER_HOP_USE>Whirlpool</USER_HOP_USE>
-    <TIME>30</TIME>
+    <TIME>15</TIME>
     <HOP_TEMP>90</HOP_TEMP>
-    <FORM>Pellet</FORM>
-    <UTILIZATION>3.9</UTILIZATION>
+    <FORM>Leaf</FORM>
+    <UTILIZATION>3.6</UTILIZATION>
     <TEMPERATURE>90</TEMPERATURE>
    </HOP>
   </HOPS>
