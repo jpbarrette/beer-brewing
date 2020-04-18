@@ -23,12 +23,12 @@ Water Information
     * Sodium: 50ppm
     * Sulfate: 150ppm
     * Chloride: 150ppm
-    * Mash pH: 5.4
+    * Mash pH: 5.34
 * Water Additions:
     * 2.2g Gypsum
     * 4.25g Calcium Chloride (3.3g, but since it's 77%, 4.25g)
     * 7g Epsom Salt
-    * 0ml Lactic Acid (80%) 
+    * 2ml Lactic Acid (80%) 
     * 3.2g Salt
 * Adjusted Water Profile:
     * Calcium: 113ppm

@@ -42,3 +42,23 @@ https://www.homebrewtalk.com/brewing-with-coconut.html
 
 * https://www.thehopandgrain.com.au/coconut-beer/
   TODO: look at fat washing
+
+# Using Lactose
+
+I forgot to put the lactose during the boil. So I need to add it while fermenting:
+
+* At maximum density at warmish room temp (25°C), you get a ~ 1.064 lactose-water solution. (Solubility is 216 g/l, whereas sucrose's solubility is 2100 g/l). [ref](https://www.reddit.com/r/Homebrewing/comments/54n663/forgot_the_lactose_in_a_sweet_stout_can_i_add/)
+
+## Quantity
+
+Rough guidance for 5 gallons:
+
+* 0.25 lb lactose just takes the edge off dryness
+* 0.5 lb lactose begins to taste slightly sweet and full
+* 0.75 lb lactose is a good moderate amount to be obvious without overpowering
+* 1 lb lactose is positively sweet and full
+* >1 lb lactose in 5 gallons tastes over the top syrupy
+
+For milk stout, if not sure how much to use, start with 0.5-0.75 lb in the initial boil. Then on packaging day, give it a taste and if needed, add 0.25 lb at a time until it tastes right to you.
+
+[ref]](https://www.reddit.com/r/Homebrewing/comments/a39nbo/milk_stout_when_to_add_lactose/)

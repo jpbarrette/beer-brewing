@@ -15,7 +15,7 @@ Recipe
 -   Original Gravity: 1.068
 -   Final Gravity: 1.013
 -   ABV (standard): 7.21%
--   IBU (tinseth): 76.55
+-   IBU (tinseth): 81.29
 -   SRM (morey): 33.14
 
 Fermentables
@@ -32,13 +32,11 @@ Fermentables
 Hops
 ====
 
-| Amount | Variety  | Type |    AA| Use     | Time    |
-|:-------|:---------|:-----|-----:|:--------|:--------|
-| 50g    | Magnum   | Leaf |  15.0| Boil    | 30 mins |
-| 50g    | Amarillo | Leaf |   7.5| Aroma   | 15 mins |
-| 50g    | Cascade  | Leaf |   7.5| Aroma   | 15 mins |
-| 50g    | Amarillo | Leaf |   7.5| Dry Hop | 4 days  |
-| 50g    | Cascade  | Leaf |   7.5| Dry Hop | 4 days  |
+| Amount | Variety | Type   |    AA| Use     | Time    |
+|:-------|:--------|:-------|-----:|:--------|:--------|
+| 50g    | CTZ     | Pellet |  14.5| Boil    | 60 mins |
+| 50g    | Cascade | Pellet |   5.6| Aroma   | 30 mins |
+| 50g    | Cascade | Pellet |   5.6| Dry Hop | 8 days  |
 
 Yeasts
 ======
@@ -59,13 +57,13 @@ Recipe Parameter
 -   Grain Temp: 20 Celsius
 -   Batch Size: 21 Liters
 -   Mash Temp: NA Celsius
--   Boil Time: 30 Minutes
+-   Boil Time: 60 Minutes
 
 System Variables
 ----------------
 
 -   Kettle Size: Liters
--   Trub: 0.73 Liters, TODO: show the actual trub + whole hops lost
+-   Trub: 0 Liters, TODO: show the actual trub + whole hops lost
 -   Boiloff Rate: 4 Liters/Hour
 -   Grain Absorption: 0.48 Liters/Kilograms of grain
 -   TODO: Bottled Volume (minus yeast cake)
@@ -73,13 +71,13 @@ System Variables
 Recipe Output
 -------------
 
--   Total Water Needed: 27.04 Liters
+-   Total Water Needed: 28.31 Liters
 -   Strike Water Temp: NA Celsius
--   Total Mash Volume: 31.65 Liters
--   Preboil Wort: 23.73 Liters
--   Postboil Wort: 21.73 Liters
+-   Total Mash Volume: 32.91 Liters
+-   Preboil Wort: 25 Liters
+-   Postboil Wort: 21 Liters
 -   Into Fermenter: 21 Liters
--   Estimated cost: 45.2 (2.15/L)
+-   Estimated cost: 38.2 (1.82/L)
 
 Water Information
 =================
@@ -88,12 +86,12 @@ Water Information
     -   Sodium: 50ppm
     -   Sulfate: 150ppm
     -   Chloride: 150ppm
-    -   Mash pH: 5.4
+    -   Mash pH: 5.34
 -   Water Additions:
     -   2.2g Gypsum
     -   4.25g Calcium Chloride (3.3g, but since it's 77%, 4.25g)
     -   7g Epsom Salt
-    -   0ml Lactic Acid (80%)
+    -   2ml Lactic Acid (80%)
     -   3.2g Salt
 -   Adjusted Water Profile:
     -   Calcium: 113ppm
