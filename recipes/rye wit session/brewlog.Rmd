@@ -21,33 +21,33 @@ brewlog_file = '../recipes/rye wit session/brewlog.xml'
 * I could seperate the water in two kettle to warm faster?
 * I think I should have a lower "liquor-to-grist" ratio on this brew. I might not use the full volume to help alpha amylaze. *UPDATE* I won't do that, but it means the efficiency might be lower. So, 3.3% is good because if I'm going lower, it's okay.
 * For this recipe I want to keep a similiar hop profile than my american pale ale or american wheat ale (but not the IBU). This will allow us to compare the malt profile.
-* Reading the following [article](https://www.themadfermentationist.com/2017/06/23-abv-session-neipa.html) from Michael Tonsmeire, I decided to go with the following water profile:
-    * Cloride: 150ppm
-    * Sulfate: 100ppm
+* Reading the following [article](https://www.themadfermentationist.com/2017/06/23-abv-session-neipa.html) from Michael Tonsmeire, I decided to go with the following water profile (~BruNWater's Yellow Balanced):
+    * Cloride: 60ppm
+    * Sulfate: 75ppm
     * Sodium: 50ppm
-* I decided to go with 3% ABV to do a safer bet.
+* I decided to go with 4% ABV to do a safer bet.
 
 # Water Information
 
 * Target Water Profile:
     * Sodium: 50ppm
-    * Sulfate: 100ppm
-    * Chloride: 150ppm
+    * Sulfate: 75ppm
+    * Chloride: 60ppm
     * Mash pH: 5.35
 * Water Additions:
-    * 1.5g Gypsum
-    * 2.99 Calcium Chloride (2.3g, but since it's 77%, 2.99g)
-    * 2.5g Epsom Salt
-    * 4.0ml Lactic Acid (80%)
-    * 2.3g Salt
+    * 3.1g Gypsum
+    * 0g Calcium Chloride 
+    * 0g Epsom Salt
+    * 9.0ml Lactic Acid (80%)
+    * 3g Salt
 * Adjusted Water Profile:
-    * Calcium: 113ppm
-    * Magnesium: 17ppm
+    * Calcium: 79ppm
+    * Magnesium: 4ppm
     * Sodium: 50ppm
-    * Sulfate: 102ppm
-    * Chloride: 155ppm
-    * Bicarbonate: 34ppm
-    * Estimated Mash pH: 5.38
+    * Sulfate: 76ppm
+    * Chloride: 77ppm
+    * Bicarbonate: -60ppm?
+    * Estimated Mash pH: 5.34
 
 
 
