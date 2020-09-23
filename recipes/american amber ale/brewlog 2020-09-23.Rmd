@@ -1,0 +1,38 @@
+---
+title: "Brewdog 5AM Saint-inspired Amber Ale"
+output: github_document
+---
+
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/american amber ale/brewlog 2020-09-23.xml'
+boiloff_rate_override = 4
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 50ppm
+    * Sulfate: 100ppm
+    * Chloride: 100ppm
+    * Mash pH: 5.29
+* Water Additions:
+    * 2.6g Gypsum/Calcium Sulfate
+    * 1.3g Calcium Cloride (1g, but since it's 77%, 1.3g)
+    * 2.6g Epsom Salt/Magnesium Sulfate
+    * 6.5ml Lactic Acid (80%) 
+    * 3.1g Salt
+* Adjusted Water Profile:
+    * Calcium: 88ppm
+    * Magnesium: 14ppm
+    * Sodium: 50ppm
+    * Sulfate: 101ppm
+    * Chloride:102ppm
+    * Bicarbonate: 9ppm
+    * Estimated Mash pH: 5.29
