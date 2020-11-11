@@ -1,0 +1,52 @@
+---
+title: "Speidel's Hefeweizen"
+output: github_document
+---
+
+
+```{r setup-variables, echo=FALSE}
+
+boiloff_rate_override = 4.0
+brewlog_file = '../recipes/hefeweizen/brewlog_2020-11-11.xml'
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 50ppm
+    * Sulfate: 50ppm
+    * Chloride: 75ppm
+    * Mash pH: 5.30
+* Water Additions:
+    * 1.1g Gypsum
+    * 0g Calcium Chloride 
+    * 1.4g Epsom Salt
+    * 9ml Lactic Acid (80%)
+    * 3.4g Salt
+* Adjusted Water Profile:
+    * Calcium: 59ppm
+    * Magnesium: 9ppm
+    * Sodium: 50ppm
+    * Sulfate: 48ppm
+    * Chloride: 77ppm
+    * Bicarbonate: -35ppm
+    * Estimated Mash pH: 5.43
+
+Preparation Notes
+=================
+
+Brew Notes
+==========
+* 38°C Mash in
+* 45°C ferulic acid rest: 15 min 
+* (55°C protein rest:5 min)
+* 63°C maltose rest: 30 min
+* 72°C saccharification rest: 30 min
+
+
