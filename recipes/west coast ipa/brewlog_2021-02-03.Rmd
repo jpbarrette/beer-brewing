@@ -1,0 +1,42 @@
+---
+title: "Modern Times Fortunate Island"
+output: github_document
+---
+
+```{r setup-variables, echo=FALSE}
+
+brewlog_file = '../recipes/west coast ipa/brewlog_2021-02-03.xml'
+boiloff_rate_override = 4
+#hop_price_override = 10.25
+
+```
+
+```{r test-include, child = '../../scripts/brewlog-template.Rmd'}
+```
+
+Water Information
+=================
+
+* Target Water Profile:
+    * Sodium: 25ppm
+    * Sulfate: 250ppm
+    * Chloride: 40ppm
+    * Mash pH: 5.35
+* Water Additions:
+    * 13.5g Gypsum
+    * 7.5ml Lactic Acid (80%) 
+    * 1.8g Salt
+* Adjusted Water Profile:
+    * Calcium: 155ppm
+    * Magnesium: 4ppm
+    * Sodium: 50ppm
+    * Sulfate: 258ppm
+    * Chloride: 77ppm
+    * Bicarbonate: 9ppm
+    * Estimated Mash pH: 5.34
+
+
+
+
+
+
