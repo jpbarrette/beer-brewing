@@ -248,3 +248,14 @@ Some people were suggesting to filter the wort:
 
   - I can’t do the real BIAB “no sparge” because my kettle simply
     doesn’t have the full volume.
+
+# Recipe Research
+
+## Dank IPAs
+
+* https://www.beeradvocate.com/community/threads/the-most-dank-hops.27881/
+* https://beermaverick.com/the-dank-connection-between-weed-and-hops/
+* https://www.homebrewersassociation.org/forum/index.php?topic=15170.0
+* https://www.clawhammersupply.com/blogs/moonshine-still-blog/west-coast-ipa
+* [CAN YOU BREW IT: THE DANKNESS – THE JAMIL SHOW 10-24-11](http://www.thebrewingnetwork.com/post1655/)
+* https://www.homebrewtalk.com/threads/dank-ipa-recipe.571868/

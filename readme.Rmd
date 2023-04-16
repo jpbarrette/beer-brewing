@@ -111,10 +111,13 @@ is this a problem (however I use irish moss)? https://beerandbrewing.com/diction
 
 ### How much Potassium Metabisulphite should I add to dechlorinate water?
 
-Looking at the following [water report](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau) for my region, I can see that I have 0.08mg/L of chlorine in my water. Calculating with given [table](https://lifefermented.wordpress.com/2013/05/19/brew-tips-chlorine-removal-with-campden-tablets/
-):
+Looking at the following [water report](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau) for my region, I can see that I have 0.08mg/L of chlorine in my water. Calculating with given [table](https://lifefermented.wordpress.com/2013/05/19/brew-tips-chlorine-removal-with-campden-tablets/):
 
-1.564 * 0.08mg/L * 27L = 3.37g ~ 5g (5g is nothing specially when we look at the fact americans put around 175mg per 5 gallon/20L)
+1.564 * 0.2mg/L * 30L = 9.33mg ~ 10mg (10mg is nothing specially when we look at the fact americans put around 175mg per 5 gallon/20L)
+
+### Can I use Pilsner Malt in IPAs?
+
+* https://brewchatter.com/blogs/brewchatter-homebrewing-blog/the-magic-of-pilsner-malt
 
 ## Pending Questions
 
@@ -131,6 +134,8 @@ Tools
 
 * https://biabbrewing.com/brew-day-prep/biab-calculators-and-software/
 * http://www.biabrewer.info/
+* https://beermaverick.com/hops/
+* https://www.reddit.com/r/Homebrewing/comments/qkeu2e/list_of_hop_flavor_profiles_and_how_to_obtain/
 
 # Next 
 
@@ -166,6 +171,13 @@ Those recipe are meant to finish my grain bags:
     * Session Oatmeal Stout
     * Imperial Stout
 * [Founders Kentucky Breakfast Stout](https://www.homebrewersassociation.org/homebrew-recipe/kentucky-breakfast-stout/)
+* [Stone IPA]()
+  * https://www.brewersfriend.com/homebrew/recipe/view/419660/stone-ipa-clone
+  * https://www.homebrewtalk.com/threads/stone-ipa-clone-comparison-you-pick-the-real-one.33213/
+  * https://www.homebrewtalk.com/threads/stone-ipa-clone-help.132616/
+  * https://www.homebrewersassociation.org/attachments/0000/6351/doubleIPA.pdf
+* Three Floyds Brewing Zombie Dust IPA Clone
+  * https://www.homebrewersassociation.org/homebrew-recipe/three-floyds-brewing-zombie-dust-ipa-clone/
 
 Books Whishlist
 ---------------
@@ -183,6 +195,11 @@ Equipment Whishlist
    * [Malt Mill 3 Roller](https://www.themaltmiller.co.uk/product/malt-mill-3-roller/)
    * [Malt Muncher](https://www.morebeer.com/products/malt-muncher-3-roller-grain-mill.html)
    * [MattMill Classic](http://www.mattmill.de/mattmill-klassik/)
+
+Tips
+----
+
+* How to ["BIAB hoisting with a ratchet pulley, rev 1"](https://www.homebrewtalk.com/threads/biab-hoisting-with-a-ratchet-pulley-rev-1.623808/)
 
 Shops (France)
 --------------

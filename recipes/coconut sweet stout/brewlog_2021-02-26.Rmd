@@ -12,7 +12,7 @@ I simplified the recipe (rounder quantities) and I lowered down the IBU so that 
 ```{r setup-variables, echo=FALSE}
 
 boiloff_rate_override = 4.0
-brewlog_file = '../recipes/coconut sweet stout/brewlog_2020-04-13.xml'
+brewlog_file = '../recipes/coconut sweet stout/brewlog_2021-02-26.xml'
 
 ```
 

@@ -120,6 +120,40 @@ Looking at the following [water report](https://solidarites-sante.gouv.fr/sante-
 
 1.564 \* 0.08mg/L \* 27L = 3.37g ~ 5g (5g is nothing specially when we look at the fact americans put around 175mg per 5 gallon/20L)
 
+### How to get rid of Chill Haze?
+
+* https://byo.com/article/conquer-chill-haze/
+* https://byo.com/article/fining-agents-tips-from-the-pros/
+* https://byo.com/article/tips-from-the-pros-beer-clarity/
+* https://craftbeerclub.com/blog/post/about-chill-haze-formation
+* https://winning-homebrew.com/no-chill-brewing.html
+* https://brewersanonymous.org/2019/01/10/no-chill-method-or-madness/
+
+Research
+--------
+
+* https://byo.com/article/all-about-brett/?utm_source=Brew+Your+Own+-+Live&utm_campaign=6e098c42c3-EMAIL_CAMPAIGN_2018_07_05_03_45_COPY_02&utm_medium=email&utm_term=0_b55e7c72d8-6e098c42c3-62132839&mc_cid=6e098c42c3&mc_eid=02ece4fb38
+
+## Hoppy Sour beers
+
+* https://byo.com/article/hoppy-sour-beers/?utm_source=Brew+Your+Own+-+Live&utm_campaign=6e098c42c3-EMAIL_CAMPAIGN_2018_07_05_03_45_COPY_02&utm_medium=email&utm_term=0_b55e7c72d8-6e098c42c3-62132839&mc_cid=6e098c42c3&mc_eid=02ece4fb38
+
+## Saison
+
+* [Brown Saison with Cascade](https://phdinbeer.com/2014/08/24/recipe-21-brown-saison-with-cascade-hops-batch-2014-16/)
+
+## Grisette
+
+* http://www.milkthefunk.com/wiki/Grisette
+* https://mydigitalpublication.com/publication/frame.php?i=489473&p=&pn=&ver=html5
+* http://lamateurdebiere.com/category/styles-de-bieres/grisette/
+* https://bisonbrew.com/how-to-brew-grisette/
+* https://lostcompassbrewing.wordpress.com/2016/10/05/brewing-two-iterations-of-a-grisette/
+* https://www.brassageamateur.com/forum/ftopic29688.html
+* https://www.themadfermentationist.com/2014/06/american-saison-reimagining-farmhouse.html
+* https://www.experimentalbrew.com/recipes/little-grisette-could
+* https://byo.com/article/all-about-brett/?utm_source=Brew+Your+Own+-+Live&utm_campaign=6e098c42c3-EMAIL_CAMPAIGN_2018_07_05_03_45_COPY_02&utm_medium=email&utm_term=0_b55e7c72d8-6e098c42c3-62132839&mc_cid=6e098c42c3&mc_eid=02ece4fb38
+
 Pending Questions
 -----------------
 
