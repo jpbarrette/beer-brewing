@@ -118,7 +118,7 @@ is this a problem (however I use irish moss)? <https://beerandbrewing.com/dictio
 
 Looking at the following [water report](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau) for my region, I can see that I have 0.08mg/L of chlorine in my water. Calculating with given [table](https://lifefermented.wordpress.com/2013/05/19/brew-tips-chlorine-removal-with-campden-tablets/):
 
-1.564 \* 0.08mg/L \* 27L = 3.37g ~ 5g (5g is nothing specially when we look at the fact americans put around 175mg per 5 gallon/20L)
+1.564 \* 0.08mg/L \* 27L = 3.37mg ~ 5mg (5mg is nothing specially when we look at the fact americans put around 175mg per 5 gallon/20L)
 
 ### How to get rid of Chill Haze?
 
